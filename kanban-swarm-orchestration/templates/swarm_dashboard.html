@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Рой · Swarm Monitor</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d1117;color:#e6edf3;font:15px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;padding:28px}
+h1{font-size:21px;font-weight:600;margin-bottom:2px}
+.sub{color:#8b949e;font-size:13px;margin-bottom:22px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(255px,1fr));gap:14px;margin-bottom:26px}
+.card{background:#161b22;border:1px solid #30363d;border-radius:12px;padding:16px;position:relative;overflow:hidden}
+.card.running{border-color:#2f81f7;box-shadow:0 0 0 1px #2f81f733,0 0 26px #2f81f71f}
+.card.done{border-color:#238636}
+.card.blocked{opacity:.62}
+.card.todo{opacity:.5}
+.card.running::after{content:"";position:absolute;top:0;left:-45%;width:45%;height:2px;background:linear-gradient(90deg,transparent,#2f81f7,transparent);animation:sweep 1.7s infinite}
+@keyframes sweep{to{left:100%}}
+.face{font-size:30px;line-height:1;margin-bottom:9px;display:block}
+.card.running .face{animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{50%{transform:scale(1.14)}}
+.nm{font-weight:600;font-size:15px}
+.duty{color:#8b949e;font-size:12px;margin:3px 0 11px}
+.pill{display:inline-block;font-size:11px;font-weight:600;padding:3px 9px;border-radius:20px;text-transform:uppercase;letter-spacing:.4px}
+.p-running{background:#1f6feb33;color:#58a6ff}
+.p-done{background:#23863633;color:#3fb950}
+.p-todo{background:#8b949e26;color:#8b949e}
+.p-blocked{background:#9e6a0326;color:#d29922}
+h2{font-size:13px;color:#8b949e;text-transform:uppercase;letter-spacing:.7px;margin:0 0 11px}
+.panel{background:#161b22;border:1px solid #30363d;border-radius:12px;padding:16px;margin-bottom:16px}
+.f{display:flex;justify-content:space-between;padding:7px 0;border-bottom:1px solid #21262d;font-size:14px}
+.f:last-child{border:0}
+.no{color:#6e7681}.yes{color:#3fb950;font-variant-numeric:tabular-nums}
+.act{font-family:ui-monospace,Consolas,monospace;font-size:12px;color:#8b949e;padding:7px 0;border-bottom:1px solid #21262d}
+.act:last-child{border:0}
+.act b{color:#e6edf3;font-weight:600}
+.dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:#3fb950;margin-right:7px;animation:blink 1.4s infinite}
+@keyframes blink{50%{opacity:.25}}
+</style>
+</head>
+<body>
+<h1>🐝 Рой</h1>
+<div class="sub"><span class="dot"></span><span id="ts">подключение…</span></div>
+<div class="grid" id="agents"></div>
+<div class="panel"><h2>Чем заняты прямо сейчас</h2><div id="act"></div></div>
+<div class="panel"><h2>Файлы результата</h2><div id="files"></div></div>
+<script>
+const kb = n => n ? (n/1024).toFixed(1).replace('.',',')+' КБ' : null;
+const RU = {running:'работает',done:'готово',todo:'в очереди',blocked:'ждёт',ready:'запускается'};
+async function tick(){
+  let d; try{ d = await (await fetch('/api')).json(); }catch(e){ return; }
+  document.getElementById('ts').textContent =
+    'обновлено ' + new Date(d.ts*1000).toLocaleTimeString('ru-RU');
+  document.getElementById('agents').innerHTML = (d.tasks||[]).map(t=>`
+    <div class="card ${t.status}">
+      <span class="face">${t.face}</span>
+      <div class="nm">${t.name}</div>
+      <div class="duty">${t.duty}</div>
+      <span class="pill p-${t.status}">${RU[t.status]||t.status}</span>
+    </div>`).join('') || '<div class="panel">нет карточек</div>';
+  document.getElementById('act').innerHTML = (d.log||[]).map(l=>
+    `<div class="act">${l.face} <b>${l.who}</b> · ${l.line}</div>`).join('')
+    || '<div class="act">тихо — воркеры между шагами</div>';
+  const rows = Object.entries(d.files||{}).concat(
+                 Object.entries(d.reviews||{}).map(([k,v])=>['REVIEW/'+k,v]));
+  document.getElementById('files').innerHTML = rows.map(([f,s])=>
+    `<div class="f"><span>${f}</span><span class="${s?'yes':'no'}">${s?kb(s):'ещё нет'}</span></div>`
+  ).join('');
+}
+tick(); setInterval(tick,5000);
+</script>
+</body>
+</html>

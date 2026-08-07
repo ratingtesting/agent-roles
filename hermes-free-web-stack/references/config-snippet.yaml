@@ -1,0 +1,30 @@
+# config.yaml snippet for free web stack
+
+Add this to `~/.hermes/config.yaml` (or the profile-specific config):
+
+```yaml
+web:
+  backend: crawl4ai
+  search_backend: ddgs
+  extract_backend: crawl4ai
+  use_gateway: false
+browser:
+  cloud_provider: local
+  use_gateway: false
+```
+
+## Verifying
+
+After applying, confirm no paid services are referenced:
+
+```bash
+hermes config show | grep -iE "(firecrawl|browser-use|use_gateway: true)"
+```
+
+Expected: no matching lines (exit code 1).
+
+## Notes
+
+- The `web.backend` setting is the main switch; `search_backend` and `extract_backend` are sub-settings.
+- Setting `use_gateway: false` prevents the Nous managed gateway from being used as a fallback (which would bill for Firecrawl/Browser Use).
+- The `web-crawl4ai` plugin must be enabled (`hermes plugins enable web-crawl4ai`).

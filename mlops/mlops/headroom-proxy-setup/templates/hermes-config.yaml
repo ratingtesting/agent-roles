@@ -1,0 +1,37 @@
+# Minimal Hermes config.yaml for headroom proxy integration
+# Save as ~/.hermes/config.yaml (or merge into existing)
+
+model:
+  default: "SuperCombo_256k_100"
+  provider: "custom:9router"
+  base_url: http://127.0.0.1:8787/v1    # headroom proxy → upstream localhost:20128
+
+agent:
+  max_turns: 150
+  verbose: false
+  reasoning_effort: medium
+
+# ── Headroom proxy (compression) ──────────────────────────
+# Старые прямые адреса (для отката, закомментировать base_url выше и раскомментировать ниже):
+#   9router:            http://localhost:20128/v1
+#   agentrouter-openai: https://agentrouter.org/v1
+#   agentrouter-claude: https://agentrouter.org
+custom_providers:
+  - name: 9router
+    base_url: http://127.0.0.1:8787/v1    # headroom proxy → upstream localhost:20128
+    key_env: API_9ROUTER_KEY
+    api_mode: chat_completions
+  - name: freellmapi                        # direct, no proxy
+    base_url: http://127.0.0.1:31415/v1
+    key_env: API_FREELLMAPI_KEY
+    api_mode: chat_completions
+  - name: agentrouter-openai
+    base_url: http://127.0.0.1:8788/v1    # headroom proxy → upstream agentrouter.org/v1
+    key_env: API_AGENTROUTER_KEY
+    api_mode: chat_completions
+    discover_models: false
+  - name: agentrouter-claude
+    base_url: http://127.0.0.1:8788      # headroom proxy → upstream agentrouter.org (Anthropic)
+    key_env: API_AGENTROUTER_KEY
+    api_mode: anthropic_messages
+    discover_models: false

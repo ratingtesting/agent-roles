@@ -1,0 +1,24 @@
+# Hermes Skills Repository
+# Local versioning of all agent roles across profiles
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary
+*.tmp
+*.temp
+.cache/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local

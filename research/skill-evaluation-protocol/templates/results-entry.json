@@ -1,0 +1,16 @@
+{
+  "run_id": "<RUN_ID>",
+  "model": "<MODEL_NAME>",
+  "tier_by_benchmark": "<TIER_BASIS>",
+  "sector": <SECTOR_NUMBER>,
+  "test_id": "<TEST_ID>",
+  "verdict": "<VERDICT>",
+  "control_fact": "<brief evidence from control>",
+  "treatment_fact": "<brief evidence from treatment>",
+  "discriminates": <true/false>,
+  "self_report_mismatch": <true/false>,
+  "api_calls_control": <integer>,
+  "api_calls_treatment": <integer>,
+  "evidence": "<description of evidence>",
+  "artifact_path": "<relative paths to artifacts>"
+}
