@@ -2,9 +2,13 @@
 
 **Source:** `C:\Users\Unicorn\AppData\Local\hermes\profiles\app\skills` (synced to `default` and `marketplace` profiles)
 
-**Total skills:** 378 (22 critical roles + 356 others)
+**Commercial policy:** NO attribution required — only MIT (upstream `agency-agents`, verified on GitHub) + 22 modified critical roles. All 61 Hermes-native skills not from `agency-agents` are EXCLUDED.
 
-**Last sync:** 2026-08-08
+**Total skills:** 317 (22 critical modified roles + 295 agency-agents)
+
+**Upstream:** https://github.com/msitarzewski/agency-agents — MIT License (Commercial use ✓, Modification ✓, no attribution)
+
+**Last sync:** 2026-08-08 (post-compliance-filter)
 
 ---
 
