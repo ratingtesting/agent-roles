@@ -1,0 +1,37 @@
+{
+  "policy": "commercial-no-attribution — keep ONLY agency-agents (upstream MIT, verified on GitHub) + 22 modified critical roles; exclude all other Hermes-native skills",
+  "upstream_license": {
+    "repo": "https://github.com/msitarzewski/agency-agents",
+    "license": "MIT License",
+    "verified_on_github": true,
+    "permissions": ["Commercial use", "Modification", "Distribution", "Private use"],
+    "conditions": ["License and copyright notice"],
+    "attribution_required": false,
+    "note": "MIT kept per iron rule (only CC-BY*/Proprietary/GPL excluded)"
+  },
+  "counts": {
+    "repo_dirs_before": 378,
+    "upstream_agent_slugs": 292,
+    "critical_roles_modified": 22,
+    "kept_total": 317,
+    "deleted_total": 61
+  },
+  "kept": {
+    "agency_agents": 290,
+    "critical_modified": 22,
+    "pure_ours_not_in_upstream": ["founder-visionary"]
+  },
+  "deleted": [
+    "adversarial-skill-qa","agent-authoring","apple","autonomous-ai-agents","brainstorming",
+    "campaign-architect","chief-simplicity-officer","clean-architecture","clean-code-review","coding-framework",
+    "creative","data-science","devops","dispatching-parallel-agents","distribution","email","email-marketing-strategist",
+    "executing-plans","execution-loop","executive-brief","finishing-a-development-branch","flutter-architect",
+    "frontend-design","github","godmode","graphify","hermes","hermes-free-web-stack","kanban-swarm-orchestration",
+    "keelwright","kilocli-coding-agent","media","meta","mlops","mvp-experiment-designer","note-taking","product",
+    "productivity","qa","quickstart","ralph-mode","receiving-code-review","requesting-code-review","research",
+    "smart-home","social-media","software-development","subagent-driven-development","swarm-synthesis",
+    "systematic-debugging","test-driven-development","unlock-architect","using-git-worktrees","using-superpowers",
+    "ux-heuristics","verification-before-completion","web","writing","writing-plans","writing-skills","yuanbao"
+  ],
+  "note_delete_scope": "Deleted from C:\\Projects\\hermes-skills-repo ONLY. Hermes profiles (app/default/marketplace) untouched — per user instruction 'удаляй из репо, не из гермеса'."
+}
