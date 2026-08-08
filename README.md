@@ -10,7 +10,7 @@
 
 **Last sync:** 2026-08-08 (post-compliance-filter)
 
-**GitHub (private):** https://github.com/ratingtesting/hermes-agent-roles
+**GitHub (private):** https://github.com/ratingtesting/agent-roles
 
 **Version:** `v1.0` — 317 agents, commercial-no-attribution filtered, 22 enhanced via `agent-authoring` + `web_search`.
 
