@@ -10,7 +10,16 @@
 
 **Last sync:** 2026-08-08 (post-compliance-filter)
 
+**GitHub (private):** https://github.com/ratingtesting/hermes-agent-roles
+
+**Version:** `v1.0` — 317 agents, commercial-no-attribution filtered, 22 enhanced via `agent-authoring` + `web_search`.
+
 ---
+
+## Documentation
+- **[AGENTS_REGISTRY.md](AGENTS_REGISTRY.md)** — full provenance: every agent → source repo → URL → license
+- **[ENHANCEMENTS.md](ENHANCEMENTS.md)** — what was weak upstream, how we fixed it, fact-checked benchmarks
+- **[PROVENANCE.json](PROVENANCE.json)** — machine-readable license filter results
 
 ## Structure
 
