@@ -10,11 +10,12 @@ Source repositories and provenance for every agent role in this repo.
 | agency-agents | https://github.com/msitarzewski/agency-agents | MIT | ✅ GitHub | ✅ Used (290 matched, 22 enhanced) |
 | Ours (22 critical) | N/A — original authoring on top of agency-agents | MIT-compatible | N/A | ✅ Enhanced 6-slot versions |
 | keelwright (author-owned) | https://github.com/ratingtesting/keelwright | MIT-0 | ✅ GitHub (origin/master) | ✅ Author's own skill, reinstalled 2026-08-09 |
+| 6 author-owned roles | N/A — created by ratingtesting, not in agency-agents | MIT-0 | N/A | ✅ Project-specific, author-owned |
 
 ## License filter (per commercial-no-attribution policy)
 
-- ✅ Loaded (no attribution required): **318** (22 enhanced critical + 295 agency-agents + 1 author-owned keelwright, all MIT/MIT-0)
-- 🚫 Excluded (not from agency-agents / may need attribution): **60** Hermes-native skills (godmode, graphify, mlops, creative, etc. — keelwright removed from this list, it is author-owned MIT-0)
+- ✅ Loaded (no attribution required): **324** (22 enhanced critical + 295 agency-agents + 1 author-owned keelwright + 6 author-owned roles, all MIT/MIT-0)
+- 🚫 Excluded (not from agency-agents / may need attribution): **58** Hermes-native skills (godmode, graphify, mlops, creative, etc. — keelwright + 6 author roles removed from this list)
 - ⚠️ Unverified (empty license): 0
 
 ## Author-Owned Skill: keelwright
@@ -29,6 +30,19 @@ Source repositories and provenance for every agent role in this repo.
 | Purpose | Engine for vibe-coders and loop-coders who ship AI-generated code. Covers 28 known failure modes: SQL injection, hardcoded secrets, hallucinated packages (slopsquatting), reward hacking (AI deletes tests to pass), doom loops (runaway token burn), false reports, missing auth, business logic bypasses, over-engineering. Machine-enforced guardrails (not prompt suggestions). Autonomy dial (Autopilot/Checkpoint/Copilot). Self-healing loop with circuit-breaker limits and Phoenix restart. Plain-language reports for non-developers. Proven by adversarial A/B testing: Keelwright Score (KDS) up to 83/100 on strong models (SWE-bench 78%). |
 | Why included | Author's own commercial skill; MIT-0 permits commercial use without attribution. Reinstalled from `origin/master` on 2026-08-09 after stale local copy was found. |
 | Platforms | windows, linux, macos |
+
+## Author-Owned Roles (created by ratingtesting, NOT in agency-agents)
+
+All verified absent from upstream `msitarzewski/agency-agents`. Moved to repo top-level with `author: ratingtesting` + `license: MIT-0` injected.
+
+| # | Role | Source (Hermes) | License | Notes |
+|---|------|-----------------|---------|-------|
+| 1 | `chief-product-architect` | product/chief-product-architect (рой 2) | MIT-0 | Fuses many docs into one master spec |
+| 2 | `killer-review-protocol` | product/killer-review-protocol (рой 2) | MIT-0 | Attacks a spec, proves it will fail |
+| 3 | `risk-reviewer-legal` | product/risk-reviewer-legal (рой 2) | MIT-0 | Telegram/TON/payments/referral legal risk |
+| 4 | `founder-decision-auditor` | product/founder-decision-auditor (рой 4) | MIT-0 | Audit Master decisions vs project docs, read-only |
+| 5 | `mvp-experiment-designer` | mvp-experiment-designer (рой 4) | MIT-0 | MVP experiment design |
+| 6 | `swarm-synthesis` | swarm-synthesis (рой 4) | MIT-0 | Multi-agent swarm synthesis |
 
 
 ## 22 Enhanced Critical Roles (modified by us)

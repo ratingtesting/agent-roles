@@ -4,7 +4,7 @@
 
 **Commercial policy:** NO attribution required — only MIT (upstream `agency-agents`, verified on GitHub) + 22 modified critical roles. All 61 Hermes-native skills not from `agency-agents` are EXCLUDED.
 
-**Total skills:** 318 (22 critical modified roles + 295 agency-agents + 1 author-owned keelwright/MIT-0)
+**Total skills:** Commercial-no-attribution filtered — **324** (22 enhanced critical + 295 agency-agents + 1 author-owned keelwright/MIT-0 + 6 author-owned roles/MIT-0)
 
 **Upstream:** https://github.com/msitarzewski/agency-agents — MIT License (Commercial use ✓, Modification ✓, no attribution)
 
