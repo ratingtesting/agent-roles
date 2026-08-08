@@ -1,25 +1,39 @@
 {
-  "policy": "commercial-no-attribution — keep ONLY agency-agents (upstream MIT, verified on GitHub) + 22 modified critical roles; exclude all other Hermes-native skills",
-  "upstream_license": {
-    "repo": "https://github.com/msitarzewski/agency-agents",
-    "license": "MIT License",
-    "verified_on_github": true,
-    "permissions": ["Commercial use", "Modification", "Distribution", "Private use"],
-    "conditions": ["License and copyright notice"],
-    "attribution_required": false,
-    "note": "MIT kept per iron rule (only CC-BY*/Proprietary/GPL excluded)"
-  },
+  "policy": "commercial-no-attribution — keep ONLY: (1) agency-agents upstream MIT (verified on GitHub), (2) 22 modified critical roles, (3) author-owned keelwright (MIT-0, author=ratingtesting). Exclude all other Hermes-native skills.",
+  "upstream_licenses": [
+    {
+      "repo": "https://github.com/msitarzewski/agency-agents",
+      "license": "MIT License",
+      "verified_on_github": true,
+      "permissions": ["Commercial use", "Modification", "Distribution", "Private use"],
+      "conditions": ["License and copyright notice"],
+      "attribution_required": false,
+      "note": "MIT kept per iron rule (only CC-BY*/Proprietary/GPL excluded)"
+    },
+    {
+      "repo": "https://github.com/ratingtesting/keelwright",
+      "license": "MIT-0",
+      "verified_on_github": true,
+      "permissions": ["Commercial use", "Modification", "Distribution", "Private use"],
+      "conditions": [],
+      "attribution_required": false,
+      "author": "ratingtesting",
+      "note": "Author-owned skill. Originally local SKILL.md had stale CC-BY-4.0; actual GitHub main/master is MIT-0. Reinstalled from origin/master on 2026-08-09."
+    }
+  ],
   "counts": {
     "repo_dirs_before": 378,
     "upstream_agent_slugs": 292,
     "critical_roles_modified": 22,
-    "kept_total": 317,
-    "deleted_total": 61
+    "author_owned": 1,
+    "kept_total": 318,
+    "deleted_total": 60
   },
   "kept": {
     "agency_agents": 290,
     "critical_modified": 22,
-    "pure_ours_not_in_upstream": ["founder-visionary"]
+    "pure_ours_not_in_upstream": ["founder-visionary"],
+    "author_owned": ["keelwright"]
   },
   "deleted": [
     "adversarial-skill-qa","agent-authoring","apple","autonomous-ai-agents","brainstorming",
@@ -27,11 +41,12 @@
     "creative","data-science","devops","dispatching-parallel-agents","distribution","email","email-marketing-strategist",
     "executing-plans","execution-loop","executive-brief","finishing-a-development-branch","flutter-architect",
     "frontend-design","github","godmode","graphify","hermes","hermes-free-web-stack","kanban-swarm-orchestration",
-    "keelwright","kilocli-coding-agent","media","meta","mlops","mvp-experiment-designer","note-taking","product",
+    "kilocli-coding-agent","media","meta","mlops","mvp-experiment-designer","note-taking","product",
     "productivity","qa","quickstart","ralph-mode","receiving-code-review","requesting-code-review","research",
     "smart-home","social-media","software-development","subagent-driven-development","swarm-synthesis",
     "systematic-debugging","test-driven-development","unlock-architect","using-git-worktrees","using-superpowers",
     "ux-heuristics","verification-before-completion","web","writing","writing-plans","writing-skills","yuanbao"
   ],
-  "note_delete_scope": "Deleted from C:\\Projects\\hermes-skills-repo ONLY. Hermes profiles (app/default/marketplace) untouched — per user instruction 'удаляй из репо, не из гермеса'."
+  "note_delete_scope": "Deleted from C:\\Projects\\hermes-skills-repo ONLY. Hermes profiles (app/default/marketplace) untouched — per user instruction 'удаляй из репо, не из гермеса'.",
+  "note_keelwright": "keelwright was initially deleted as part of the 61 Hermes-native skills. User clarified it is HIS OWN skill and must stay. Reinstalled from origin/master (MIT-0) across all 3 Hermes profiles + repo on 2026-08-09."
 }

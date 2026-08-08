@@ -9,12 +9,26 @@ Source repositories and provenance for every agent role in this repo.
 |------------|-----|---------|----------|--------|
 | agency-agents | https://github.com/msitarzewski/agency-agents | MIT | ✅ GitHub | ✅ Used (290 matched, 22 enhanced) |
 | Ours (22 critical) | N/A — original authoring on top of agency-agents | MIT-compatible | N/A | ✅ Enhanced 6-slot versions |
+| keelwright (author-owned) | https://github.com/ratingtesting/keelwright | MIT-0 | ✅ GitHub (origin/master) | ✅ Author's own skill, reinstalled 2026-08-09 |
 
 ## License filter (per commercial-no-attribution policy)
 
-- ✅ Loaded (no attribution required): **317** (22 enhanced critical + 295 agency-agents, all MIT)
-- 🚫 Excluded (not from agency-agents / may need attribution): **61** Hermes-native skills (keelwright, godmode, graphify, mlops, creative, etc.)
+- ✅ Loaded (no attribution required): **318** (22 enhanced critical + 295 agency-agents + 1 author-owned keelwright, all MIT/MIT-0)
+- 🚫 Excluded (not from agency-agents / may need attribution): **60** Hermes-native skills (godmode, graphify, mlops, creative, etc. — keelwright removed from this list, it is author-owned MIT-0)
 - ⚠️ Unverified (empty license): 0
+
+## Author-Owned Skill: keelwright
+
+| Field | Value |
+|-------|-------|
+| Name | `keelwright` |
+| Author | ratingtesting (https://github.com/ratingtesting) |
+| Repository | https://github.com/ratingtesting/keelwright |
+| License | **MIT-0** (verified on GitHub origin/master; stale local copy had CC-BY-4.0, reinstalled) |
+| Version | 1.4.1 |
+| Purpose | Engine for vibe-coders and loop-coders who ship AI-generated code. Covers 28 known failure modes: SQL injection, hardcoded secrets, hallucinated packages (slopsquatting), reward hacking (AI deletes tests to pass), doom loops (runaway token burn), false reports, missing auth, business logic bypasses, over-engineering. Machine-enforced guardrails (not prompt suggestions). Autonomy dial (Autopilot/Checkpoint/Copilot). Self-healing loop with circuit-breaker limits and Phoenix restart. Plain-language reports for non-developers. Proven by adversarial A/B testing: Keelwright Score (KDS) up to 83/100 on strong models (SWE-bench 78%). |
+| Why included | Author's own commercial skill; MIT-0 permits commercial use without attribution. Reinstalled from `origin/master` on 2026-08-09 after stale local copy was found. |
+| Platforms | windows, linux, macos |
 
 
 ## 22 Enhanced Critical Roles (modified by us)
