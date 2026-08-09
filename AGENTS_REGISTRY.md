@@ -43,6 +43,7 @@ All verified absent from upstream `msitarzewski/agency-agents`. Moved to repo to
 | 4 | `founder-decision-auditor` | product/founder-decision-auditor (рой 4) | MIT-0 | Audit Master decisions vs project docs, read-only |
 | 5 | `mvp-experiment-designer` | mvp-experiment-designer (рой 4) | MIT-0 | MVP experiment design |
 | 6 | `swarm-synthesis` | swarm-synthesis (рой 4) | MIT-0 | Multi-agent swarm synthesis |
+| 7 | `agent-authoring` | agent-authoring (скилл создания/адаптации агентов, 6-слотный) | MIT-0 | Создание новых ролей: SKILL.md frontmatter + слоты Role/Context/Task/Hard Rules/Output/Dependencies; обязателен для любых новых ролей; LICENSE в `agent-authoring/LICENSE` |
 
 
 ## 22 Enhanced Critical Roles (modified by us)
