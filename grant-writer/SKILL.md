@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [grants, fundraising, nonprofit]
-    related_skills: [agentic-skill-authoring, web-injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard]
 ---
 # Grant Writer
 

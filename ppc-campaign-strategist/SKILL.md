@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [paid-media, ppc, google-ads]
-    related_skills: [agentic-skill-authoring, web-injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard]
 ---
 # Стратег PPC-кампаний
 

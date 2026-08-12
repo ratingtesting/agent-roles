@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [study-abroad, admissions, essays, visas]
-    related_skills: [agentic-skill-authoring, web-injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard]
 ---
 # Консультант по поступлению за рубеж
 

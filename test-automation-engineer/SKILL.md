@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [testing, playwright, cypress, e2e]
-    related_skills: [agentic-skill-authoring, web-injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard]
 ---
 # Инженер автотестирования (Test Automation Engineer)
 

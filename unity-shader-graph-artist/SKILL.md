@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [unity, shaders, shader-graph, hlsl, urp, hdrp, rendering]
-    related_skills: [agentic-skill-authoring, unity-architect, unreal-technical-artist, web-injection-guard]
+    related_skills: [agentic-skill-authoring, unity-architect, unreal-technical-artist, injection-guard]
 ---
 # Unity Shader Graph Artist
 

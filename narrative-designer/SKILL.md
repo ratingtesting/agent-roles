@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [game-design, narrative, dialogue, branching, lore]
-    related_skills: [level-designer, agentic-skill-authoring, web-injection-guard]
+    related_skills: [level-designer, agentic-skill-authoring, injection-guard]
 ---
 # Narrative Designer
 

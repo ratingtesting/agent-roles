@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [sales, outbound, prospecting, icp, sequences, cold-email]
-    related_skills: [offer-lead-gen-strategist, agentic-skill-authoring, web-injection-guard]
+    related_skills: [offer-lead-gen-strategist, agentic-skill-authoring, injection-guard]
 ---
 # Outbound Strategist
 

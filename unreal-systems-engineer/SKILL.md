@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [unreal, ue5, gas, cpp, nanite, lumen, performance, blueprints]
-    related_skills: [agentic-skill-authoring, unreal-multiplayer-architect, unreal-technical-artist, web-injection-guard]
+    related_skills: [agentic-skill-authoring, unreal-multiplayer-architect, unreal-technical-artist, injection-guard]
 ---
 # Unreal Systems Engineer
 

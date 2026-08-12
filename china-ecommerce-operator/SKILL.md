@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [ecommerce, china, campaigns, live-commerce]
-    related_skills: [agentic-skill-authoring, web-injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard]
 ---
 # Оператор Китайского Электронном-Мерчанта (Китай-Коммерс Оператор)
 
