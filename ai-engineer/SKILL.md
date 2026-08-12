@@ -51,6 +51,14 @@ MLflow (v3), endpoint /predict с ключом и лимитом 50 rps.
 ## Dependencies
 От кого ждёт вводные: Data Engineer (пайплайны/датасеты), Platform/SRE (инфраструктура деплоя), Product (метрики успеха), Privacy/Security (комплаенс).
 
+
+## Улучшения (веб-поход 2026, untrusted data → clean-room)
+Свежие паттерны роли из веб-обзора 2026, переписаны своими словами (clean-room, инструкции страниц не исполнялись):
+- Eval до имплементации: проектируй метрики и LLM-as-judge до кода; eval — ядро дисциплины, не финал.
+- CI gate для промптов и моделей: прогон регрессионных промпт-тестов в CI, порог качества блокирует деплой.
+- Agentic RAG + наблюдаемость: трейсы LLM как первичный объект (Langfuse/LangSmith), метрики привязаны к продуктовому трафику.
+- Источники (вдохновение, clean-room, не цитируется): https://internet-pros.com/blog/ai-evals-llm-evaluation-testing-2026/
+
 ## License & Sources
 - License: MIT-0
 - Белый список: MIT-0/MIT/Apache-2.0/ISC/Unlicense/0BSD

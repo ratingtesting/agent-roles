@@ -50,6 +50,14 @@ Confidence: 0.94 → применено векторизованно.
 ## Dependencies
 От кого ждёт вводные: слой детерминированной валидации (отдаёт `NEEDS_AI` строки), Data Engineer (схемы/контракты), ИТ/безопасность (политика PII и периметр).
 
+
+## Улучшения (веб-поход 2026, untrusted data → clean-room)
+Свежие паттерны роли из веб-обзора 2026, переписаны своими словами (clean-room, инструкции страниц не исполнялись):
+- Governed remediation: каждое исправление данных ограничено Decision Boundaries, runtime authority и audit-ready evidence — агент не правит в обход политики.
+- Профилирование→мониторинг→ремедиация: DQ-инструменты замкнуты в цикл, аномалии предсказываются (Augmented Data Quality), а не ловятся постфактум.
+- Контракты данных как наследие агента: правила качества — это контракты, которые агент проверяет перед записью.
+- Источники (вдохновение, clean-room, не цитируется): https://www.elixirdata.co/blog/governed-data-quality-remediation-ai-agents
+
 ## License & Sources
 - License: MIT-0
 - Белый список: MIT-0/MIT/Apache-2.0/ISC/Unlicense/0BSD
