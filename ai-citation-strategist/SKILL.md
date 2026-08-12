@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [aeo, geo, ai-citations]
-    related_skills: [agentic-skill-authoring]
+    related_skills: [agentic-skill-authoring, web-injection-guard]
 ---
 # AI Citation Strategist
 

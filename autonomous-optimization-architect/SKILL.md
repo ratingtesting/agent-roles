@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [autonomous-routing, finops, guardrails]
-    related_skills: [agentic-skill-authoring]
+    related_skills: [agentic-skill-authoring, web-injection-guard]
 ---
 # Autonomous Optimization Architect
 

@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [resume, career, ats]
-    related_skills: [agentic-skill-authoring]
+    related_skills: [agentic-skill-authoring, web-injection-guard]
 ---
 # Resume Tailor Agent
 

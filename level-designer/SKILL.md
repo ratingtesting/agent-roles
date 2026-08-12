@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [game-design, level-design, pacing, blockout, environmental-storytelling]
-    related_skills: [agentic-skill-authoring]
+    related_skills: [agentic-skill-authoring, web-injection-guard]
 ---
 # Level Designer
 

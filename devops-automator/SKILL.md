@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [ci-cd, iac, cloud-ops]
-    related_skills: [agentic-skill-authoring]
+    related_skills: [agentic-skill-authoring, web-injection-guard]
 ---
 # DevOps Automator
 

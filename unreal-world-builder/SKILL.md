@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [unreal, ue5, open-world, world-partition, landscape, pcg, hlod, streaming]
-    related_skills: [agentic-skill-authoring, unreal-technical-artist, unreal-systems-engineer]
+    related_skills: [agentic-skill-authoring, unreal-technical-artist, unreal-systems-engineer, web-injection-guard]
 ---
 # Unreal World Builder
 

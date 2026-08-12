@@ -8,7 +8,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [skill-authoring, agent-authoring, license-compliance, anthropic-patterns, commercial]
-    related_skills: [writing-skills, hermes-agent-skill-authoring, test-driven-development]
+    related_skills: [writing-skills, hermes-agent-skill-authoring, test-driven-development, web-injection-guard]
 ---
 
 # Agentic Skill Authoring (commercial-grade)

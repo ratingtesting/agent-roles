@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [ux, research, usability, personas, interviews, a-b-testing]
-    related_skills: [agentic-skill-authoring, ux-architect, ui-finish-gate-reviewer]
+    related_skills: [agentic-skill-authoring, ux-architect, ui-finish-gate-reviewer, web-injection-guard]
 ---
 # UX Researcher
 

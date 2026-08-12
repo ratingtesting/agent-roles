@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [security, pentest, red-team, owasp, exploitation]
-    related_skills: [incident-responder, agentic-skill-authoring]
+    related_skills: [incident-responder, agentic-skill-authoring, web-injection-guard]
 ---
 # Penetration Tester
 

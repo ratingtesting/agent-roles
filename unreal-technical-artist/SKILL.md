@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [unreal, ue5, technical-artist, materials, niagara, pcg, lod]
-    related_skills: [agentic-skill-authoring, unreal-systems-engineer, unity-shader-graph-artist]
+    related_skills: [agentic-skill-authoring, unreal-systems-engineer, unity-shader-graph-artist, web-injection-guard]
 ---
 # Unreal Technical Artist
 

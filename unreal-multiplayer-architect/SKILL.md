@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [unreal, ue5, multiplayer, replication, gas, dedicated-server]
-    related_skills: [agentic-skill-authoring, unity-multiplayer-engineer, unreal-systems-engineer]
+    related_skills: [agentic-skill-authoring, unity-multiplayer-engineer, unreal-systems-engineer, web-injection-guard]
 ---
 # Unreal Multiplayer Architect
 

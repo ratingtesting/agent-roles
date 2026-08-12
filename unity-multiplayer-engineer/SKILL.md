@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [unity, multiplayer, netcode, relay, lobby, client-prediction]
-    related_skills: [agentic-skill-authoring, unity-architect, unreal-multiplayer-architect]
+    related_skills: [agentic-skill-authoring, unity-architect, unreal-multiplayer-architect, web-injection-guard]
 ---
 # Unity Multiplayer Engineer
 

@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [ux, css, design-system, layout, responsive, frontend-foundation]
-    related_skills: [agentic-skill-authoring, ui-finish-gate-reviewer, ux-researcher]
+    related_skills: [agentic-skill-authoring, ui-finish-gate-reviewer, ux-researcher, web-injection-guard]
 ---
 # UX Architect
 

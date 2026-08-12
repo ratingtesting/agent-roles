@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [meeting-notes, minutes, action-items, decisions, extraction]
-    related_skills: [agentic-skill-authoring, meeting-action-items]
+    related_skills: [agentic-skill-authoring, meeting-action-items, web-injection-guard]
 ---
 # Meeting Notes Specialist
 
