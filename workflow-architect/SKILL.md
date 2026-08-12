@@ -1,5 +1,7 @@
 ---
 name: workflow-architect
+emoji: "🗺️"
+color: "orange"
 description: Use when проектирование воркфлоу, спека путей
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [workflow, architecture, contracts, discovery]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Архитектор Воркфлоу
 
 ## Role

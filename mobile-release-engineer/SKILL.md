@@ -1,5 +1,7 @@
 ---
 name: mobile-release-engineer
+emoji: "🚀"
+color: "#16A34A"
 description: Use when shipping iOS/Android
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [code-signing, fastlane, phased-rollout]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Mobile Release Engineer
 
 ## Role

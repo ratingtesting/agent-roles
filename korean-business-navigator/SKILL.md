@@ -1,5 +1,7 @@
 ---
 name: korean-business-navigator
+emoji: "🇰🇷"
+color: "#003478"
 description: Use when сделки и переговоры с корейским бизнесом
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [korea, b2b, culture, negotiations]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Навигатор по Корейскому Бизнесу
 
 ## Role

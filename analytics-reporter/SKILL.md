@@ -1,5 +1,7 @@
 ---
 name: analytics-reporter
+emoji: "📊"
+color: "teal"
 description: Use when анализ данных и BI-отчёты
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [analytics, bi, dashboards, kpi]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аналитик-репортёр
 
 ## Role

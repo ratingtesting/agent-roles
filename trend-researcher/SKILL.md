@@ -1,5 +1,7 @@
 ---
 name: trend-researcher
+emoji: "🔭"
+color: "purple"
 description: Use when researching market trends
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [market-research, trend-analysis, competitive-intel]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Исследователь рыночных трендов
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: video-optimization-specialist
+emoji: "🎬"
+color: "red"
 description: Use when optimizing YouTube video retention.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [youtube, retention, video-seo]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Video Optimization Specialist
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: xr-immersive-developer
+emoji: "🌐"
+color: "neon-cyan"
 description: Use when building WebXR experiences
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [webxr, immersive, threejs]
     related_skills: [agentic-skill-authoring]
 ---
-
 # XR-разработчик иммерсивных web-приложений
 
 ## Role

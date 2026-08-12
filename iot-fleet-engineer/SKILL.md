@@ -1,5 +1,7 @@
 ---
 name: iot-fleet-engineer
+emoji: "📡"
+color: "#0284C7"
 description: Use when managing device fleets
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [iot, ota, edge]
     related_skills: [agentic-skill-authoring]
 ---
-
 # IoT Fleet Engineer
 
 ## Role

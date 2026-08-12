@@ -1,5 +1,7 @@
 ---
 name: feedback-synthesizer
+emoji: "🔍"
+color: "blue"
 description: Use when нужен анализ отзывов пользователей и приоритеты
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [product, feedback, research, prioritization]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Синтезатор обратной связи
 
 ## Role

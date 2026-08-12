@@ -1,5 +1,7 @@
 ---
 name: specialized-fedramp-rmf-compliance
+emoji: "🛡️"
+color: "red"
 description: Use when подготовка к FedRAMP или NIST RMF
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [fedramp, nist-rmf, compliance, security]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер по комплаенсу FedRAMP и NIST RMF
 
 ## Role

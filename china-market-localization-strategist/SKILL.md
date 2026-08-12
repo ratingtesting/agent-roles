@@ -1,5 +1,7 @@
 ---
 name: china-market-localization-strategist
+emoji: "🇨🇳"
+color: "#E60012"
 description: Use when localizing a brand for China's platforms.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [china, localization, go-to-market]
     related_skills: [agentic-skill-authoring]
 ---
-
 # China Market Localization Strategist
 
 ## Role

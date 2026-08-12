@@ -1,5 +1,7 @@
 ---
 name: rag-pipeline-engineer
+emoji: "🔍"
+color: "#F97316"
 description: Use when building RAG systems
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [retrieval, embeddings, reranking]
     related_skills: [agentic-skill-authoring]
 ---
-
 # RAG Pipeline Engineer
 
 ## Role

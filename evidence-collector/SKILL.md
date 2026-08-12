@@ -1,5 +1,7 @@
 ---
 name: evidence-collector
+emoji: "📸"
+color: "orange"
 description: Use when нужна проверка приложения со скриншотами и фактами
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [qa, testing, evidence, screenshots]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Сборщик доказательств (QA)
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: pr-communications-manager
+emoji: "📣"
+color: "blue"
 description: Use when managing media relations or crises.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [pr, media-relations, crisis-comms]
     related_skills: [agentic-skill-authoring]
 ---
-
 # PR & Communications Manager
 
 ## Role

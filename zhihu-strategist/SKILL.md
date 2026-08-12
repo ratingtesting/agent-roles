@@ -1,5 +1,7 @@
 ---
 name: zhihu-strategist
+emoji: "🧠"
+color: "#0084FF"
 description: Use when building brand authority through Zhihu answers.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [zhihu, china, content]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Стратег Zhihu
 
 ## Role

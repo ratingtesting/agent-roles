@@ -1,5 +1,7 @@
 ---
 name: backend-architect
+emoji: "🏗️"
+color: "blue"
 description: Use when designing backend systems at scale
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [system-design, scalability, reliability]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Backend Architect
 
 ## Role

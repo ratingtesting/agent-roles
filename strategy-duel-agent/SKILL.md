@@ -1,5 +1,7 @@
 ---
 name: strategy-duel-agent
+emoji: "⚔️"
+color: "#1e90ff"
 description: "Use when стратегическая дуэль: анализ конфликта"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [game-theory, strategy, simulation]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Агент Стратегической Дуэли
 
 ## Role

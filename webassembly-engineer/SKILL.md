@@ -1,5 +1,7 @@
 ---
 name: webassembly-engineer
+emoji: "🧩"
+color: "#6D28D9"
 description: Use when портирование кода в WebAssembly
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [webassembly, performance, wasi, boundary]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер WebAssembly
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: feishu-integration-developer
+emoji: "🔗"
+color: "blue"
 description: Use when integrating Feishu/Lark
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [feishu, lark, enterprise-bots]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Feishu Integration Developer
 
 ## Role

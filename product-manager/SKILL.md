@@ -1,5 +1,7 @@
 ---
 name: product-manager
+emoji: "🧭"
+color: "blue"
 description: "Use when нужен менеджер продукта: PRD, роадмап, запуск"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [product, prd, roadmap]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Менеджер продукта
 
 ## Role

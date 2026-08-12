@@ -1,5 +1,7 @@
 ---
 name: finops-engineer
+emoji: "💰"
+color: "#0891B2"
 description: Use when cutting cloud spend
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [finops, cloud-cost, unit-economics]
     related_skills: [agentic-skill-authoring]
 ---
-
 # FinOps Engineer
 
 ## Role

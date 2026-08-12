@@ -1,5 +1,7 @@
 ---
 name: reality-checker
+emoji: "🧐"
+color: "red"
 description: Use when нужна проверка готовности к продакшену
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [qa, интеграционное-тестирование, релиз]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Интеграционный проверяющий реальность
 
 ## Role

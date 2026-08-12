@@ -1,5 +1,7 @@
 ---
 name: sales-coach
+emoji: "🏋️"
+color: "#E65100"
 description: Use when нужен коучинг sales-репов и разбор воронки
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [продажи, коучинг, воронка]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Коуч по продажам
 
 ## Role

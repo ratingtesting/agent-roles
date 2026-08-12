@@ -1,5 +1,7 @@
 ---
 name: hospitality-guest-services
+emoji: "🏨"
+color: "teal"
 description: Use when delivering hospitality guest services
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [hospitality, guest, service]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Hospitality Guest Services Agent
 
 ## Role

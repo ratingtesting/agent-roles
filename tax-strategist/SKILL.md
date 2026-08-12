@@ -1,5 +1,7 @@
 ---
 name: tax-strategist
+emoji: "🏛️"
+color: "green"
 description: Use when нужна налоговая оптимизация и комплаенс
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [tax, finance, compliance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Налоговый стратег (Tax Strategist)
 
 ## Role

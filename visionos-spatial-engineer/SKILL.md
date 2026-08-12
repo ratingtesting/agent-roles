@@ -1,5 +1,7 @@
 ---
 name: visionos-spatial-engineer
+emoji: "🥽"
+color: "indigo"
 description: Use when building visionOS spatial apps
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [visionos, spatial-computing, swiftui]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер пространственных приложений visionOS
 
 ## Role

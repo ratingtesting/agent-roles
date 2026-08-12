@@ -1,5 +1,7 @@
 ---
 name: psychologist
+emoji: "🧠"
+color: "#EC4899"
 description: Use when нужен психологический разбор персонажа
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [psychology, character, persona]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Психолог
 
 ## Role

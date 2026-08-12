@@ -1,5 +1,7 @@
 ---
 name: recruitment-specialist
+emoji: "🎯"
+color: "blue"
 description: Use when running China recruitment ops
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [recruiting, china-hr, talent]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Recruitment Specialist Agent
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: zk-steward
+emoji: "🗃️"
+color: "teal"
 description: Use when база знаний, заметки Zettelkasten
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [zettelkasten, knowledge, notes, luhmann]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Смотритель Базы Знаний (ZK Steward)
 
 ## Role

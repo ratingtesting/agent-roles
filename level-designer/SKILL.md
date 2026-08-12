@@ -1,5 +1,7 @@
 ---
 name: level-designer
+emoji: "🗺️"
+color: "teal"
 description: "Use when нужен дизайн уровней: геймплей, темп, баланс"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [game-design, level-design, pacing, blockout, environmental-storytelling]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Level Designer
 
 ## Role

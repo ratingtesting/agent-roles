@@ -1,5 +1,7 @@
 ---
 name: unreal-world-builder
+emoji: "🌍"
+color: "green"
 description: "Use when UE5 open-world: World Partition, Landscape."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [unreal, ue5, open-world, world-partition, landscape, pcg, hlod, streaming]
     related_skills: [agentic-skill-authoring, unreal-technical-artist, unreal-systems-engineer]
 ---
-
 # Unreal World Builder
 
 ## Role

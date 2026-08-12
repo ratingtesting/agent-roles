@@ -1,5 +1,7 @@
 ---
 name: geoprocessing-specialist
+emoji: "⚙️"
+color: "red"
 description: Use when нужна автоматизация обработки геоданных в ArcGIS
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, arcpy, automation, arcgis]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по геообработке
 
 ## Role

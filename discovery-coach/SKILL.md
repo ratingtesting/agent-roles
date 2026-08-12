@@ -1,5 +1,7 @@
 ---
 name: discovery-coach
+emoji: "🔍"
+color: "#5C7CFA"
 description: Use when нужен разбор техники discovery-звонков и вопросов
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [sales, coaching, discovery, questioning]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Discovery-коуч (продажи)
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: lsp-index-engineer
+emoji: "🔎"
+color: "orange"
 description: Use when building LSP code intelligence
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [lsp, code-intelligence, indexing]
     related_skills: [agentic-skill-authoring]
 ---
-
 # LSP/Index Engineer Agent
 
 ## Role

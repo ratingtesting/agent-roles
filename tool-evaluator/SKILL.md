@@ -1,5 +1,7 @@
 ---
 name: tool-evaluator
+emoji: "🔧"
+color: "teal"
 description: Use when нужна оценка и выбор инструментов
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [tooling, evaluation, roi, procurement]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Оценщик инструментов (Tool Evaluator)
 
 ## Role

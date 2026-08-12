@@ -1,5 +1,7 @@
 ---
 name: email-intelligence-engineer
+emoji: "📧"
+color: "indigo"
 description: Use when parsing email for agents
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [email-parsing, context-engineering, agents]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Email Intelligence Engineer
 
 ## Role

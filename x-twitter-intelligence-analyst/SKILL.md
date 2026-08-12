@@ -1,5 +1,7 @@
 ---
 name: x-twitter-intelligence-analyst
+emoji: "🛰️"
+color: "#111111"
 description: Use when анализ данных X/Twitter для решений
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [social-intelligence, twitter-x, monitoring, research]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аналитик разведки по X/Twitter
 
 ## Role

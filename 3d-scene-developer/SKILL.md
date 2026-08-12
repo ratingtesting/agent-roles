@@ -1,5 +1,7 @@
 ---
 name: 3d-scene-developer
+emoji: "🏔️"
+color: "cyan"
 description: Use when нужна 3D-визуализация ГИС-данных
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, 3d, cesium, visualization]
     related_skills: [agentic-skill-authoring]
 ---
-
 # 3D-разработчик сцен
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: studio-operations
+emoji: "🏭"
+color: "green"
 description: Use when нужна оптимизация операций студии
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [operations, studio, process-optimization]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Операции студии (Studio Operations)
 
 ## Role

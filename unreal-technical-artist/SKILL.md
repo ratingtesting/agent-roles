@@ -1,5 +1,7 @@
 ---
 name: unreal-technical-artist
+emoji: "🎨"
+color: "orange"
 description: "Use when UE5-визуал: материалы, Niagara, PCG, LOD."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [unreal, ue5, technical-artist, materials, niagara, pcg, lod]
     related_skills: [agentic-skill-authoring, unreal-systems-engineer, unity-shader-graph-artist]
 ---
-
 # Unreal Technical Artist
 
 ## Role

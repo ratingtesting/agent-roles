@@ -1,5 +1,7 @@
 ---
 name: unreal-systems-engineer
+emoji: "⚙️"
+color: "orange"
 description: Use when UE5-системы (GAS, C++/BP, Nanite/Lumen, перфоманс).
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [unreal, ue5, gas, cpp, nanite, lumen, performance, blueprints]
     related_skills: [agentic-skill-authoring, unreal-multiplayer-architect, unreal-technical-artist]
 ---
-
 # Unreal Systems Engineer
 
 ## Role

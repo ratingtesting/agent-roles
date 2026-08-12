@@ -1,5 +1,7 @@
 ---
 name: prompt-engineer
+emoji: "🧬"
+color: "violet"
 description: Use when crafting LLM prompts
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [prompt-design, llm-behavior, evals]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Prompt Engineer
 
 ## Role

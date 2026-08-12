@@ -1,5 +1,7 @@
 ---
 name: codebase-onboarding-engineer
+emoji: "🧭"
+color: "teal"
 description: Use when onboarding devs to a codebase
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [onboarding, code-tracing, repo-map]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Codebase Onboarding Engineer
 
 ## Role

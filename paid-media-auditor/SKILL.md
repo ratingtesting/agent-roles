@@ -1,5 +1,7 @@
 ---
 name: paid-media-auditor
+emoji: "📋"
+color: "orange"
 description: "Use when нужен аудит платного трафика: метрики, слив бюджета"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [paid-media, audit, google-ads, meta, tracking, ppc]
     related_skills: [paid-social-strategist, agentic-skill-authoring]
 ---
-
 # Paid Media Auditor
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: security-architect
+emoji: "🛡️"
+color: "red"
 description: Use when проектируется модель безопасности системы
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [безопасность, threat-model, архитектура]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Архитектор безопасности
 
 ## Role

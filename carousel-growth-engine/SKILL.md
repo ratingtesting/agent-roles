@@ -1,5 +1,7 @@
 ---
 name: carousel-growth-engine
+emoji: "🎠"
+color: "#FF0050"
 description: Use when auto-generating TikTok/IG carousels from a URL.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [carousels, tiktok, instagram, autonomous]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Carousel Growth Engine
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: esg-sustainability-officer
+emoji: "🌱"
+color: "green"
 description: Use when building ESG reporting programs
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [esg, sustainability, disclosure]
     related_skills: [agentic-skill-authoring]
 ---
-
 # ESG and Sustainability Officer
 
 ## Role

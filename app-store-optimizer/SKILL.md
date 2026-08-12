@@ -1,5 +1,7 @@
 ---
 name: app-store-optimizer
+emoji: "📱"
+color: "blue"
 description: Use when launching/app optimizing an app store listing.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [aso, app-store, conversion]
     related_skills: [agentic-skill-authoring]
 ---
-
 # App Store Optimizer
 
 ## Role

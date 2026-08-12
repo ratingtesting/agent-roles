@@ -1,5 +1,7 @@
 ---
 name: finance-tracker
+emoji: "💰"
+color: "green"
 description: Use when нужен контроль бюджета и денежных потоков компании
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [finance, budgeting, cashflow, controlling]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Финансовый контролёр
 
 ## Role

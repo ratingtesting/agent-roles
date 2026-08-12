@@ -1,5 +1,7 @@
 ---
 name: tracking-measurement-specialist
+emoji: "📡"
+color: "orange"
 description: Use when configuring ad conversion tracking
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [tracking, attribution, paid-media, analytics]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по отслеживанию и замеру конверсий
 
 ## Role

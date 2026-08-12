@@ -1,5 +1,7 @@
 ---
 name: agentic-search-optimizer
+emoji: "🤖"
+color: "#0891B2"
 description: Use when AI agents can't complete tasks on your site.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [webmcp, agentic-search, task-completion]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Agentic Search Optimizer
 
 ## Role

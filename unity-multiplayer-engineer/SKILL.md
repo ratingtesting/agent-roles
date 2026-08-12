@@ -1,5 +1,7 @@
 ---
 name: unity-multiplayer-engineer
+emoji: "🔗"
+color: "blue"
 description: "Use when Unity-мультиплер, сетевая синхронизация."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [unity, multiplayer, netcode, relay, lobby, client-prediction]
     related_skills: [agentic-skill-authoring, unity-architect, unreal-multiplayer-architect]
 ---
-
 # Unity Multiplayer Engineer
 
 ## Role

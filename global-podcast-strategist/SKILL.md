@@ -1,5 +1,7 @@
 ---
 name: global-podcast-strategist
+emoji: "🎙️"
+color: "purple"
 description: Use when launching/growing a podcast brand.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [podcast, audio, monetization]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Global Podcast Strategist
 
 ## Role

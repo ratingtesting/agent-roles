@@ -1,5 +1,7 @@
 ---
 name: ai-generated-code-security-auditor
+emoji: "🔎"
+color: "#4F46E5"
 description: Use when аудит безопасности кода от ИИ-ассистентов
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [security, ai-code, llm-apps, audit]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аудитор безопасности ИИ-сгенерированного кода
 
 ## Role

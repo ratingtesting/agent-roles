@@ -1,5 +1,7 @@
 ---
 name: video-streaming-engineer
+emoji: "🎬"
+color: "#DC2626"
 description: Use when tuning HLS/DASH delivery and player QoE.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [video, streaming, qoe]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер Видеостриминга
 
 ## Role

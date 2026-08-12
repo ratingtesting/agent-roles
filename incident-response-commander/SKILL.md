@@ -1,5 +1,7 @@
 ---
 name: incident-response-commander
+emoji: "🚨"
+color: "#e63946"
 description: Use when running prod incidents
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [incident, postmortem, on-call]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Incident Response Commander
 
 ## Role

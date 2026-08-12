@@ -1,5 +1,7 @@
 ---
 name: jira-workflow-steward
+emoji: "📋"
+color: "orange"
 description: "Use when нужна настройка Jira: workflow, статусы"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [jira, git, workflow, traceability, pull-requests, delivery]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Jira Workflow Steward
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: xiaohongshu-specialist
+emoji: "🌸"
+color: "#FF1B6D"
 description: Use when marketing lifestyle brands on Xiaohongshu.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [xiaohongshu, lifestyle, aesthetic]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Xiaohongshu Specialist
 
 ## Role

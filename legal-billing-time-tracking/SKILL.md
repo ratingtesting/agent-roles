@@ -1,5 +1,7 @@
 ---
 name: legal-billing-time-tracking
+emoji: "⏱️"
+color: "green"
 description: Use when tracking legal billing and time
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [legal, billing, revenue]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Legal Billing & Time Tracking Agent
 
 ## Role

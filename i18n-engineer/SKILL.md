@@ -1,5 +1,7 @@
 ---
 name: i18n-engineer
+emoji: "🌍"
+color: "#0EA5E9"
 description: Use when making software multilingual
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [i18n, localization, rtl]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Internationalization Engineer
 
 ## Role

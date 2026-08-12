@@ -1,5 +1,7 @@
 ---
 name: bilibili-content-strategist
+emoji: "🎬"
+color: "pink"
 description: Use when growing a brand channel on Bilibili (B站).
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [bilibili, video, community-growth]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Bilibili Content Strategist
 
 ## Role

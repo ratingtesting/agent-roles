@@ -1,5 +1,7 @@
 ---
 name: bookkeeper-controller
+emoji: "📒"
+color: "green"
 description: Use when бухгалтерия и закрытие месяца
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [accounting, controllership, close, gaap]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Бухгалтер и контроллер
 
 ## Role

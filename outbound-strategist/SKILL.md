@@ -1,5 +1,7 @@
 ---
 name: outbound-strategist
+emoji: "🎯"
+color: "#E8590C"
 description: "Use when нужен аутрич: письма, последовательности, таргет"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [sales, outbound, prospecting, icp, sequences, cold-email]
     related_skills: [offer-lead-gen-strategist, agentic-skill-authoring]
 ---
-
 # Outbound Strategist
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: unity-architect
+emoji: "🏛️"
+color: "blue"
 description: "Use when Unity-код запутан; нужна SO-архитектура."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [unity, architecture, scriptableobjects, design-patterns, refactoring]
     related_skills: [agentic-skill-authoring, unity-editor-tool-developer, unity-multiplayer-engineer]
 ---
-
 # Unity Architect
 
 ## Role

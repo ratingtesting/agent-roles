@@ -1,5 +1,7 @@
 ---
 name: automation-governance-architect
+emoji: "⚙️"
+color: "cyan"
 description: Use when governing business automation decisions
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [governance, automation, n8n]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Automation Governance Architect
 
 ## Role

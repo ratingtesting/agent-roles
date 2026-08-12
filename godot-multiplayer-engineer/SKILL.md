@@ -1,5 +1,7 @@
 ---
 name: godot-multiplayer-engineer
+emoji: "🌐"
+color: "violet"
 description: Use when нужен мультиплеер и синхронизация в Godot
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [godot, multiplayer, netcode, rpc]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Мультиплеер-инженер Godot
 
 ## Role

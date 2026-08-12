@@ -1,5 +1,7 @@
 ---
 name: xr-interface-architect
+emoji: "🫧"
+color: "neon-green"
 description: Use when designing XR spatial interfaces
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [xr, spatial-ui, ux-design]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Архитектор XR-интерфейсов
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: drupal-shopping-cart
+emoji: "🛒"
+color: "blue"
 description: Use when building Drupal Commerce
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [drupal-commerce, payments, checkout]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Drupal Shopping Cart Engineer
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: unreal-multiplayer-architect
+emoji: "🌐"
+color: "red"
 description: "Use when UE5-мультиплеер; репликация, RPC-валидация."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [unreal, ue5, multiplayer, replication, gas, dedicated-server]
     related_skills: [agentic-skill-authoring, unity-multiplayer-engineer, unreal-systems-engineer]
 ---
-
 # Unreal Multiplayer Architect
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: accounts-payable-agent
+emoji: "💸"
+color: "green"
 description: Use when executing vendor and contractor payments
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [payments, finance, automation]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Accounts Payable Agent
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: threat-intelligence-analyst
+emoji: "🔍"
+color: "#7c3aed"
 description: Use when нужна угроз-разведка и APT-профили
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [security, threat-intel, apt, mitre]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аналитик угроз-разведки (Threat Intelligence Analyst)
 
 ## Role

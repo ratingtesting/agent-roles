@@ -1,5 +1,7 @@
 ---
 name: twitter-engager
+emoji: "🐦"
+color: "#1DA1F2"
 description: Use when engaging in real-time on Twitter/X.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [twitter, real-time, thought-leadership]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Twitter Engager
 
 ## Role

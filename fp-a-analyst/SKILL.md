@@ -1,5 +1,7 @@
 ---
 name: fp-a-analyst
+emoji: "📈"
+color: "green"
 description: Use when нужен бюджет, прогноз и план-факт анализ
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [finance, planning, budgeting, variance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # FP&A-аналитик
 
 ## Role

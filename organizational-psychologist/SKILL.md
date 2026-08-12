@@ -1,5 +1,7 @@
 ---
 name: organizational-psychologist
+emoji: "🧠"
+color: "teal"
 description: Use when diagnosing team dynamics
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [org-psychology, teams, culture]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Organizational Psychologist Agent
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: cross-border-ecommerce
+emoji: "🌏"
+color: "blue"
 description: Use when вывод товара на зарубежные маркетплейсы
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ecommerce, global, logistics, compliance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по Трансграничной Электронной Коммерции
 
 ## Role

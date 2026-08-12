@@ -1,5 +1,7 @@
 ---
 name: ppc-campaign-strategist
+emoji: "💰"
+color: "orange"
 description: Use when нужна архитектура платных кампаний PPC
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [paid-media, ppc, google-ads]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Стратег PPC-кампаний
 
 ## Role

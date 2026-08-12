@@ -1,5 +1,7 @@
 ---
 name: drupal-performance
+emoji: "⚡"
+color: "blue"
 description: Use when ускорение Drupal-сайта до Core Web Vitals
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [drupal, performance, caching, core-web-vitals]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер по производительности Drupal
 
 ## Role

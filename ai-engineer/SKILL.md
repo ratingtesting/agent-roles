@@ -1,5 +1,7 @@
 ---
 name: ai-engineer
+emoji: "🤖"
+color: "blue"
 description: Use when building ML models into production
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ml, mlops, production-ai]
     related_skills: [agentic-skill-authoring]
 ---
-
 # AI Engineer
 
 ## Role

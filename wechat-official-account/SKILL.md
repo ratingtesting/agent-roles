@@ -1,5 +1,7 @@
 ---
 name: wechat-official-account
+emoji: "📱"
+color: "#09B83E"
 description: Use when ведение аккаунта WeChat (公众号)
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [wechat, content, community, china]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Менеджер Официального Аккаунта WeChat
 
 ## Role

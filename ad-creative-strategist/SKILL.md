@@ -1,5 +1,7 @@
 ---
 name: ad-creative-strategist
+emoji: "✍️"
+color: "orange"
 description: Use when креативы и тексты для платной рекламы
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [paid-media, ads, copywriting, creative]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Стратег рекламных креативов
 
 ## Role

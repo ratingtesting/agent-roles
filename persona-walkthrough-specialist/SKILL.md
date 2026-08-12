@@ -1,5 +1,7 @@
 ---
 name: persona-walkthrough-specialist
+emoji: "🎭"
+color: "#10B981"
 description: Use when нужен CRO-аудит страницы через симуляцию персоны
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [cro, ux-research, persona]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по прохождению страницы от лица персоны
 
 ## Role

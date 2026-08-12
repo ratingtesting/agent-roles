@@ -1,5 +1,7 @@
 ---
 name: corporate-training-designer
+emoji: "📚"
+color: "orange"
 description: Use when designing corporate training programs
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [training, curriculum, learning]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Corporate Training Designer
 
 ## Role

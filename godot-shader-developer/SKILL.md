@@ -1,5 +1,7 @@
 ---
 name: godot-shader-developer
+emoji: "💎"
+color: "purple"
 description: Use when нужны шейдеры и визуальные эффекты в Godot
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [godot, shaders, rendering, vfx]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Шейдер-разработчик Godot
 
 ## Role

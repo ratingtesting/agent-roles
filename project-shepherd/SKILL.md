@@ -1,5 +1,7 @@
 ---
 name: project-shepherd
+emoji: "🐑"
+color: "blue"
 description: Use when нужна координация кросс-функционального проекта
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [project-management, stakeholders]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Пастух проекта
 
 ## Role

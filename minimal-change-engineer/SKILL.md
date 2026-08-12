@@ -1,5 +1,7 @@
 ---
 name: minimal-change-engineer
+emoji: "🪡"
+color: "slate"
 description: Use when fixing with minimal diff
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [minimal-diff, scope-control, reviews]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Minimal Change Engineer
 
 ## Role

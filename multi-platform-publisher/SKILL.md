@@ -1,5 +1,7 @@
 ---
 name: multi-platform-publisher
+emoji: "📡"
+color: "#FF6B35"
 description: Use when publishing one article to CN platforms.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [publishing, china, orchestration]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Multi-Platform Publisher
 
 ## Role

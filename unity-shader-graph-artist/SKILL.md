@@ -1,5 +1,7 @@
 ---
 name: unity-shader-graph-artist
+emoji: "✨"
+color: "cyan"
 description: "Use when нужны шейдеры/эффекты Unity; URP/HDRP."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [unity, shaders, shader-graph, hlsl, urp, hdrp, rendering]
     related_skills: [agentic-skill-authoring, unity-architect, unreal-technical-artist]
 ---
-
 # Unity Shader Graph Artist
 
 ## Role

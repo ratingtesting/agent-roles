@@ -1,5 +1,7 @@
 ---
 name: test-automation-engineer
+emoji: "🎭"
+color: "#2EAD33"
 description: Use when нужна E2E-автоматизация тестов
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [testing, playwright, cypress, e2e]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер автотестирования (Test Automation Engineer)
 
 ## Role

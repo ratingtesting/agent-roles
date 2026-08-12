@@ -1,5 +1,7 @@
 ---
 name: bim-gis-specialist
+emoji: "🏗️"
+color: "gold"
 description: Use when интеграция BIM и ГИС
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [bim, gis, digital-twin, indoor]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по интеграции BIM и ГИС
 
 ## Role

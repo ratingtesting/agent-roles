@@ -1,5 +1,7 @@
 ---
 name: spatial-data-scientist
+emoji: "📊"
+color: "indigo"
 description: Use when analyzing spatial statistics or clusters.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, spatial-stats, geodata, modeling, esda]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Пространственный аналитик данных
 
 ## Role

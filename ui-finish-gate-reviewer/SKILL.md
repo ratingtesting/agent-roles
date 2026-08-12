@@ -1,5 +1,7 @@
 ---
 name: ui-finish-gate-reviewer
+emoji: "🧱"
+color: "orange"
 description: Use when UI перед релизом шаблонный; нужен pass/hold-гейт.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ui-review, design-review, finish-gate, product-ux, evidence-based]
     related_skills: [agentic-skill-authoring, ux-architect, whimsy-injector]
 ---
-
 # UI Finish-Gate Reviewer
 
 ## Role

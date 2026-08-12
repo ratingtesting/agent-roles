@@ -1,5 +1,7 @@
 ---
 name: privacy-engineer
+emoji: "🕵️"
+color: "#7E22CE"
 description: Use when engineering privacy
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [pii, consent, dsar]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Privacy Engineer
 
 ## Role

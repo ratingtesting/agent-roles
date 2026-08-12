@@ -1,5 +1,7 @@
 ---
 name: model-qa
+emoji: "🔬"
+color: "#B22222"
 description: "Use when аудит ML-модели: проверка и отчёт"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ml, qa, audit, interpretability]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по QA Моделей (Model QA)
 
 ## Role

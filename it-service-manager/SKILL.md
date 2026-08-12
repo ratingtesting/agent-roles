@@ -1,5 +1,7 @@
 ---
 name: it-service-manager
+emoji: "🖧"
+color: "blue"
 description: Use when running ITSM/ITIL
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [itsm, itil, sla]
     related_skills: [agentic-skill-authoring]
 ---
-
 # IT Service Manager
 
 ## Role

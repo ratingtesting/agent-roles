@@ -1,5 +1,7 @@
 ---
 name: performance-benchmarker
+emoji: "⏱️"
+color: "orange"
 description: "Use when нужен бенчмарк: нагрузка, метрики, скорость"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [performance, benchmarking, load-testing, web-vitals, capacity-planning]
     related_skills: [infrastructure-maintainer, agentic-skill-authoring]
 ---
-
 # Performance Benchmarker
 
 ## Role

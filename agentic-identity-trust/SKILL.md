@@ -1,5 +1,7 @@
 ---
 name: agentic-identity-trust
+emoji: "🔐"
+color: "#2d5a27"
 description: Use when нужна схема идентичности и доверия агентов
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [identity, trust, security, multi-agent]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Архитектор Идентичности и Доверия Агентов
 
 ## Role

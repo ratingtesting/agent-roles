@@ -1,5 +1,7 @@
 ---
 name: customer-success-manager
+emoji: "🌟"
+color: "green"
 description: Use when managing customer success lifecycle
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [customer-success, retention, nrr]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Customer Success Manager
 
 ## Role

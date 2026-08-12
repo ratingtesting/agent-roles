@@ -1,5 +1,7 @@
 ---
 name: ai-data-remediation-engineer
+emoji: "🧬"
+color: "green"
 description: Use when production data is broken at scale
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [data-quality, self-healing, offline-ai]
     related_skills: [agentic-skill-authoring]
 ---
-
 # AI Data Remediation Engineer
 
 ## Role

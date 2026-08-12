@@ -1,5 +1,7 @@
 ---
 name: roblox-experience-designer
+emoji: "🎪"
+color: "lime"
 description: Use when проектируются циклы вовлечённости Roblox
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [roblox, геймдизайн, монетизация]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Дизайнер Roblox-体验сов (вовлечённость и монетизация)
 
 ## Role

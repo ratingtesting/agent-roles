@@ -1,5 +1,7 @@
 ---
 name: gis-qa-engineer
+emoji: "✅"
+color: "purple"
 description: Use when нужна проверка качества геоданных и карт
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, qa, validation, metadata]
     related_skills: [agentic-skill-authoring]
 ---
-
 # ГИС-инженер по качеству
 
 ## Role

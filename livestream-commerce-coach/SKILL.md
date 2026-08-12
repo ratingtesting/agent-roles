@@ -1,5 +1,7 @@
 ---
 name: livestream-commerce-coach
+emoji: "🎙️"
+color: "#E63946"
 description: Use when training hosts for live commerce rooms.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [livestream, host-training, conversion]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Livestream Commerce Coach
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: retail-customer-returns
+emoji: "🛒"
+color: "amber"
 description: Use when processing retail returns
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [retail, returns, fraud-prevention]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Retail Customer Returns Agent
 
 ## Role

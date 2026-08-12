@@ -1,5 +1,7 @@
 ---
 name: geoai-ml-engineer
+emoji: "🤖"
+color: "green"
 description: Use when нужны ML-модели по снимкам и геоданным
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, ml, computer-vision, remote-sensing]
     related_skills: [agentic-skill-authoring]
 ---
-
 # GeoAI/ML-инженер
 
 ## Role

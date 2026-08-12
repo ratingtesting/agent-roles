@@ -1,5 +1,7 @@
 ---
 name: roblox-systems-scripter
+emoji: "🔧"
+color: "rose"
 description: Use when пишется серверная логика и Luau-системы Roblox
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [roblox, luau, безопасность]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Системный сценарист Roblox (платформенный инженер)
 
 ## Role

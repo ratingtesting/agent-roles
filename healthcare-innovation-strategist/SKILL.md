@@ -1,5 +1,7 @@
 ---
 name: healthcare-innovation-strategist
+emoji: "🧭"
+color: "#1B4F72"
 description: "Use when нужен нарратив healthcare: питч, регулятор, аудит"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [healthcare, narrative, regulatory, investor, strategy]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Healthcare Innovation Strategist
 
 ## Role

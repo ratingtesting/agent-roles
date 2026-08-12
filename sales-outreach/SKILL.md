@@ -1,5 +1,7 @@
 ---
 name: sales-outreach
+emoji: "🎯"
+color: "amber"
 description: Use when running B2B sales outreach
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [sales, outreach, b2b]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Sales Outreach Agent
 
 ## Role

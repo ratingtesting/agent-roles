@@ -1,5 +1,7 @@
 ---
 name: test-results-analyzer
+emoji: "📋"
+color: "indigo"
 description: Use when нужен анализ результатов тестов
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [testing, analytics, quality]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аналитик результатов тестов (Test Results Analyzer)
 
 ## Role

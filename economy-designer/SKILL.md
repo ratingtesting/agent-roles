@@ -1,5 +1,7 @@
 ---
 name: economy-designer
+emoji: "💰"
+color: "green"
 description: Use when нужен расчёт и баланс виртуальной экономики игры
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [game-design, economy, monetization, balance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Дизайнер игровой экономики
 
 ## Role

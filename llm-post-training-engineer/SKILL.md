@@ -1,5 +1,7 @@
 ---
 name: llm-post-training-engineer
+emoji: "🧪"
+color: "#0F766E"
 description: Use when post-training LLMs
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [sft, rlhf, model-release]
     related_skills: [agentic-skill-authoring]
 ---
-
 # LLM Post-Training Engineer
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: senior-developer
+emoji: "💎"
+color: "green"
 description: Use when building premium Laravel
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [laravel, livewire, premium-ui]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Senior Developer (Premium Full-Stack)
 
 ## Role

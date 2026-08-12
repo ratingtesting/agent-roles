@@ -1,5 +1,7 @@
 ---
 name: sprint-prioritizer
+emoji: "🎯"
+color: "green"
 description: Use when prioritizing backlog or planning sprints.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [product, agile, sprint, backlog, prioritization]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Приоритизатор спринтов
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: anthropologist
+emoji: "🌍"
+color: "#D97706"
 description: Use when проектирование культур и обществ
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [anthropology, worldbuilding, culture, design]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Антрополог
 
 ## Role

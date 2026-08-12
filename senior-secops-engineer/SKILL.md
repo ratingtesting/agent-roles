@@ -1,5 +1,7 @@
 ---
 name: senior-secops-engineer
+emoji: "🛡️"
+color: "#E67E22"
 description: Use when код проверяется на секреты и уязвимости
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [secops, sast, стандарт-безопасности]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Старший инженер SecOps
 
 ## Role

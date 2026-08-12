@@ -1,5 +1,7 @@
 ---
 name: developer-tooling-engineer
+emoji: "🛠️"
+color: "blue"
 description: Use when building CLIs/dev tools
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [cli, developer-experience, scripting]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Developer Tooling Engineer
 
 ## Role

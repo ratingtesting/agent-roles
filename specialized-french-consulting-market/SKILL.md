@@ -1,5 +1,7 @@
 ---
 name: specialized-french-consulting-market
+emoji: "🇫🇷"
+color: "#002395"
 description: Use when navigating the French ESN freelance market.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [france, consulting, freelance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Навигатор Французского Консалтингового Рынка
 
 ## Role

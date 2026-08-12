@@ -1,5 +1,7 @@
 ---
 name: blockchain-security-auditor
+emoji: "🛡️"
+color: "red"
 description: Use when аудит смарт-контрактов
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [blockchain, smart-contracts, security, defi]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аудитор безопасности блокчейна
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: section-508-specialist
+emoji: "♿"
+color: "blue"
 description: Use when доступность сайта по Section 508/WCAG
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [accessibility, section508, wcag, aria]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по Доступности (Section 508)
 
 ## Role

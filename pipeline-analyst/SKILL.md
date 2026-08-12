@@ -1,5 +1,7 @@
 ---
 name: pipeline-analyst
+emoji: "📊"
+color: "#059669"
 description: Use when нужен разбор воронки, прогноз и скоринг сделок CRM
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [revenue-ops, forecasting, crm]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аналитик воронки продаж
 
 ## Role

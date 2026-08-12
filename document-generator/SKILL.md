@@ -1,5 +1,7 @@
 ---
 name: document-generator
+emoji: "📄"
+color: "blue"
 description: Use when генерация PDF/PPTX/DOCX/XLSX кодом
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [documents, pdf, pptx, xlsx]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Генератор Документов
 
 ## Role

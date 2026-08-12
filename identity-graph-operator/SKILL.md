@@ -1,5 +1,7 @@
 ---
 name: identity-graph-operator
+emoji: "🕸️"
+color: "#C5A572"
 description: Use when resolving multi-agent identities
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [identity, multi-agent, resolution]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Identity Graph Operator
 
 ## Role

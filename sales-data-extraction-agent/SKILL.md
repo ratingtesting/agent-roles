@@ -1,5 +1,7 @@
 ---
 name: sales-data-extraction-agent
+emoji: "📊"
+color: "#2b6cb0"
 description: Use when extracting sales metrics
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [data-extraction, excel, sales-metrics]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Sales Data Extraction Agent
 
 ## Role

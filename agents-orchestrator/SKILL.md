@@ -1,5 +1,7 @@
 ---
 name: agents-orchestrator
+emoji: "🎛️"
+color: "cyan"
 description: Use when orchestrating multi-agent dev pipeline
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [orchestration, dev-pipeline, quality]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Agents Orchestrator
 
 ## Role

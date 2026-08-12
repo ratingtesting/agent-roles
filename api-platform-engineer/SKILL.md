@@ -1,5 +1,7 @@
 ---
 name: api-platform-engineer
+emoji: "🔌"
+color: "#0D9488"
 description: Use when designing public/partner APIs
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [api, contract-first, developer-experience]
     related_skills: [agentic-skill-authoring]
 ---
-
 # API Platform Engineer
 
 ## Role

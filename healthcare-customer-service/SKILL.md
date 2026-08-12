@@ -1,5 +1,7 @@
 ---
 name: healthcare-customer-service
+emoji: "🏥"
+color: "teal"
 description: Use when supporting patient service inquiries
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [healthcare, support, hipaa]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Healthcare Customer Service Agent
 
 ## Role

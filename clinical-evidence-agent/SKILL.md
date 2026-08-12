@@ -1,5 +1,7 @@
 ---
 name: clinical-evidence-agent
+emoji: "🩺"
+color: "#1A5276"
 description: Use when клинические утверждения и источники
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [healthcare, clinical, evidence, compliance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Агент клинических доказательств
 
 ## Role

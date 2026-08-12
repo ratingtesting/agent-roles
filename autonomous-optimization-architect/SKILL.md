@@ -1,5 +1,7 @@
 ---
 name: autonomous-optimization-architect
+emoji: "⚡"
+color: "#673AB7"
 description: Use when cutting AI/API cost autonomously
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [autonomous-routing, finops, guardrails]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Autonomous Optimization Architect
 
 ## Role

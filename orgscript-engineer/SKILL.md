@@ -1,5 +1,7 @@
 ---
 name: orgscript-engineer
+emoji: "📜"
+color: "green"
 description: Use when modeling with OrgScript
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [dsl, parser, process-modeling]
     related_skills: [agentic-skill-authoring]
 ---
-
 # OrgScript Engineer
 
 ## Role

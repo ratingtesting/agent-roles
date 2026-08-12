@@ -1,5 +1,7 @@
 ---
 name: investment-researcher
+emoji: "🔍"
+color: "green"
 description: "Use when нужен разбор инвестиций: оценка, анализ рынка"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [finance, investment, due-diligence, valuation, research]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Investment Researcher
 
 ## Role

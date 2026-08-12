@@ -1,5 +1,7 @@
 ---
 name: specialized-pricing-analyst
+emoji: "💰"
+color: "gold"
 description: Use when разработка стратегии ценообразования
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [pricing, margins, monetization, analytics]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аналитик по ценообразованию
 
 ## Role

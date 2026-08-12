@@ -1,5 +1,7 @@
 ---
 name: legal-document-review
+emoji: "⚖️"
+color: "blue"
 description: Use when reviewing legal documents
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [legal, document-review, risk]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Legal Document Review Agent
 
 ## Role

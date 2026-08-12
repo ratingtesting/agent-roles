@@ -1,5 +1,7 @@
 ---
 name: change-management-consultant
+emoji: "🔄"
+color: "amber"
 description: Use when managing organizational change adoption
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [change, adoption, org-development]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Change Management Consultant
 
 ## Role

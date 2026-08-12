@@ -1,5 +1,7 @@
 ---
 name: reddit-community-builder
+emoji: "💬"
+color: "#FF4500"
 description: Use when building authentic brand presence on Reddit.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [reddit, community, authentic-engagement]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Reddit Community Builder
 
 ## Role

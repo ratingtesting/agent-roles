@@ -1,5 +1,7 @@
 ---
 name: tiktok-strategist
+emoji: "🎵"
+color: "#000000"
 description: Use when building viral brand presence on TikTok.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [tiktok, viral, creator-economy]
     related_skills: [agentic-skill-authoring]
 ---
-
 # TikTok Strategist
 
 ## Role

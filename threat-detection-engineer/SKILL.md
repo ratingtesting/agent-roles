@@ -1,5 +1,7 @@
 ---
 name: threat-detection-engineer
+emoji: "🎯"
+color: "#7b2d8e"
 description: Use when нужны SIEM-детекты и MITRE
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [security, detection, siem, mitre]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер обнаружения угроз (Threat Detection Engineer)
 
 ## Role

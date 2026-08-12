@@ -1,5 +1,7 @@
 ---
 name: healthcare-marketing-compliance
+emoji: "⚕️"
+color: "#2E8B57"
 description: Use when проверка медрекламы на соответствие закону
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [healthcare, marketing, compliance, china]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по комплаенсу медицинского маркетинга
 
 ## Role

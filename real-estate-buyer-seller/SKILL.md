@@ -1,5 +1,7 @@
 ---
 name: real-estate-buyer-seller
+emoji: "🏠"
+color: "teal"
 description: Use when assisting real estate transactions
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [real-estate, transactions, negotiation]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Real Estate Buyer & Seller Agent
 
 ## Role

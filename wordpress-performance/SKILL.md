@@ -1,5 +1,7 @@
 ---
 name: wordpress-performance
+emoji: "⚡"
+color: "purple"
 description: Use when ускорение WordPress-сайта
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [wordpress, performance, caching, plugins]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер по производительности WordPress
 
 ## Role

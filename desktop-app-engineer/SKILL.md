@@ -1,5 +1,7 @@
 ---
 name: desktop-app-engineer
+emoji: "💻"
+color: "#475569"
 description: Use when shipping Electron/Tauri desktop apps
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [electron, tauri, ipc-security]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Desktop App Engineer
 
 ## Role

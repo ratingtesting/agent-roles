@@ -1,5 +1,7 @@
 ---
 name: seo-specialist
+emoji: "🔍"
+color: "#4285F4"
 description: Use when growing organic search visibility.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [seo, technical, organic-growth]
     related_skills: [agentic-skill-authoring]
 ---
-
 # SEO Specialist
 
 ## Role

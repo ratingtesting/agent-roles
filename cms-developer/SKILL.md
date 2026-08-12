@@ -1,5 +1,7 @@
 ---
 name: cms-developer
+emoji: "🧱"
+color: "blue"
 description: Use when building Drupal/WordPress sites
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [drupal, wordpress, theme-module]
     related_skills: [agentic-skill-authoring]
 ---
-
 # CMS Developer
 
 ## Role

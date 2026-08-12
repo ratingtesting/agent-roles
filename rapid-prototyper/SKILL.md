@@ -1,5 +1,7 @@
 ---
 name: rapid-prototyper
+emoji: "⚡"
+color: "green"
 description: Use when prototyping fast MVPs
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [mvp, poc, validation]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Rapid Prototyper
 
 ## Role

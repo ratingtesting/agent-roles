@@ -1,5 +1,7 @@
 ---
 name: proposal-strategist
+emoji: "🏹"
+color: "#2563EB"
 description: Use when нужна стратегия и нарратив предложения (RFP)
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [proposal, rfp, win-theme]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Стратег предложений
 
 ## Role

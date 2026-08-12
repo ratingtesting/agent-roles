@@ -1,5 +1,7 @@
 ---
 name: medical-billing-coding-specialist
+emoji: "🏥"
+color: "blue"
 description: Use when coding medical billing claims
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [medical-billing, coding, revenue-cycle]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Medical Billing & Coding Specialist
 
 ## Role

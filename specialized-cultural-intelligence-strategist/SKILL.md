@@ -1,5 +1,7 @@
 ---
 name: specialized-cultural-intelligence-strategist
+emoji: "🌍"
+color: "#FFA000"
 description: Use when проверка интерфейса на культурную исключённость
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [cultural-intelligence, inclusivity, i18n, audit]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Стратег культурного интеллекта
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: godot-gameplay-scripter
+emoji: "🎯"
+color: "purple"
 description: Use when нужен код геймплея и сигналов в Godot 4
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [godot, gdscript, gameplay, signals]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Геймплей-скриптер Godot
 
 ## Role

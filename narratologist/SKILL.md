@@ -1,5 +1,7 @@
 ---
 name: narratologist
+emoji: "📜"
+color: "#8B5CF6"
 description: "Use when нужен анализ повествования: структура, жанр, миф"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [narrative-theory, story-structure, literary-analysis, character-arc]
     related_skills: [narrative-designer, agentic-skill-authoring]
 ---
-
 # Narratologist
 
 ## Role

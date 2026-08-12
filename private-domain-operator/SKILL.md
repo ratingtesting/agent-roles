@@ -1,5 +1,7 @@
 ---
 name: private-domain-operator
+emoji: "🔒"
+color: "#1A73E8"
 description: Use when building WeChat private domain (SCRM).
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [wechat, scrm, lifecycle, retention]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Private Domain Operator
 
 ## Role

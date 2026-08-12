@@ -1,5 +1,7 @@
 ---
 name: kuaishou-strategist
+emoji: "🎥"
+color: "orange"
 description: Use when growing grassroots audiences on Kuaishou.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [kuaishou, live-commerce, community]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Kuaishou Strategist
 
 ## Role

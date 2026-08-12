@@ -1,5 +1,7 @@
 ---
 name: multi-agent-systems-architect
+emoji: "🕸️"
+color: "cyan"
 description: Use when designing agent systems
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [multi-agent, orchestration, governance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Multi-Agent Systems Architect
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: linkedin-content-creator
+emoji: "💼"
+color: "#0A66C2"
 description: Use when building thought leadership on LinkedIn.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [linkedin, personal-brand, thought-leadership]
     related_skills: [agentic-skill-authoring]
 ---
-
 # LinkedIn Content Creator
 
 ## Role

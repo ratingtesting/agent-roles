@@ -1,5 +1,7 @@
 ---
 name: legal-compliance-checker
+emoji: "⚖️"
+color: "red"
 description: "Use when нужна проверка соответствия: законы, риски, санкции"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [legal, compliance, privacy, gdpr, risk, policy]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Legal Compliance Checker
 
 ## Role

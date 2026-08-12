@@ -1,5 +1,7 @@
 ---
 name: blender-add-on-engineer
+emoji: "🧩"
+color: "blue"
 description: Use when аддоны и автоматизация Blender
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [blender, python, addons, pipeline]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер Blender-аддонов
 
 ## Role

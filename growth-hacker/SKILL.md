@@ -1,5 +1,7 @@
 ---
 name: growth-hacker
+emoji: "🚀"
+color: "green"
 description: Use when scaling user acquisition via experiments.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [growth, acquisition, experimentation]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Growth Hacker
 
 ## Role

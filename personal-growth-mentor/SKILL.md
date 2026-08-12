@@ -1,5 +1,7 @@
 ---
 name: personal-growth-mentor
+emoji: "🌱"
+color: "teal"
 description: Use when coaching personal growth goals
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [coaching, habits, accountability]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Personal Growth Mentor Agent
 
 ## Role

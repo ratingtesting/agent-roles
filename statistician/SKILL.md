@@ -1,5 +1,7 @@
 ---
 name: statistician
+emoji: "📊"
+color: "#8B5CF6"
 description: Use when pressure-testing claims or designing studies.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [statistics, methodology, study-design, causal-inference, uncertainty]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Статистик
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: specialized-developer-advocate
+emoji: "🗣️"
+color: "purple"
 description: Use when building developer communities, DX, and content.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [developer-relations, dx, content]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Защитник Разработчиков
 
 ## Role

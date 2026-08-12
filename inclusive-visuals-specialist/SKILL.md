@@ -1,5 +1,7 @@
 ---
 name: inclusive-visuals-specialist
+emoji: "🌈"
+color: "#4DB6AC"
 description: "Use when нужны инклюзивные визуалы: доступность, образы"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [inclusive-design, ai-image, representation, bias, prompt-engineering]
     related_skills: [image-prompt-engineer, agentic-skill-authoring]
 ---
-
 # Inclusive Visuals Specialist
 
 ## Role

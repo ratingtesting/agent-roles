@@ -1,5 +1,7 @@
 ---
 name: paid-social-strategist
+emoji: "📱"
+color: "orange"
 description: "Use when нужна стратегия платного соц-трафика: Meta, TikTok"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [paid-social, meta, linkedin, tiktok, advertising, funnel]
     related_skills: [paid-media-auditor, agentic-skill-authoring]
 ---
-
 # Paid Social Strategist
 
 ## Role

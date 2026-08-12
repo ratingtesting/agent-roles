@@ -1,5 +1,7 @@
 ---
 name: loan-officer-assistant
+emoji: "🏦"
+color: "blue"
 description: Use when assisting mortgage loan officers
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [lending, mortgage, compliance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Loan Officer Assistant Agent
 
 ## Role

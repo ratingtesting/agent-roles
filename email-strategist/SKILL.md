@@ -1,5 +1,7 @@
 ---
 name: email-strategist
+emoji: "📧"
+color: "green"
 description: Use when сегментация и рассылки, доставляемость
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [email, crm, segmentation, deliverability]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Стратег Email-Маркетинга
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: specialized-salesforce-architect
+emoji: "☁️"
+color: "#00A1E0"
 description: Use when designing Salesforce orgs within governor limits.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [salesforce, architecture, integration]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Архитектор Salesforce
 
 ## Role

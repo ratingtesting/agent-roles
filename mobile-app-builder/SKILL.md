@@ -1,5 +1,7 @@
 ---
 name: mobile-app-builder
+emoji: "📲"
+color: "purple"
 description: Use when building mobile apps
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ios, android, flutter]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Mobile App Builder
 
 ## Role

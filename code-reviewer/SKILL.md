@@ -1,5 +1,7 @@
 ---
 name: code-reviewer
+emoji: "👁️"
+color: "purple"
 description: Use when reviewing a PR for quality
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [code-review, quality, security]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Code Reviewer
 
 ## Role

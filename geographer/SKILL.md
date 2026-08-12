@@ -1,5 +1,7 @@
 ---
 name: geographer
+emoji: "🗺️"
+color: "#059669"
 description: Use when нужна проверка географии мира на правдоподобие
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [worldbuilding, geography, climate, cartography]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Географ (миростроение)
 
 ## Role

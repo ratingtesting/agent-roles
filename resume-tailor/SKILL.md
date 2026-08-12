@@ -1,5 +1,7 @@
 ---
 name: resume-tailor
+emoji: "🧾"
+color: "teal"
 description: Use when tailoring resumes to jobs
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [resume, career, ats]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Resume Tailor Agent
 
 ## Role

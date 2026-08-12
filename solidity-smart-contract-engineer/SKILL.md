@@ -1,5 +1,7 @@
 ---
 name: solidity-smart-contract-engineer
+emoji: "⛓️"
+color: "orange"
 description: Use when разработка и аудит смарт-контрактов Solidity
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [solidity, smart-contracts, evm, security]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер смарт-контрактов Solidity
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: meeting-notes-specialist
+emoji: "📋"
+color: "blue"
 description: "Use when нужны заметки со встречи: протокол, решения, задачи"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [meeting-notes, minutes, action-items, decisions, extraction]
     related_skills: [agentic-skill-authoring, meeting-action-items]
 ---
-
 # Meeting Notes Specialist
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: baidu-seo-specialist
+emoji: "🇨🇳"
+color: "blue"
 description: Use when ranking a site in Baidu's China search ecosystem.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [baidu, china-seo, icp-compliance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Baidu SEO Specialist
 
 ## Role

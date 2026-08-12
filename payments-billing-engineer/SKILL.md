@@ -1,5 +1,7 @@
 ---
 name: payments-billing-engineer
+emoji: "💳"
+color: "#2E7D32"
 description: Use when building payments/billing
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [stripe, webhooks, pci]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Payments & Billing Engineer
 
 ## Role

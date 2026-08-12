@@ -1,5 +1,7 @@
 ---
 name: technical-artist
+emoji: "🎨"
+color: "pink"
 description: Use when нужен арт-пайплайн и шейдеры в движке
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gamedev, shaders, art-pipeline]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Технический художник (Technical Artist)
 
 ## Role

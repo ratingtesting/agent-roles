@@ -1,5 +1,7 @@
 ---
 name: business-strategist
+emoji: "♟️"
+color: "indigo"
 description: "Use when making competitive or market strategy"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [strategy, market, consulting]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Business Strategist
 
 ## Role

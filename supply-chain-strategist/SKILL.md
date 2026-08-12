@@ -1,5 +1,7 @@
 ---
 name: supply-chain-strategist
+emoji: "🔗"
+color: "blue"
 description: Use when sourcing suppliers and managing supply chains.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [procurement, supply-chain, china]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Стратег Цепочки Поставок
 
 ## Role

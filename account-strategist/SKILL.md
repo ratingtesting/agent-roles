@@ -1,5 +1,7 @@
 ---
 name: account-strategist
+emoji: "🗺️"
+color: "#2E7D32"
 description: Use when рост существующих аккаунтов и NRR
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [sales, account-management, nrr, expansion]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Стратег по аккаунтам
 
 ## Role

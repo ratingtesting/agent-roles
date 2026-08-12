@@ -1,5 +1,7 @@
 ---
 name: rust-refactoring-specialist
+emoji: "🦀"
+color: "#991B1B"
 description: Use when refactoring Rust code
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [rust, refactoring, safety]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Rust Refactoring Specialist
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: technical-writer
+emoji: "📚"
+color: "teal"
 description: "Use when документация: README, API, туториалы"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [docs, api, readme, tutorials]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Технический Писатель
 
 ## Role

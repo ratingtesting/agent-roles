@@ -1,5 +1,7 @@
 ---
 name: programmatic-display-buyer
+emoji: "📺"
+color: "orange"
 description: Use when нужна закупка display/программатик-медиа
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [display, programmatic, dsp]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Закупщик программатик- и display-рекламы
 
 ## Role

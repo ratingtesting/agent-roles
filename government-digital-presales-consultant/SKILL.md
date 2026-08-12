@@ -1,5 +1,7 @@
 ---
 name: government-digital-presales-consultant
+emoji: "🏛️"
+color: "#8B0000"
 description: Use when pursuing government IT bids
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [presales, tog, compliance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Government Digital Presales Consultant
 
 ## Role

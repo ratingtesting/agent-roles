@@ -1,5 +1,7 @@
 ---
 name: accessibility-auditor
+emoji: "♿"
+color: "#0077B6"
 description: Use when аудит доступности интерфейсов по WCAG
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [accessibility, wcag, testing, inclusive]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аудитор доступности
 
 ## Role

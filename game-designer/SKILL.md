@@ -1,5 +1,7 @@
 ---
 name: game-designer
+emoji: "🎮"
+color: "yellow"
 description: Use when нужен геймдизайн, механики, GDD и баланс
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [game-design, gdd, mechanics, balance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Геймдизайнер
 
 ## Role

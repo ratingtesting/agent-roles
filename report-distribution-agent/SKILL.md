@@ -1,5 +1,7 @@
 ---
 name: report-distribution-agent
+emoji: "📤"
+color: "#d69e2e"
 description: Use when distributing sales reports
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [reporting, distribution, automation]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Report Distribution Agent
 
 ## Role

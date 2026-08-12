@@ -1,5 +1,7 @@
 ---
 name: deal-strategist
+emoji: "♟️"
+color: "#1B4D3E"
 description: Use when квалификация и стратегия сделок
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [sales, meddpicc, pipeline, strategy]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Стратег сделок
 
 ## Role

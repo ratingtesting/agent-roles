@@ -1,5 +1,7 @@
 ---
 name: infrastructure-maintainer
+emoji: "🏢"
+color: "orange"
 description: "Use when нужна поддержка инфраструктуры: обновления, бэкапы"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [infrastructure, reliability, devops, monitoring, backups, cost-optimization]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Infrastructure Maintainer
 
 ## Role

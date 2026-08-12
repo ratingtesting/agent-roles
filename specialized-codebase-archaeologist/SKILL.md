@@ -1,5 +1,7 @@
 ---
 name: specialized-codebase-archaeologist
+emoji: "🏺"
+color: "amber"
 description: Use when auditing code drift across AI tool sessions.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [drift, code-audit, ai-tools]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Археолог Кодовой Базы
 
 ## Role

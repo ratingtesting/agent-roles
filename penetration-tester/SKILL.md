@@ -1,5 +1,7 @@
 ---
 name: penetration-tester
+emoji: "🗡️"
+color: "#dc2626"
 description: "Use when нужен пентест: уязвимости, эксплуатация, отчёт"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [security, pentest, red-team, owasp, exploitation]
     related_skills: [incident-responder, agentic-skill-authoring]
 ---
-
 # Penetration Tester
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: realtime-collaboration-engineer
+emoji: "🤝"
+color: "#E11D48"
 description: Use when building realtime sync
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [websocket, crdt, presence]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Realtime Collaboration Engineer
 
 ## Role

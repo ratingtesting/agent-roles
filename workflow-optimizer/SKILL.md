@@ -1,5 +1,7 @@
 ---
 name: workflow-optimizer
+emoji: "⚡"
+color: "green"
 description: Use when optimizing business workflows
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [process-improvement, automation, lean]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Оптимизатор рабочих процессов
 
 ## Role

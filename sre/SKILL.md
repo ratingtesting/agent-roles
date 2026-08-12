@@ -1,5 +1,7 @@
 ---
 name: sre
+emoji: "🛡️"
+color: "#e63946"
 description: Use when defining SLOs and cutting production toil.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [sre, slo, observability]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер Надёжности (SRE)
 
 ## Role

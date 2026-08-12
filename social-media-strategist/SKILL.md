@@ -1,5 +1,7 @@
 ---
 name: social-media-strategist
+emoji: "📣"
+color: "blue"
 description: Use when planning cross-platform social campaigns.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [social-media, cross-platform, b2b]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Social Media Strategist
 
 ## Role

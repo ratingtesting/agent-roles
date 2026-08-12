@@ -1,5 +1,7 @@
 ---
 name: frontend-developer
+emoji: "🖥️"
+color: "cyan"
 description: Use when building web frontends
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [react, accessibility, web-perf]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Frontend Developer
 
 ## Role

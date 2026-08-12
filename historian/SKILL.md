@@ -1,5 +1,7 @@
 ---
 name: historian
+emoji: "📚"
+color: "#B45309"
 description: "Use when нужна проверка истории: анахронизмы, детали эпохи"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [history, historiography, worldbuilding, research, authenticity]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Historian
 
 ## Role

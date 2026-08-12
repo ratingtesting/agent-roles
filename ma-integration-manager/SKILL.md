@@ -1,5 +1,7 @@
 ---
 name: ma-integration-manager
+emoji: "🤝"
+color: "indigo"
 description: Use when планирование интеграции после сделки M&A
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [mergers, integration, day-1, synergies]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Менеджер интеграции M&A
 
 ## Role

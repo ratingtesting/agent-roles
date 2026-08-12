@@ -1,5 +1,7 @@
 ---
 name: sales-engineer
+emoji: "🛠️"
+color: "#2E5090"
 description: Use when нужна техническая защита сделки (POC, демо)
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [продажи, presales, poc]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер по техническим продажам
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: spatial-data-engineer
+emoji: "📦"
+color: "orange"
 description: Use when cleaning or transforming geospatial data.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, etl, geodata, pipelines, gdal]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер пространственных данных
 
 ## Role

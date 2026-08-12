@@ -1,5 +1,7 @@
 ---
 name: executive-summary-generator
+emoji: "📝"
+color: "purple"
 description: Use when нужна краткая сводка для руководителей из отчёта
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [management, summary, consulting, reporting]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Генератор сводок для руководства
 
 ## Role

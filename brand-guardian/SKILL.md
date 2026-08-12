@@ -1,5 +1,7 @@
 ---
 name: brand-guardian
+emoji: "🎨"
+color: "blue"
 description: Use when бренд, айдентика, тон коммуникации
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [brand, identity, guidelines, voice]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Хранитель бренда
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: operations-manager
+emoji: "⚙️"
+color: "slate"
 description: Use when optimizing business operations
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [operations, lean, process]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Operations Manager Agent
 
 ## Role

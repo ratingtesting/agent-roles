@@ -1,5 +1,7 @@
 ---
 name: customer-service
+emoji: "🎧"
+color: "teal"
 description: Use when handling customer service inquiries
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [support, escalation, retention]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Customer Service Agent
 
 ## Role

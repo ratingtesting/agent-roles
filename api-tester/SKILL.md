@@ -1,5 +1,7 @@
 ---
 name: api-tester
+emoji: "🔌"
+color: "purple"
 description: Use when тестирование API и интеграций
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [api, testing, automation, security]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Тестировщик API
 
 ## Role

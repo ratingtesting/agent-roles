@@ -1,5 +1,7 @@
 ---
 name: visual-storyteller
+emoji: "🎬"
+color: "purple"
 description: Use when crafting visual narratives
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [visual-storytelling, brand, multimedia]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Визуальный сторителлер
 
 ## Role

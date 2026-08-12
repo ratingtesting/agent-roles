@@ -1,5 +1,7 @@
 ---
 name: compliance-auditor
+emoji: "📋"
+color: "orange"
 description: Use when аудит соответствия SOC 2, ISO
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [compliance, soc2, iso27001, audit]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аудитор соответствия
 
 ## Role

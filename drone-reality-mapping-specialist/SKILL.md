@@ -1,5 +1,7 @@
 ---
 name: drone-reality-mapping-specialist
+emoji: "🛸"
+color: "amber"
 description: Use when нужна обработка снимков с дрона в геоданные
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, drone, photogrammetry, orthomosaic]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по дрон-съёмке и фотограмметрии
 
 ## Role

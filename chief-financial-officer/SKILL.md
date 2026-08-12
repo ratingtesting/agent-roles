@@ -1,5 +1,7 @@
 ---
 name: chief-financial-officer
+emoji: "💼"
+color: "navy"
 description: Use when governing finance and capital decisions
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [finance, capital, governance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Chief Financial Officer
 
 ## Role

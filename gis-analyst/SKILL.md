@@ -1,5 +1,7 @@
 ---
 name: gis-analyst
+emoji: "🖥️"
+color: "teal"
 description: Use when нужны карты, слои и запросы по геоданным
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, mapping, analysis, qgis]
     related_skills: [agentic-skill-authoring]
 ---
-
 # ГИС-аналитик
 
 ## Role

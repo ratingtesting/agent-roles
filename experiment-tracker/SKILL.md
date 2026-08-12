@@ -1,5 +1,7 @@
 ---
 name: experiment-tracker
+emoji: "🧪"
+color: "purple"
 description: Use when нужен дизайн, запуск и анализ A/B-экспериментов
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [project-management, ab-testing, experimentation, analytics]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Трекер экспериментов
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: book-co-author
+emoji: "📘"
+color: "#8B5E3C"
 description: Use when turning expertise into a first-person book.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ghostwriting, thought-leadership, narrative]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Book Co-Author
 
 ## Role

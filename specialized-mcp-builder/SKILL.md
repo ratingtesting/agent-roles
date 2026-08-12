@@ -1,5 +1,7 @@
 ---
 name: specialized-mcp-builder
+emoji: "🔌"
+color: "indigo"
 description: Use when building MCP servers with agent-friendly tools.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [mcp, llm-tools, integration]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Строитель MCP-Серверов
 
 ## Role

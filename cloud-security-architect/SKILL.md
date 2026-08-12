@@ -1,5 +1,7 @@
 ---
 name: cloud-security-architect
+emoji: "☁️"
+color: "#3b82f6"
 description: Use when безопасность облачной инфраструктуры
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [cloud, aws, azure, gcp, security]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Архитектор безопасности облака
 
 ## Role

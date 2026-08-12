@@ -1,5 +1,7 @@
 ---
 name: healthcare-aging-parent-care-companion
+emoji: "🧡"
+color: "#0D9488"
 description: Use when координация ухода за пожилым родственником
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [eldercare, caregiver, coordination, safety]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Помощник по уходу за пожилым родственником
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: git-workflow-master
+emoji: "🌿"
+color: "orange"
 description: Use when setting team Git workflow
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [git, branching, ci]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Git Workflow Master
 
 ## Role

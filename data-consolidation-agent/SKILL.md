@@ -1,5 +1,7 @@
 ---
 name: data-consolidation-agent
+emoji: "🗄️"
+color: "#38a169"
 description: Use when consolidating sales data dashboards
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [data, dashboards, sales]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Data Consolidation Agent
 
 ## Role

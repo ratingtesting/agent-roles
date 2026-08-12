@@ -1,5 +1,7 @@
 ---
 name: embedded-firmware-engineer
+emoji: "🔩"
+color: "orange"
 description: Use when writing MCU/RTOS firmware
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [firmware, rtos, mcu]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Embedded Firmware Engineer
 
 ## Role

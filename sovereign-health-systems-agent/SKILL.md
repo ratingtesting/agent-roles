@@ -1,5 +1,7 @@
 ---
 name: sovereign-health-systems-agent
+emoji: "🌍"
+color: "#1B4F72"
 description: Use when engaging health ministries or sovereign markets.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [healthcare, sovereign, government, uhc, dual-market]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Агент суверенных систем здравоохранения
 
 ## Role

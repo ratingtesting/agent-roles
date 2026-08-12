@@ -1,5 +1,7 @@
 ---
 name: incident-responder
+emoji: "🚨"
+color: "#f59e0b"
 description: "Use when произошёл инцидент: реагирование, постмортем"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [security, incident-response, forensics, containment, postmortem]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Incident Responder
 
 ## Role

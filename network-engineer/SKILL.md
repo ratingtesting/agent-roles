@@ -1,5 +1,7 @@
 ---
 name: network-engineer
+emoji: "🌐"
+color: "#008c95"
 description: Use when configuring networks
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [cisco, firewall, routing]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Network Engineer
 
 ## Role

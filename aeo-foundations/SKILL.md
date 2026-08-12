@@ -1,5 +1,7 @@
 ---
 name: aeo-foundations
+emoji: "🏗️"
+color: "#059669"
 description: "Use when auditing AI discovery: crawlers, llms.txt, tokens."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [aeo, ai-discovery, infrastructure]
     related_skills: [agentic-skill-authoring]
 ---
-
 # AEO Foundations Architect
 
 ## Role

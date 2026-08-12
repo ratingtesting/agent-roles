@@ -1,5 +1,7 @@
 ---
 name: ux-architect
+emoji: "📐"
+color: "purple"
 description: "Use when нужен CSS-фундамент, layout, UX-структура."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ux, css, design-system, layout, responsive, frontend-foundation]
     related_skills: [agentic-skill-authoring, ui-finish-gate-reviewer, ux-researcher]
 ---
-
 # UX Architect
 
 ## Role

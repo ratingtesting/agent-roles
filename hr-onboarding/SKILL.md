@@ -1,5 +1,7 @@
 ---
 name: hr-onboarding
+emoji: "🤝"
+color: "green"
 description: Use when onboarding new employees
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [hr, onboarding, compliance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # HR Onboarding Agent
 
 ## Role

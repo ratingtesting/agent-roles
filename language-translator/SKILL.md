@@ -1,5 +1,7 @@
 ---
 name: language-translator
+emoji: "🌐"
+color: "teal"
 description: Use when translating Spanish and English
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [translation, spanish, bilingual]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Language Translator
 
 ## Role

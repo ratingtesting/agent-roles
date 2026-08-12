@@ -1,5 +1,7 @@
 ---
 name: identity-access-engineer
+emoji: "🔐"
+color: "#7C3AED"
 description: Use when building auth/SSO/RBAC
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [auth, oauth-oidc, sso]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Identity & Access Engineer
 
 ## Role

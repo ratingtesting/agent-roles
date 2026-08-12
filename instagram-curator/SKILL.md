@@ -1,5 +1,7 @@
 ---
 name: instagram-curator
+emoji: "📸"
+color: "#E4405F"
 description: Use when building brand presence on Instagram.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [instagram, visual, community]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Instagram Curator
 
 ## Role

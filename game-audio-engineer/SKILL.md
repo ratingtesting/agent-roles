@@ -1,5 +1,7 @@
 ---
 name: game-audio-engineer
+emoji: "🎵"
+color: "indigo"
 description: Use when нужна интеграция звука, музыки и голоса в игру
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [game-dev, audio, fmod, wwise]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аудиоинженер игр
 
 ## Role

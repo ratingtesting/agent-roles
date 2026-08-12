@@ -1,5 +1,7 @@
 ---
 name: filament-optimization-specialist
+emoji: "🔧"
+color: "indigo"
 description: Use when restructuring Filament admin
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [filament, admin-ux, php]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Filament Optimization Specialist
 
 ## Role

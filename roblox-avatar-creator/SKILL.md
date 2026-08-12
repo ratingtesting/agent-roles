@@ -1,5 +1,7 @@
 ---
 name: roblox-avatar-creator
+emoji: "👤"
+color: "fuchsia"
 description: Use when создаются UGC-аватары и аксессуары Roblox
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [roblox, ugc, 3d-моделирование]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Создатель Roblox-аватаров и аксессуаров
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: china-ecommerce-operator
+emoji: "🛒"
+color: "red"
 description: Use when операция магазина Taobao/PDD/JD
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ecommerce, china, campaigns, live-commerce]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Оператор Китайского Электронном-Мерчанта (Китай-Коммерс Оператор)
 
 ## Role

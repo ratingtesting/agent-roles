@@ -1,5 +1,7 @@
 ---
 name: solution-engineer
+emoji: "🔧"
+color: "blue"
 description: Use when строятся GIS-прототипы и демо (Esri)
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, прототипы, esri]
     related_skills: [agentic-skill-authoring]
 ---
-
 # GIS-инженер решений (билдер прототипов)
 
 ## Role

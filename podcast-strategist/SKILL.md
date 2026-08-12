@@ -1,5 +1,7 @@
 ---
 name: podcast-strategist
+emoji: "🎧"
+color: "purple"
 description: Use when launching a podcast in China's market.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [podcast, china, audio]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Podcast Strategist
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: uswds-developer
+emoji: "🏛️"
+color: "blue"
 description: Use when фронтенд для госсайтов США на USWDS
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [uswds, government-ux, accessibility, design-tokens]
     related_skills: [agentic-skill-authoring]
 ---
-
 # USWDS-разработчик (фронтенд госсайтов)
 
 ## Role

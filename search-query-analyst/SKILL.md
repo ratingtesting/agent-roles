@@ -1,5 +1,7 @@
 ---
 name: search-query-analyst
+emoji: "🔍"
+color: "orange"
 description: Use when анализируются поисковые запросы рекламы
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [paid-search, ppc, аналитика]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Аналитик поисковых запросов (платный поиск)
 
 ## Role

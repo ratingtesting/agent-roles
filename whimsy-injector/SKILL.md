@@ -1,5 +1,7 @@
 ---
 name: whimsy-injector
+emoji: "✨"
+color: "pink"
 description: Use when adding playful micro-interactions
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [whimsy, micro-interactions, brand-personality]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инжектор игривости
 
 ## Role

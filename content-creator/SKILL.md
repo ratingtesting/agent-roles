@@ -1,5 +1,7 @@
 ---
 name: content-creator
+emoji: "✍️"
+color: "teal"
 description: Use when planning multi-platform content campaigns.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [content, storytelling, multi-platform]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Content Creator
 
 ## Role

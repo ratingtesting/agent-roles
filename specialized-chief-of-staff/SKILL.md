@@ -1,5 +1,7 @@
 ---
 name: specialized-chief-of-staff
+emoji: "🧭"
+color: "#6B7280"
 description: Use when supporting an executive
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [chief-of-staff, coordination, executive]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Chief of Staff Agent
 
 ## Role

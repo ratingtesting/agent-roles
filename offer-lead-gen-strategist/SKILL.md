@@ -1,5 +1,7 @@
 ---
 name: offer-lead-gen-strategist
+emoji: "🧲"
+color: "#F59E0B"
 description: Use when нужна стратегия оффера и лидогенерации
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [sales, offer, lead-magnet, lead-generation, funnel]
     related_skills: [outbound-strategist, agentic-skill-authoring]
 ---
-
 # Offer & Lead Gen Strategist
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: financial-analyst
+emoji: "📊"
+color: "green"
 description: Use when нужна финмодель, прогноз и оценка сценариев
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [finance, modeling, analysis, valuation]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Финансовый аналитик
 
 ## Role

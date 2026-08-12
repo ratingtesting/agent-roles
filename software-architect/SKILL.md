@@ -1,5 +1,7 @@
 ---
 name: software-architect
+emoji: "🏛️"
+color: "indigo"
 description: Use when designing system arch
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ddd, adr, trade-offs]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Software Architect
 
 ## Role

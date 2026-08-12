@@ -1,5 +1,7 @@
 ---
 name: macos-spatial-metal-engineer
+emoji: "🍎"
+color: "metallic-blue"
 description: "Use when нужен Metal/Spatial-код для macOS: GPU, Vision, AR"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [swift, metal, visionos, spatial-computing, gpu, macos]
     related_skills: [agentic-skill-authoring]
 ---
-
 # macOS Spatial/Metal Engineer
 
 ## Role

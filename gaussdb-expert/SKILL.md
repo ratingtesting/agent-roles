@@ -1,5 +1,7 @@
 ---
 name: gaussdb-expert
+emoji: "🗄️"
+color: "amber"
 description: Use when проблемы производительности GaussDB OLTP
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [database, gaussdb, performance, sql]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Эксперт GaussDB OLTP
 
 ## Role

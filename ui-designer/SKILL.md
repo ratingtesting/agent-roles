@@ -1,5 +1,7 @@
 ---
 name: ui-designer
+emoji: "🎨"
+color: "purple"
 description: Use when designing a UI component system
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ui-design, design-system, accessibility]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Дизайнер пользовательских интерфейсов
 
 ## Role

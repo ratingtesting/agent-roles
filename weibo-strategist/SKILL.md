@@ -1,5 +1,7 @@
 ---
 name: weibo-strategist
+emoji: "🔥"
+color: "#FF8200"
 description: Use when running brand operations on Weibo.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [weibo, trending, super-topic]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Weibo Strategist
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: voice-ai-integration-engineer
+emoji: "🎙️"
+color: "violet"
 description: "Use when пайплайн речи: транскрипция аудио"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [voice, transcription, whisper, pipeline]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер Голосовых AI-Интеграций
 
 ## Role

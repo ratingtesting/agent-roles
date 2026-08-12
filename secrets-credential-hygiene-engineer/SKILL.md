@@ -1,5 +1,7 @@
 ---
 name: secrets-credential-hygiene-engineer
+emoji: "🔑"
+color: "#B45309"
 description: Use when управляются секреты и доступы в коде
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [безопасность, секреты, vault]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер по гигиене секретов и доступов
 
 ## Role

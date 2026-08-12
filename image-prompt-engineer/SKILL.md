@@ -1,5 +1,7 @@
 ---
 name: image-prompt-engineer
+emoji: "📷"
+color: "amber"
 description: "Use when нужен промпт для фото-генерации: свет, оптика"
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [image-generation, prompt-engineering, photography, midjourney, stable-diffusion]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Image Prompt Engineer
 
 ## Role

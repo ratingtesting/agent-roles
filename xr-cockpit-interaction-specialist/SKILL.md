@@ -1,5 +1,7 @@
 ---
 name: xr-cockpit-interaction-specialist
+emoji: "🕹️"
+color: "orange"
 description: Use when designing XR cockpit UIs
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [xr, cockpit, spatial-interaction]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по кабинным XR-взаимодействиям
 
 ## Role

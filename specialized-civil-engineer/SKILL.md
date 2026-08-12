@@ -1,5 +1,7 @@
 ---
 name: specialized-civil-engineer
+emoji: "🏗️"
+color: "yellow"
 description: Use when расчёт или проверка конструкции по нормам
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [civil-engineering, structural, codes, geotech]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер-строитель (конструктор)
 
 ## Role

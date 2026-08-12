@@ -1,5 +1,7 @@
 ---
 name: devops-automator
+emoji: "⚙️"
+color: "orange"
 description: Use when automating CI/CD/infra
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ci-cd, iac, cloud-ops]
     related_skills: [agentic-skill-authoring]
 ---
-
 # DevOps Automator
 
 ## Role

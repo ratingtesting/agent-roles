@@ -1,5 +1,7 @@
 ---
 name: study-abroad-advisor
+emoji: "🎓"
+color: "#1B4D3E"
 description: Use when стратегия поступления за рубеж
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [study-abroad, admissions, essays, visas]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Консультант по поступлению за рубеж
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: support-responder
+emoji: "💬"
+color: "blue"
 description: Use when нужна поддержка клиентов и ответы
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [support, customer-success, service]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Ответчик поддержки (Support Responder)
 
 ## Role

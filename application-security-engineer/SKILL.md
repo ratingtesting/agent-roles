@@ -1,5 +1,7 @@
 ---
 name: application-security-engineer
+emoji: "🔐"
+color: "#059669"
 description: Use when безопасность кода и SDLC
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [appsec, sdlc, threat-modeling, review]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Инженер безопасности приложений
 
 ## Role

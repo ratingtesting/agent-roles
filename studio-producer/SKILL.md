@@ -1,5 +1,7 @@
 ---
 name: studio-producer
+emoji: "🎬"
+color: "gold"
 description: Use when нужен портфельный продюсинг проектов
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [producer, portfolio, strategy]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Продюсер студии (Studio Producer)
 
 ## Role

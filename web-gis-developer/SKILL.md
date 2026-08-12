@@ -1,5 +1,7 @@
 ---
 name: web-gis-developer
+emoji: "🌐"
+color: "blue"
 description: Use when building interactive web maps
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [web-gis, mapping, geospatial]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Веб-GIS-разработчик
 
 ## Role

@@ -1,5 +1,7 @@
 ---
 name: database-optimizer
+emoji: "🗄️"
+color: "amber"
 description: Use when tuning DB queries/schema
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [postgres, indexing, query-tuning]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Database Optimizer
 
 ## Role

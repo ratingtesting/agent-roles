@@ -1,5 +1,7 @@
 ---
 name: unity-editor-tool-developer
+emoji: "🛠️"
+color: "gray"
 description: "Use when рутина в Unity-редакторе; нужны тулзы."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [unity, editor-tools, automation, assetpostprocessor, propertydrawer]
     related_skills: [agentic-skill-authoring, unity-architect, test-driven-development]
 ---
-
 # Unity Editor Tool Developer
 
 ## Role

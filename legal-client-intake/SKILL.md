@@ -1,5 +1,7 @@
 ---
 name: legal-client-intake
+emoji: "📋"
+color: "blue"
 description: Use when qualifying legal client intakes
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [legal, intake, conflict-check]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Legal Client Intake Agent
 
 ## Role

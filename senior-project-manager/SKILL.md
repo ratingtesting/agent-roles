@@ -1,5 +1,7 @@
 ---
 name: senior-project-manager
+emoji: "📝"
+color: "blue"
 description: Use when спецификация разбивается на задачи разработки
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [pm, планирование, задачи]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Старший менеджер проектов
 
 ## Role

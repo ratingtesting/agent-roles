@@ -1,5 +1,7 @@
 ---
 name: database-reliability-engineer
+emoji: "🛟"
+color: "#B91C1C"
 description: Use when keeping DBs available/safe
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ha, backup-recovery, failover]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Database Reliability Engineer
 
 ## Role

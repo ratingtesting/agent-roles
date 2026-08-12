@@ -1,5 +1,7 @@
 ---
 name: ai-citation-strategist
+emoji: "🔮"
+color: "#6D28D9"
 description: Use when auditing brand visibility in AI answer engines.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [aeo, geo, ai-citations]
     related_skills: [agentic-skill-authoring]
 ---
-
 # AI Citation Strategist
 
 ## Role

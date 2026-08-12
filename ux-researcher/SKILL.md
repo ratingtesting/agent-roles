@@ -1,5 +1,7 @@
 ---
 name: ux-researcher
+emoji: "🔬"
+color: "green"
 description: "Use when нужны исследования UX, персона, тесты."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [ux, research, usability, personas, interviews, a-b-testing]
     related_skills: [agentic-skill-authoring, ux-architect, ui-finish-gate-reviewer]
 ---
-
 # UX Researcher
 
 ## Role

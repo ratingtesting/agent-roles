@@ -1,5 +1,7 @@
 ---
 name: cartography-designer
+emoji: "🎨"
+color: "pink"
 description: Use when дизайн карт и стилизация
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [cartography, maps, style, design]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Картограф-дизайнер
 
 ## Role

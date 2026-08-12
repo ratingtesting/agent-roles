@@ -1,5 +1,7 @@
 ---
 name: data-visualization-engineer
+emoji: "📈"
+color: "#0F766E"
 description: Use when designing honest charts
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [charts, perception, accessibility]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Data Visualization Engineer
 
 ## Role

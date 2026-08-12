@@ -1,5 +1,7 @@
 ---
 name: behavioral-nudge-engine
+emoji: "🧠"
+color: "#FF8A65"
 description: Use when поведенческие подсказки в продукте
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [behavioral, psychology, onboarding, engagement]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Поведенческий движок подсказок
 
 ## Role

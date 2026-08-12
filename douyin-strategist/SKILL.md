@@ -1,5 +1,7 @@
 ---
 name: douyin-strategist
+emoji: "🎵"
+color: "#000000"
 description: Use when growing a brand on Douyin (China TikTok).
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [douyin, short-video, live-commerce]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Douyin Strategist
 
 ## Role

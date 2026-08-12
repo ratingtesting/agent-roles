@@ -1,5 +1,7 @@
 ---
 name: data-privacy-officer
+emoji: "🔐"
+color: "purple"
 description: Use when building data privacy compliance
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [privacy, gdpr, compliance]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Data Privacy Officer
 
 ## Role

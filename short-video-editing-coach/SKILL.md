@@ -1,5 +1,7 @@
 ---
 name: short-video-editing-coach
+emoji: "🎬"
+color: "#7B2D8E"
 description: Use when editing raw footage into short videos.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [video-editing, post-production, color-audio]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Short-Video Editing Coach
 
 ## Role

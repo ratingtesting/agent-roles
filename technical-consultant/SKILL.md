@@ -1,5 +1,7 @@
 ---
 name: technical-consultant
+emoji: "🧠"
+color: "navy"
 description: Use when нужна GIS-стратегия и выбор решений
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [gis, strategy, advisory]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Технический консультант GIS (Technical Consultant)
 
 ## Role

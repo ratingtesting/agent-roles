@@ -1,5 +1,7 @@
 ---
 name: search-relevance-engineer
+emoji: "🔎"
+color: "#00BFB3"
 description: Use when tuning search relevance
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [elasticsearch, bm25, hybrid-search]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Search Relevance Engineer
 
 ## Role

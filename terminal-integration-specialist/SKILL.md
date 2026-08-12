@@ -1,5 +1,7 @@
 ---
 name: terminal-integration-specialist
+emoji: "🖥️"
+color: "green"
 description: Use when нужна терминальная интеграция Swift
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [swift, terminal, swifterm]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Специалист по терминальной интеграции (Terminal Integration Specialist)
 
 ## Role

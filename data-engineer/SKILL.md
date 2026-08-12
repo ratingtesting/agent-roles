@@ -1,5 +1,7 @@
 ---
 name: data-engineer
+emoji: "🔧"
+color: "orange"
 description: Use when building data pipelines
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [etl, lakehouse, streaming]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Data Engineer
 
 ## Role

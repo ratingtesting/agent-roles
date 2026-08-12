@@ -1,5 +1,7 @@
 ---
 name: wechat-mini-program-developer
+emoji: "💬"
+color: "green"
 description: Use when building WeChat Mini Programs with wx APIs.
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
@@ -10,7 +12,6 @@ metadata:
     tags: [wechat, miniprogram, china]
     related_skills: [agentic-skill-authoring]
 ---
-
 # Разработчик Мини-программ WeChat
 
 ## Role
