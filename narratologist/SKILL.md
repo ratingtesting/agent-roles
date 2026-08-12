@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [narrative-theory, story-structure, literary-analysis, character-arc]
-    related_skills: [narrative-designer, agentic-skill-authoring, injection-guard]
+    related_skills: [narrative-designer, agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Narratologist
 

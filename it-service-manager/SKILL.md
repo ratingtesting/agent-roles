@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [itsm, itil, sla]
-    related_skills: [agentic-skill-authoring, injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # IT Service Manager
 

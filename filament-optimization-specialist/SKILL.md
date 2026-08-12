@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [filament, admin-ux, php]
-    related_skills: [agentic-skill-authoring, injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Filament Optimization Specialist
 

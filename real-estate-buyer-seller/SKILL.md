@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [real-estate, transactions, negotiation]
-    related_skills: [agentic-skill-authoring, injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Real Estate Buyer & Seller Agent
 

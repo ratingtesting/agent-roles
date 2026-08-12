@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [gis, strategy, advisory]
-    related_skills: [agentic-skill-authoring, injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Технический консультант GIS (Technical Consultant)
 

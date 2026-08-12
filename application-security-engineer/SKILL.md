@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [appsec, sdlc, threat-modeling, review]
-    related_skills: [agentic-skill-authoring, injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Инженер безопасности приложений
 

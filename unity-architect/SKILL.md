@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [unity, architecture, scriptableobjects, design-patterns, refactoring]
-    related_skills: [agentic-skill-authoring, unity-editor-tool-developer, unity-multiplayer-engineer, injection-guard]
+    related_skills: [agentic-skill-authoring, unity-editor-tool-developer, unity-multiplayer-engineer, injection-guard, agent-defense]
 ---
 # Unity Architect
 

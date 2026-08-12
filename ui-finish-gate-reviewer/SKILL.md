@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [ui-review, design-review, finish-gate, product-ux, evidence-based]
-    related_skills: [agentic-skill-authoring, ux-architect, whimsy-injector, injection-guard]
+    related_skills: [agentic-skill-authoring, ux-architect, whimsy-injector, injection-guard, agent-defense]
 ---
 # UI Finish-Gate Reviewer
 

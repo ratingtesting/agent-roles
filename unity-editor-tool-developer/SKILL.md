@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [unity, editor-tools, automation, assetpostprocessor, propertydrawer]
-    related_skills: [agentic-skill-authoring, unity-architect, test-driven-development, injection-guard]
+    related_skills: [agentic-skill-authoring, unity-architect, test-driven-development, injection-guard, agent-defense]
 ---
 # Unity Editor Tool Developer
 

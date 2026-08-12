@@ -10,7 +10,7 @@ platforms: [macos]
 metadata:
   hermes:
     tags: [swift, metal, visionos, spatial-computing, gpu, macos]
-    related_skills: [agentic-skill-authoring, injection-guard]
+    related_skills: [agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # macOS Spatial/Metal Engineer
 

@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [inclusive-design, ai-image, representation, bias, prompt-engineering]
-    related_skills: [image-prompt-engineer, agentic-skill-authoring, injection-guard]
+    related_skills: [image-prompt-engineer, agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Inclusive Visuals Specialist
 

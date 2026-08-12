@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [paid-media, audit, google-ads, meta, tracking, ppc]
-    related_skills: [paid-social-strategist, agentic-skill-authoring, injection-guard]
+    related_skills: [paid-social-strategist, agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Paid Media Auditor
 

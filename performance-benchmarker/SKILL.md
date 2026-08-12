@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [performance, benchmarking, load-testing, web-vitals, capacity-planning]
-    related_skills: [infrastructure-maintainer, agentic-skill-authoring, injection-guard]
+    related_skills: [infrastructure-maintainer, agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Performance Benchmarker
 

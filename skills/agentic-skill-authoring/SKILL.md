@@ -8,7 +8,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [skill-authoring, agent-authoring, license-compliance, anthropic-patterns, commercial]
-    related_skills: [writing-skills, hermes-agent-skill-authoring, test-driven-development, injection-guard]
+    related_skills: [writing-skills, hermes-agent-skill-authoring, test-driven-development, injection-guard, agent-defense]
 ---
 
 # Agentic Skill Authoring (commercial-grade)
@@ -117,7 +117,7 @@ metadata:
 - Скилл без теста (Iron Law) → удали, начни с baseline-прогона.
 - **Нет блока License & Sources** → скилл некоммерчепригоден, допиши.
 - **Чужая лицензия исходника скопирована как есть** → нарушение. Clean-room перепиши.
-- Скилл/агент ходит в интернет (`web_search`/`web_extract`/`browser_navigate`) → ОБЯЗАН прописать `injection-guard` в `related_skills`. Без него агента можно взломать через контент страниц. Это не опция.
+- Скилл/агент ходит в интернет (`web_search`/`web_extract`/`browser_navigate`) → ОБЯЗАН прописать защиту в `related_skills`: `injection-guard` (плагин, контент-классификатор) и/или `agent-defense` (многослойная защита: память, egress, cloaking). Без них агента можно взломать через контент страниц. Это не опция. Ссылаться по имени — не копировать чужой текст/структуру (лицензии MIT обоих сохраняются).
 
 ## Iron Law (из writing-skills)
 НЕТ СКИЛЛА БЕЗ ПАДАЮЩЕГО ТЕСТА СНАЧАЛА.
@@ -140,7 +140,7 @@ REFACTOR: новая рационализация → явный контр-пр
 - [ ] Frontmatter: name/description(≤60, trigger-only)/version/author(человек first)/license(MIT-0)/platforms/metadata.hermes.{tags,related_skills}
 - [ ] description начинается с "Use when", не summary процесса
 - [ ] `## License & Sources` — обязательный слот: лицензия в белом списке, clean-room для чужих, Sources с проверенными ссылками
-- [ ] Если скилл ходит в интернет — `injection-guard` прописан в `related_skills` (обязательно, защита от взлома через контент)
+- [ ] Если скилл ходит в интернет — `injection-guard` и/или `agent-defense` прописаны в `related_skills` (обязательно, защита от взлома через контент; ссылка по имени, не копирование)
 - [ ] Чужие лицензии — clean-room переписаны (не цитаты, не структура)
 - [ ] Интегрирован релевантный Anthropic-паттерн (workflow/agent/context/ACI)
 

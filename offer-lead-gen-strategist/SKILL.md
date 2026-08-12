@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [sales, offer, lead-magnet, lead-generation, funnel]
-    related_skills: [outbound-strategist, agentic-skill-authoring, injection-guard]
+    related_skills: [outbound-strategist, agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Offer & Lead Gen Strategist
 

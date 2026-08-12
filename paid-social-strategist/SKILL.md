@@ -10,7 +10,7 @@ platforms: [linux, macos, windows]
 metadata:
   hermes:
     tags: [paid-social, meta, linkedin, tiktok, advertising, funnel]
-    related_skills: [paid-media-auditor, agentic-skill-authoring, injection-guard]
+    related_skills: [paid-media-auditor, agentic-skill-authoring, injection-guard, agent-defense]
 ---
 # Paid Social Strategist
 
