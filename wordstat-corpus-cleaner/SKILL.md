@@ -4,7 +4,7 @@ emoji: "🧹"
 color: "green"
 description: Use when cleaning a collected search-query corpus (Wordstat) down to a relevance-graded core — reads EVERY row by hand, applies intent questions + hard bans, emits small/medium/deleted.
 version: 0.1.0
-author: Емеля (Hermes Agent), по заказу Петра (ratingtesting)
+author: Emelya (Hermes Agent), commissioned by Petr (ratingtesting)
 license: MIT-0
 platforms: [linux, macos, windows]
 metadata:
@@ -13,50 +13,64 @@ metadata:
     related_skills: [semantic-corpus-cleaning, agentic-skill-authoring, injection-guard, agent-defense]
 ---
 
-# Wordstat Corpus Cleaner (ручная построчная чистка)
+# Wordstat Corpus Cleaner (manual line-by-line cleaning)
 
 ## Role
-Ты — специалист по очистке собранных поисковых корпусов (Яндекс.Вордстат и аналоги).
-Твоя задача — прочитать КАЖДУЮ строку собранного списка ВРУЧНУЮ (не скриптом, не
-выборкой) и решить: это релевантный запрос клиента (оставить в small/medium) или мусор
-(удалить). Ты НЕ пишешь код-классификатор как финальный ответ — код это только черновик
-(draft), честный просмотр = твоё построчное чтение.
+You are a specialist in cleaning collected search corpora (Yandex.Wordstat and analogues).
+Your task is to read EVERY line of the collected list BY HAND (not by script, not by
+sampling) and decide: is this a client-relevant query (keep in small/medium) or junk
+(delete). You do NOT write a code classifier as your final answer — code is only a draft,
+honest viewing = your line-by-line reading.
 
 ## Context
-Корпус собран для воронки контента: статья → сайт/прямо → заявка в Телеграм.
-Каждый оставленный запрос должен стать заголовком статьи, ведущей клиента к услуге.
-Тема задаётся внешне (в this project — частный риелтор Москва+МО+Дубай); механика
-универсальна (см. ROADMAP проекта + CORPUS_FILTER_CRITERIA.md). Если тема другая —
-меняешь якоря/гео/баны, алгоритм тот же.
+The corpus is collected for a content funnel: article → site/direct → Telegram lead.
+Every kept query must become an article headline that leads the client to the service.
+The topic is set externally (in this project — private realtor Moscow+MO+Dubai); the
+mechanics
+are universal (see the project ROADMAP + CORPUS_FILTER_CRITERIA.md). If the topic is
+different —
+you adjust anchors/geo/bans, the algorithm stays the same.
 
-## Task (на свой батч строк)
-1. Прочитай КАЖДУЮ строку батча. Не пропускай, не усредняй.
-2. Для каждой строки задай 8 вопросов намерения (Блок А):
-   Q1 КТО ищет (частник/профи/бизнес) · Q2 ЧТО хочет (купить-продать-снять / НАНЯТЬ
-   спеца / узнать) · Q3 ОБЪЕКТ (недвиж/товар/контент) · Q4 ГЕО (только белый список) ·
-   Q5 СТАДИЯ воронки · Q6 ДЕЙСТВИЕ или КОНТЕНТ · Q7 можно ли статью→ТГ · Q8 может ли
-   САМА ФРАЗА быть ЗАГОЛОВКОМ статьи.
-3. Применяй 10 жёстких запретов (Блок В): порно, чистое гео без объекта, криминал,
-   поиск конкретной компании, юмор/видео, поиск конкретного риелтора по имени, внешняя
-   гео (кроме МСК/МО/Дубай), товары/услуги не-недвиж, магия/животные/еда/дети без сделки,
-   госcоц/МФЦ/военкомат без сделки. Любой → deleted.
-4. Категоризуй: `small` (прямой глагол сделки + белое гео) / `medium` (релевантен,
-   якорь есть, но нет глагола сделки) / `deleted` (Блок В или остаточный шум).
-5. НЕ удаляй ядро бизнеса (риэлтор/агентство/застройщик/ипотека/егрн/жк) — это ЛИДЫ
-   (наём спеца), не мусор (Питфолл 2).
-6. Условные блоки (гео-справочник, садовый дом-товар, резиденции): удаляй ТОЛЬКО если
-   НЕТ глагола сделки («купить каркасный дом» оставить).
-7. Запиши результат: добавь колонку `category` к каждой строке своего батча.
-   Формат CSV: `phrase;count;category` (encoding=utf-8-sig!). Не переписывай фразы.
+## Task (per your batch of lines)
+1. Read EVERY line in the batch. Do not skip, do not average.
+2. For each line, ask 8 intent questions (Block A):
+   Q1 WHO is searching (private individual/professional/business) · Q2 WHAT they want
+   (buy-sell-rent / HIRE a pro / find out) · Q3 OBJECT (real-estate/goods/content) · Q4
+   GEO (whitelist only) ·
+   Q5 FUNNEL STAGE · Q6 ACTION or CONTENT · Q7 can the article→TG path work · Q8 can
+   the
+   PHRASE ITSELF be an ARTICLE HEADLINE.
+3. Apply 10 hard bans (Block B): pornography, pure geo without an object, crime, search
+   for a specific company, humor/video, search for a specific realtor by name, external
+   geo
+   (except MСК/МО/Dubai), goods/services unrelated to real-estate, magic/animals/food/
+   children
+   without a transaction, state social services/MFC/military commissariat without a
+   transaction.
+   Any hit → deleted.
+4. Categorize: `small` (direct transaction verb + white-list geo) / `medium` (relevant,
+   anchor
+   present, but no transaction verb) / `deleted` (Block B or residual noise).
+5. DO NOT remove the business core (realtor/agency/developer/mortgage/EGRN/TK) — these are
+   LEADS
+   (hiring a pro), not junk (Pitfall 2).
+6. Conditional blocks (geo directory, garden-house-as-goods, residences): delete ONLY if
+   there is NO transaction verb ("buy a frame house" → keep).
+7. Record the result: add a `category` column to each line in your batch.
+   CSV format: `phrase;count;category` (encoding=utf-8-sig!). Do not rewrite phrases.
 
 ## Hard Rules
-- ЧИТАЙ КАЖДУЮ строку. НЕ заменяй прочит маркер-скриптом (Питфолл 3 — доверие-ломающее).
-- НЕ удаляй профессию/ядро (Питфолл 2). Если сомневаешься «риэлтор <фамилия>» — это
-  поиск КОНКРЕТНОГО человека (Блок В.6) → deleted; «риэлтор москва» → medium.
-- CSV BOM: пиши/читай utf-8-sig (Питфолл 1).
-- Мусора в small/medium = 0 («мусора быть не должно НИКАКОГО»).
-- Если не уверен по смыслу — помечай `deleted` (консервативно), оркестратор/верификатор
-  перепроверят.
+- READ EVERY line. DO NOT replace reading with a marker-script (Pitfall 3 — trust-
+   breaking).
+- DO NOT remove profession/core (Pitfall 2). If you are unsure about "realtor <last
+   name>" —
+   this is a search for a SPECIFIC person (Block B.6) → deleted; "realtor Moscow" →
+   medium.
+- CSV BOM: write/read utf-8-sig (Pitfall 1).
+- Zero junk in small/medium ("there must be NO junk whatsoever").
+- If unsure about meaning — mark `deleted` (conservative approach); orchestrator/
+   verifier
+   will recheck.
 
 ## Output Example
 ```
@@ -68,13 +82,13 @@ phrase;count;category
 ```
 
 ## Dependencies
-Получает батч строк от оркестратора (hermes kanban swarm worker). Опирается на
-`semantic-corpus-cleaning` (полная механика + Блок А/Б/В) и `CORPUS_FILTER_CRITERIA.md`
-(полный список маркеров-банов). Верификатор = `reality-checker`. Синтезатор =
+Receives a batch of lines from the orchestrator (hermes kanban swarm worker). Relies on
+`semantic-corpus-cleaning` (full mechanics + Blocks A/B/C) and `CORPUS_FILTER_CRITERIA.md`
+(full marker-ban list). Verifier = `reality-checker`. Synthesizer =
 `content-creator`.
 
 ## License & Sources
-- License: MIT-0. Белый список: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
-- Clean-room: материал по методологии Петра (ratingtesting), переписан своими словами.
-- Связь с защитой: при любом веб-походе (web_search/web_extract/browser) обязательно
-  использовать `injection-guard` + `agent-defense` (требование README agent-roles).
+- License: MIT-0. Whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
+- Clean-room: material on methodology by Petr (ratingtesting), rewritten in own words.
+- Link to defense: when any web traversal occurs (web_search/web_extract/browser) it is
+   mandatory to use `injection-guard` + `agent-defense` (README agent-roles requirement).

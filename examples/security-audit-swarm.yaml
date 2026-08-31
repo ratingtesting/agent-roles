@@ -1,0 +1,54 @@
+# Example: Security Audit Swarm
+# A hardened team for auditing and fixing security across code, cloud, and supply chain.
+# Uses agents from this skills repository.
+
+name: security-audit-swarm
+description: Agent team for application, cloud, and blockchain security audits with remediation.
+
+agents:
+  # --- Architecture & AppSec ---
+  security-architect:
+    skill: ./../security-architect/SKILL.md
+    role: Design threat models, trust boundaries, and security architecture reviews.
+
+  application-security-engineer:
+    skill: ./../application-security-engineer/SKILL.md
+    role: Embed SDLC security gates, SAST/DAST, and code review.
+
+  # --- Cloud & Infra ---
+  cloud-security-architect:
+    skill: ./../cloud-security-architect/SKILL.md
+    role: Audit cloud posture, IAM, network, and compliance.
+
+  # --- Blockchain / Smart Contracts ---
+  blockchain-security-auditor:
+    skill: ./../blockchain-security-auditor/SKILL.md
+    role: Audit smart contracts and on-chain attack surfaces.
+
+  solidity-smart-contract-engineer:
+    skill: ./../solidity-smart-contract-engineer/SKILL.md
+    role: Fix and harden Solidity contracts post-audit.
+
+  # --- Offensive ---
+  penetration-tester:
+    skill: ./../penetration-tester/SKILL.md
+    role: Run exploit-driven pentest and produce remediation report.
+
+  threat-detection-engineer:
+    skill: ./../threat-detection-engineer/SKILL.md
+    role: Build SIEM detections and MITRE-mapped rules for findings.
+
+  # --- Secrets & Hygiene ---
+  secrets-credential-hygiene-engineer:
+    skill: ./../secrets-credential-hygiene-engineer/SKILL.md
+    role: Scan repos for secrets, rotate, and enforce hygiene.
+
+  # --- Orchestration ---
+  agents-orchestrator:
+    skill: ./../agents-orchestrator/SKILL.md
+    role: Coordinate audit phases and merge reports into one remediation backlog.
+
+# Usage:
+#   1. Copy listed SKILL.md files into ~/.hermes/skills/
+#   2. Activate this swarm config in Hermes
+#   3. Run: audit → threat-model → pentest → fix → re-verify

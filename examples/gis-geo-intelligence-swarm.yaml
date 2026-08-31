@@ -1,0 +1,60 @@
+# Example: GIS & Geo-Intelligence Swarm
+# A field-to-dashboard team for geospatial data, 3D, and spatial analytics.
+# Uses agents from this skills repository.
+
+name: gis-geo-intelligence-swarm
+description: Agent team for GIS processing, 3D visualization, drone mapping, and spatial analytics.
+
+agents:
+  # --- Data & Processing ---
+  spatial-data-engineer:
+    skill: ./../spatial-data-engineer/SKILL.md
+    role: Clean, transform, and pipeline geospatial datasets.
+
+  geoprocessing-specialist:
+    skill: ./../geoprocessing-specialist/SKILL.md
+    role: Automate ArcGIS/QGIS geoprocessing workflows.
+
+  gis-analyst:
+    skill: ./../gis-analyst/SKILL.md
+    role: Build map layers, spatial queries, and analytical overlays.
+
+  gis-qa-engineer:
+    skill: ./../gis-qa-engineer/SKILL.md
+    role: Validate geodata quality and cartographic accuracy.
+
+  # --- 3D & Reality Capture ---
+  3d-scene-developer:
+    skill: ./../3d-scene-developer/SKILL.md
+    role: Build interactive 3D scenes from GIS/terrain/point clouds.
+
+  drone-reality-mapping-specialist:
+    skill: ./../drone-reality-mapping-specialist/SKILL.md
+    role: Process drone imagery into orthomosaics, DSM, and 3D meshes.
+
+  bim-gis-specialist:
+    skill: ./../bim-gis-specialist/SKILL.md
+    role: Integrate BIM models with GIS context.
+
+  # --- Science & Visualization ---
+  spatial-data-scientist:
+    skill: ./../spatial-data-scientist/SKILL.md
+    role: Run spatial statistics, clustering, and hotspot analysis.
+
+  cartography-designer:
+    skill: ./../cartography-designer/SKILL.md
+    role: Design map styles and visualization for print/web.
+
+  data-visualization-engineer:
+    skill: ./../data-visualization-engineer/SKILL.md
+    role: Build honest, accessible charts for spatial metrics.
+
+  # --- Orchestration ---
+  agents-orchestrator:
+    skill: ./../agents-orchestrator/SKILL.md
+    role: Sequence ingestion → QA → 3D/mapping → analysis → publish.
+
+# Usage:
+#   1. Copy listed SKILL.md files into ~/.hermes/skills/
+#   2. Activate this swarm config in Hermes
+#   3. Run: ingest → process → QA → visualize → deliver

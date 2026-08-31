@@ -1,0 +1,62 @@
+# Example: China Market Entry Swarm
+# A go-to-market team for launching and scaling a brand across China's platforms.
+# Uses agents from this skills repository.
+
+name: china-market-entry-swarm
+description: Agent team for Baidu SEO, Douyin/Bilibili/Xiaohongshu content, WeChat ops, and cross-border e-commerce.
+
+agents:
+  # --- Market & Localization ---
+  china-market-localization-strategist:
+    skill: ./../china-market-localization-strategist/SKILL.md
+    role: Localize brand, messaging, and compliance for mainland China.
+
+  # --- Search ---
+  baidu-seo-specialist:
+    skill: ./../baidu-seo-specialist/SKILL.md
+    role: Rank on Baidu, handle ICP, and optimize for Baidu ecosystem.
+
+  # --- Short Video & Livestream ---
+  douyin-strategist:
+    skill: ./../douyin-strategist/SKILL.md
+    role: Grow Douyin (China TikTok) with hooks, trends, and livestream.
+
+  kuaishou-strategist:
+    skill: ./../kuaishou-strategist/SKILL.md
+    role: Activate grassroots audiences on Kuaishou.
+
+  bilibili-content-strategist:
+    skill: ./../bilibili-content-strategist/SKILL.md
+    role: Build Bilibili channel (B站) with series and community.
+
+  # --- Social & Commerce ---
+  xiaohongshu-specialist:
+    skill: ./../xiaohongshu-specialist/SKILL.md
+    role: Seed lifestyle UGC and conversions on Xiaohongshu (小红书).
+
+  wechat-official-account:
+    skill: ./../wechat-official-account/SKILL.md
+    role: Operate WeChat Official Account (公众号) content and CRM.
+
+  wechat-mini-program-developer:
+    skill: ./../wechat-mini-program-developer/SKILL.md
+    role: Build and ship WeChat Mini Programs.
+
+  # --- E-commerce ---
+  china-ecommerce-operator:
+    skill: ./../china-ecommerce-operator/SKILL.md
+    role: Run Taobao / PDD / JD store ops, promos, and fulfillment.
+
+  cross-border-ecommerce:
+    skill: ./../cross-border-ecommerce/SKILL.md
+    role: Launch products on Tmall Global / JD Worldwide and logistics.
+
+  # --- Orchestration ---
+  agents-orchestrator:
+    skill: ./../agents-orchestrator/SKILL.md
+    role: Coordinate localization → content → channels → commerce pipeline.
+
+# Usage:
+#   1. Copy listed SKILL.md files into ~/.hermes/skills/
+#   2. Activate this swarm config in Hermes
+#   3. Run: localize → create → publish across Douyin/Bilibili/Xiaohongshu/WeChat → sell

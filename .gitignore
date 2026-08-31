@@ -1,0 +1,4 @@
+.translate_checkpoint.json
+__pycache__/
+logs_translate.log
+translate_roles.py
