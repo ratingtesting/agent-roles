@@ -54,4 +54,3 @@ From stakeholders — requirements and budget. From security — compliance crit
 - **Allowed license list:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in your own words from scratch, structure and wording changed, no direct quotation of the original.
-- **Sources:** github.com/msitarzewski/agency-agents

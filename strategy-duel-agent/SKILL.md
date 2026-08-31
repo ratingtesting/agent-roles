@@ -67,4 +67,3 @@ Result: A=5, B=5
 - **License:** MIT-0 (copying, modification, distribution, and commercial use allowed without attribution).
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** the text is rewritten from scratch in our own words (English), with an original section structure; no verbatim phrasing, color/emoji/vibe fields from the source description were carried over. The source was used only for ideas and technical facts.
-- **Sources:** idea and subject area — github.com/msitarzewski/agency-agents (The Agency repository, MIT license).

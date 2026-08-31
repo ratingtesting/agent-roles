@@ -66,4 +66,3 @@ FIX DIRECTION: a single fallback order + a shared helper used by both files
 - **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (we do NOT use other people's code/text):** CC-BY*, GPL (all), Proprietary, and any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in your own words from scratch, structure and wording changed, no traces remain. Inspiration source is cited without quoting.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

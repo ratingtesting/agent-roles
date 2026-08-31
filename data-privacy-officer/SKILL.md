@@ -50,4 +50,3 @@ Receives inputs from business units (processing activities), legal, and InfoSec 
 - Source whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all versions), Proprietary, any license requiring attribution or share-alike.
 - Clean-room: material rewritten in our own words from scratch, with no copying of text or structure, no attribution.
-- Sources (inspiration): github.com/msitarzewski/agency-agents

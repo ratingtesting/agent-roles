@@ -61,4 +61,3 @@ Target: 70% consumption, 20% MoM downloads
 - **Allowed source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (DO NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in your own words from scratch, structure and phrasing changed, untraceable to source. Inspiration source cited without quoting.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

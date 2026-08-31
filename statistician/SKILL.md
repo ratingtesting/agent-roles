@@ -65,4 +65,3 @@ roll out to Pro, repeat measurement in 2 cycles to check stability.
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (do not use):** CC-BY*, GPL (all), Proprietary — their text and structure are not copied.
 - **Clean-room:** the role was rewritten from scratch in our own words; original structure, wording, examples, with no verbatim phrases.
-- **Sources:** github.com/msitarzewski/agency-agents (MIT; topic, no quoting of text).

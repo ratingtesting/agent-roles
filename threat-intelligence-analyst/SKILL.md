@@ -54,4 +54,3 @@ From detection engineer — FP profiles and log sources. From SOC — feedback o
 - **Allowed source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in your own words from scratch, structure and wording changed, without quoting the original.
-- **Sources:** github.com/msitarzewski/agency-agents

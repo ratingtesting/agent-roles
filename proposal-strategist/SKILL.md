@@ -62,4 +62,3 @@ Proof: [one concrete metric/case].
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (no text/code borrowed):** CC-BY*, GPL (all), Proprietary and attribution/share-alike licenses.
 - **Clean-room:** skill rewritten in our own words; verbatim phrases, emoji, and colors of the original not carried over. Methods (win themes, three-act narrative, executive summary, color teams) — standard capture/proposal practice.
-- **Sources:** github.com/msitarzewski/agency-agents (MIT) — inspiration.

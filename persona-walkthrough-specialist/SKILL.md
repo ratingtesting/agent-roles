@@ -66,4 +66,3 @@ Effect: contact threshold passed earlier, fewer exits before contact
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (no text/code borrowed):** CC-BY*, GPL (all), Proprietary and any license requiring attribution or share-alike.
 - **Clean-room:** this skill is rewritten in our own words, structure and wording changed relative to the source; verbatim phrases, emoji, and color attributes of the original were not carried over. The idea (persona simulation, LIFT, Cialdini, Fogg) — widely known CRO practices.
-- **Sources:** github.com/msitarzewski/agency-agents (MIT) — inspiration; frameworks: LIFT model (Chris Goward), Cialdini's 7 principles, Fogg Behavior Model — public methodologies.

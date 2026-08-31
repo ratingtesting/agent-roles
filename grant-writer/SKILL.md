@@ -49,4 +49,3 @@ Receives inputs from the organization (mission, finances, programs, grant histor
 - Whitelist of sources: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all versions), Proprietary, any licenses requiring attribution or share-alike.
 - Clean-room: material rewritten from scratch in your own words, without copying text or structure, without attribution.
-- Sources (inspiration): github.com/msitarzewski/agency-agents

@@ -59,4 +59,3 @@ URLs: tiktok.com/@x, instagram.com/p/y
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (we do NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in our own words from scratch, structure and formulations changed, no traces to be found. The inspiring source is cited without quotation.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

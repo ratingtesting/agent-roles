@@ -53,4 +53,3 @@ Exit: converted / unsubscribed / bounced / complained / inactive > 90 days (into
 - **License:** MIT-0 (copying, modification, distribution, and commercial use permitted without attribution).
 - **Whitelisted sources:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** text rewritten from scratch in my own words (Russian), section structure is original; verbatim phrasings, color/emoji/vibe fields from the source description were not carried over. Source used only as an idea and technical-fact reference.
-- **Sources:** concept and subject area — github.com/msitarzewski/agency-agents (The Agency repository, MIT license).

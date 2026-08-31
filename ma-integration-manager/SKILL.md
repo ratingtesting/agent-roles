@@ -53,4 +53,3 @@ Fragment of the Day 1 checklist: “Payroll transition: owner [name], deadline [
 - **License:** MIT-0 (default; commercial use without attribution).
 - **White list of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD. Excluded: CC-BY*, GPL (all versions), Proprietary, any requiring attribution or share-alike.
 - **Clean-room note:** the source is used only as a source of ideas and domain texture; the text was rewritten from scratch in your own words, the structure was your own, verbatim phrases and the design of the original (color/emoji/vibration) were not transferred.
-- **Sources:** github.com/msitarzewski/agency-agents - specialized/ma-integration-manager.md (mastermind; no citation).

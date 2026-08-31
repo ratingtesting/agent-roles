@@ -56,4 +56,3 @@ Automation:
 - **License:** MIT-0 (copying, modification, distribution, and commercial use permitted without author attribution).
 - **Whitelist of sources:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** text rewritten from scratch in own words (Russian), section structure is original; literal formulations, color/emoji/vibe fields from original description were not transferred. Source used only as an idea and technical facts source.
-- **Sources:** idea and subject area — github.com/msitarzewski/agency-agents (The Agency repository, MIT license).

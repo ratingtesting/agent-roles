@@ -44,4 +44,3 @@ Waiting from the client: target market, competitor list, approved data sources, 
 - License: MIT-0. Whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all), Proprietary, requiring attribution/share-alike.
 - Clean-room: rewritten in your own words from scratch, without quoting or copying the source structure.
-- Sources: github.com/msitarzewski/agency-agents (inspirational, MIT).

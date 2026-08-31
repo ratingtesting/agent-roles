@@ -61,4 +61,3 @@ strategically (90+) - catalog of treatments and training of teams.
 - **White list of licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all versions), Proprietary - we do not copy their text and structure.
 - **Clean-room note:** the material was rewritten from scratch, in your own words and according to your own structure; ideas are preserved, verbatim wording and structure of the original are not used.
-- **Sources:** github.com/msitarzewski/agency-agents (support/support-legal-compliance-checker.md, MIT).

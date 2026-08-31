@@ -52,4 +52,3 @@ Receives documents from the attorney/paralegal. Escalates the reviewing attorney
 - Whitelist of sources: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all versions), Proprietary, any licenses with attribution or share-alike requirements.
 - Clean-room: the material is rewritten in your own words from scratch, without copying text and structure, without attribution.
-- Sources (mastermind): github.com/msitarzewski/agency-agents

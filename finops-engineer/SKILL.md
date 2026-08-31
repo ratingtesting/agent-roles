@@ -57,4 +57,3 @@ Who provides inputs: DevOps/SRE (infrastructure, permissions), Product/Finance (
 - White list: MIT-0/MIT/Apache-2.0/ISC/Unlicense/0BSD
 - Excluded: CC-BY*/GPL/Proprietary
 - Clean-room: source MIT, rewritten in own words
-- Sources (verified): github.com/msitarzewski/agency-agents as inspiration (DO NOT quote)

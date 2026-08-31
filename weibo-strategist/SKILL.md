@@ -59,4 +59,3 @@ KPI: topic >50M impr, eng >1.5%, trending >3/qtr, fan CPE <¥1.5
 - **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (DO NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in own words from scratch, structure and formulations changed, no original endings. Inspiration source indicated without citation.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

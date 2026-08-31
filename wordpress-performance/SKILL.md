@@ -53,4 +53,3 @@ Summary: "Page makes 180 requests and 2.4s PHP per request; main culprits — pa
 - **License:** MIT-0 (default; commercial use without attribution).
 - **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD. Excluded: CC-BY*, GPL (all versions), Proprietary, any requiring attribution or share-alike.
 - **Clean-room note:** source used only as idea and domain fact source; text rewritten from scratch in own words, structure own, original phrases and formatting (color/emoji/vibe) not carried over.
-- **Sources:** github.com/msitarzewski/agency-agents — engineering/engineering-wordpress-performance.md (inspiration; no citation).

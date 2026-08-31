@@ -65,4 +65,3 @@ sensitivity to aggregation-boundary changes — conclusions are robust
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (do not use):** CC-BY*, GPL (all), Proprietary — their text and structure are not copied.
 - **Clean-room:** the role was rewritten from scratch in our own words based on the source idea; original structure, wording, examples, and no verbatim phrases.
-- **Sources:** github.com/msitarzewski/agency-agents (MIT; topic, no quoting of text).

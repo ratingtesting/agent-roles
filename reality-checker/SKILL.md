@@ -56,4 +56,3 @@ Expects from adjacent agents: collected screenshots (Playwright/headless Chrome)
 - Source license whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - Clean-room rule: source material (MIT) rewritten in our own words from scratch — structure and wording changed, without quoting.
-- Sources (verified): github.com/msitarzewski/agency-agents

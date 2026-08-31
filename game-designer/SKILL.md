@@ -48,4 +48,3 @@ Vision and references, playtest data, engineering constraints, economy design.
 - **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (not used):** CC-BY*, GPL (all), Proprietary — anything that requires attribution or share-alike.
 - **Clean-room:** the source agent (MIT) has been rewritten from scratch — original wording, original structure, no verbatim phrases, no color or emoji attribution.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents (game-development/game-designer.md)

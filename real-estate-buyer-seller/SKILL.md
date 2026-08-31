@@ -52,4 +52,3 @@ Receives inputs from buyer/seller clients. Coordinates inspectors/lenders/title/
 - Source whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all versions), Proprietary, any requiring attribution or share-alike.
 - Clean-room: material rewritten in our own words from scratch, without copying text and structure, without attribution.
-- Sources (inspiration): github.com/msitarzewski/agency-agents

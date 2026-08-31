@@ -52,4 +52,3 @@ From game design: visual spec. From engine dev: render settings. From the art le
 - **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all), Proprietary, and any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in your own words from scratch, structure and wording changed, with no quoting of the original.
-- **Sources:** github.com/msitarzewski/agency-agents

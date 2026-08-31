@@ -47,4 +47,3 @@ Post-close accounting, planning systems, divisional KPIs, planning calendar.
 - **Allowed source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (not used):** CC-BY*, GPL (all), Proprietary — anything requiring attribution or share-alike.
 - **Clean-room:** original agent (MIT) rewritten from scratch — own phrasing, own structure, no verbatim phrases, no color or emoji attribution.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents (finance/finance-fpa-analyst.md)

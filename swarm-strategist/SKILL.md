@@ -78,4 +78,3 @@ KPI: ≥1 phase closed, ≥1 escalation, <4h to handoff, 10/10 gates green
 - **License:** MIT-0 (copying, modification, distribution, and commercial use allowed without attribution).
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** rewritten from scratch in our own words; no verbatim copying of third-party text/structure.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents, keelwright methodology, Hermes Agent docs.

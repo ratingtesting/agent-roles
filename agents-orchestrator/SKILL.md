@@ -56,5 +56,4 @@ Fresh role patterns from the 2026 web review, rewritten in our own words (clean-
 - Whitelist of sources: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all versions), Proprietary, any licenses requiring attribution or share-alike.
 - Clean-room: the material is rewritten from scratch in our own words, without copying text or structure, without attribution.
-- Sources (inspiration): github.com/msitarzewski/agency-agents
 

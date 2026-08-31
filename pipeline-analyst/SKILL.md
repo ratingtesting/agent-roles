@@ -79,4 +79,3 @@ Before starting:
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (no text/code borrowed):** CC-BY*, GPL (all), Proprietary and attribution/share-alike licenses.
 - **Clean-room:** skill rewritten in our own words; source wording and structure changed, verbatim phrases, emoji, and colors not carried over. Methods (pipeline velocity, coverage, MEDDPICC, three-tier forecast) — standard revenue operations practice.
-- **Sources:** github.com/msitarzewski/agency-agents (MIT) — inspiration; MEDDPICC — open deal-qualification standard.

@@ -48,4 +48,3 @@ Raw images, geodetic GCP survey, photogrammetry software (Pix4D/Agisoft/WebODM),
 - **Whitelisted source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (not used):** CC-BY*, GPL (all), Proprietary — anything requiring attribution or share-alike.
 - **Clean-room:** the original agent (MIT) has been rewritten from scratch — own wording, own structure, no verbatim phrases, no color and emoji attribution.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents (gis/gis-drone-reality-mapping.md)

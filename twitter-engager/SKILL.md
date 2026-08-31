@@ -60,4 +60,3 @@ KPI: 2.5% eng, 80% reply<2h, +10% followers/mo
 - **Approved source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (do NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in your own words from scratch, structure and wording changed, no identifiable traces. Source inspiration noted without quoting.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

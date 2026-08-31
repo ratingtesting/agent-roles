@@ -49,4 +49,3 @@ Receives inputs from the sales/technical team and the client (requirements, budg
 - Source whitelist: MIT-0, MIT, Apache-2.0, ISC, Steam Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all versions), Proprietary, any licenses requiring attribution or share-alike.
 - Clean-room: material rewritten from scratch in your own words, without copying text or structure, without attribution.
-- Sources (inspiration): github.com/msitarzewski/agency-agents

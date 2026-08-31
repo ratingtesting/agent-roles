@@ -44,4 +44,3 @@ Waiting from requester: simulation scenario, set of inputs, and acceptable motio
 - License: MIT-0. Whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all), Proprietary, requiring attribution/share-alike.
 - Clean-room: rewritten from scratch in own words, without quoting and copying source structure.
-- Sources: github.com/msitarzewski/agency-agents (inspirer, MIT).

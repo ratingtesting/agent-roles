@@ -63,4 +63,3 @@ def psi(expected, actual, bins=10):
 - **License:** MIT-0 (copying, modification, distribution and commercial use is permitted without attribution).
 - **White list of sources:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** text rewritten from scratch in your own words (Russian), section structure is your own; verbatim wording, the color/emoji/vibe fields of the original description were not transferred. The source is used only as a source of ideas and technical facts.
-- **Sources:** idea and subject area - github.com/msitarzewski/agency-agents (The Agency repository, MIT license).

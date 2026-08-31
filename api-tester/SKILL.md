@@ -58,4 +58,3 @@ Verdict: FAIL until IDOR is fixed; re-run after the fix
 - **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (text and structure not copied):** CC-BY*, GPL (all versions), Proprietary.
 - **Clean-room:** the document is written from scratch: ideas are retold in our own words, wording and structure are changed, verbatim phrases from the source are absent.
-- **Sources:** github.com/msitarzewski/agency-agents (inspiring repository).

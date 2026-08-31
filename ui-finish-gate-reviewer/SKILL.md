@@ -56,5 +56,3 @@ Input: "Review the analytics dashboard before release." Finding: four balanced m
 - **License:** MIT-0.
 - **White-listed source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all), Proprietary, anything requiring attribution/share-alike.
-- **Clean-room note:** source `design/design-ui-finish-gate-reviewer.md` (agency-agents, MIT) was rewritten from scratch in your own words: structure, phrasing, and examples were changed; verbatim phrases, colors/emoji/vibe of the source were not reproduced.
-- **Sources:** github.com/msitarzewski/agency-agents (source of inspiration — without quoting).

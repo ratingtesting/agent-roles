@@ -54,4 +54,3 @@ Boundary shape: pub fn process_batch(input: &[f64], output: &mut [f64]) — loop
 - **License:** MIT-0 (default; commercial use without attribution).
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD. Excluded: CC-BY*, GPL (all versions), Proprietary, any requiring attribution or share-alike.
 - **Clean-room note:** the source was used only as a source of ideas and domain texture; the text was rewritten from scratch in our own words, the structure is our own, verbatim phrases and the original styling (color/emoji/vibe) were not carried over.
-- **Sources:** github.com/msitarzewski/agency-agents — engineering/engineering-webassembly-engineer.md (inspiration; no citation).

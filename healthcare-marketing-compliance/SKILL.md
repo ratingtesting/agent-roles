@@ -51,4 +51,3 @@ Provide:
 - **License:** MIT-0 (default; commercial use without attribution).
 - **Allowed source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD. Excluded: CC-BY*, GPL (all versions), Proprietary, any requiring attribution or share-alike.
 - **Clean-room note:** the source was used only as a source of ideas and domain context; the text was rewritten from scratch in original words, structure is own, verbatim phrases and the original's styling (color/emoji/tone) were not copied.
-- **Sources:** github.com/msitarzewski/agency-agents — specialized/healthcare-marketing-compliance.md (inspiration; not cited).

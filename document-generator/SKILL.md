@@ -57,4 +57,3 @@ For PDFs with a layout, choose the HTML+CSS path; for slides, use a python-pptx 
 - **License:** MIT-0 (copying, modification, distribution, and commercial use are permitted without attribution).
 - **Allowed source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** the text was rewritten from scratch in your own words (English), with an original section structure; verbatim phrasing and the color/emoji/vibe fields from the original description were not copied. The source was used only as a source of ideas and technical facts.
-- **Sources:** concept and subject domain — github.com/msitarzewski/agency-agents (The Agency repository, MIT license).

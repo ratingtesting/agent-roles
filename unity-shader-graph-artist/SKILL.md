@@ -60,5 +60,3 @@ Dissolve-effect scheme in graph terms (artist parameters and node flow):
 - **License:** MIT-0.
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
-- **Clean-room note:** the source `game-development/unity/unity-shader-graph-artist.md` (agency-agents, MIT) was rewritten from scratch in our own words: structure, wording, and code examples reworked; verbatim phrases are not reproduced.
-- **Sources:** github.com/msitarzewski/agency-agents (inspiration — no citation).

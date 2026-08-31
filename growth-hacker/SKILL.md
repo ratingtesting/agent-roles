@@ -60,4 +60,3 @@ North Star: WoW active +22%
 - **Approved source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (DO NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten from scratch in your own words, structure and phrasing changed beyond recognition. Inspirational source cited without quotation.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

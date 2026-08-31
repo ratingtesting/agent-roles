@@ -53,4 +53,3 @@ You are a full-funnel strategist for cross-border sales: Amazon (NA/EU/JP), Shop
 - **License:** MIT-0 (copy, modify, distribute, and commercial use allowed without attribution).
 - **Source whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** text rewritten from scratch in our own words (English), original section structure; no verbatim phrasing, and the source's color/emoji/vibe fields were not carried over. The source was used only as inspiration and for technical facts.
-- **Sources:** idea and subject area — github.com/msitarzewski/agency-agents (The Agency repository, MIT license).

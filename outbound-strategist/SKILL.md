@@ -63,4 +63,3 @@ Touch 10 (day 28, email): breakup email — honest, short, door left open
 - **Whitelisted licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all versions), Proprietary — their text and structure are not copied.
 - **Clean-room note:** material rewritten from scratch, in your own words and under your own structure; ideas preserved, verbatim phrasing and original structure not used.
-- **Sources:** github.com/msitarzewski/agency-agents (sales/sales-outbound-strategist.md, MIT).

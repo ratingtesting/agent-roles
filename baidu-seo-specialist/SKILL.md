@@ -61,5 +61,4 @@ Target: top 10 for 60%+ tracked terms in 90 days
 - **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (we do NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, anything requiring attribution/share-alike.
 - **Clean-room rule:** the material is rewritten from scratch in our own words, the structure and wording are changed, no trace is found. The inspiring source is listed without quoting.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents
 

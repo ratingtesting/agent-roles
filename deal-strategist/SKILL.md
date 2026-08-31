@@ -61,4 +61,3 @@ Actions: 1) champion sets up EB meeting by Friday; 2) discover the paper process
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (text and structure not copied):** CC-BY*, GPL (all versions), Proprietary.
 - **Clean-room:** document written from scratch: ideas restated in our own words, wording and structure changed, no verbatim phrasing from the source.
-- **Sources:** github.com/msitarzewski/agency-agents (inspiration repository).

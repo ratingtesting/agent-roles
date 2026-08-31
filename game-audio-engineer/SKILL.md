@@ -48,4 +48,3 @@ Audio assets, gameplay states list, target platforms and budget, audio design do
 - **Accepted source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (not used):** CC-BY*, GPL (all), Proprietary — anything requiring attribution or share-alike.
 - **Clean-room:** the original agent (MIT) rewritten from scratch — own phrasing, own structure, no verbatim phrases, no color or emoji attribution.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents (game-development/game-audio-engineer.md)

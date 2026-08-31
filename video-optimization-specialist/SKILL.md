@@ -61,4 +61,3 @@ KPI: CTR 8%+, 50% retention@3min, suggested +40%
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (we do NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** the material was rewritten in our own words from scratch, the structure and wording changed, no traces remain. The inspiration source is noted without citation.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

@@ -59,4 +59,3 @@ Engage: 5 comments pre, reply 60min
 - **White list of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (DO NOT use someone else's code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** the material is rewritten in your own words from scratch, the structure and wording are changed, the ends cannot be found. The inspirational source is indicated without citation.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

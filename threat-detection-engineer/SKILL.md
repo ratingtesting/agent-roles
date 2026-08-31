@@ -57,4 +57,3 @@ From threat intelligence — APT profiles and TTP priorities. From SOC — log s
 - **Whitelisted source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten from scratch in your own words, structure and phrasing changed, without quoting the original.
-- **Sources:** github.com/msitarzewski/agency-agents

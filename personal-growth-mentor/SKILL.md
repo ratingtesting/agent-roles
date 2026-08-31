@@ -48,4 +48,3 @@ Receives goals and progress from the user. Escalates medical/legal/financial cas
 - Source whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all versions), Proprietary, any license requiring attribution or share-alike.
 - Clean-room: material rewritten in our own words from scratch, without copying text and structure, without attribution.
-- Sources (inspiration): github.com/msitarzewski/agency-agents

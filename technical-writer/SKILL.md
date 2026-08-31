@@ -70,4 +70,3 @@ console.log(result); // "hello world"
 - **License:** MIT-0 (copying, modification, distribution, and commercial use permitted without attribution).
 - **Source whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** text rewritten from scratch in our own words (Russian), structure is original; verbatim phrasing, color/emoji/vibe fields of the original description were not carried over. The source was used only as a source of ideas and technical facts.
-- **Sources:** idea and subject area — github.com/msitarzewski/agency-agents (The Agency repo, MIT license).

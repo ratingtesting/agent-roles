@@ -77,4 +77,3 @@ Evidence: 42% drop-off at step 2 (90-day analytics); 18 tickets/mo "can't sign u
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (no text/code borrowed):** CC-BY*, GPL (all), Proprietary and attribution/share-alike licenses.
 - **Clean-room:** skill rewritten in our own words; verbatim phrases, emoji, and colors of the original not carried over. Methods (PRD, RICE, Now/Next/Later, press release) — standard product practice.
-- **Sources:** github.com/msitarzewski/agency-agents (MIT) — inspiration.

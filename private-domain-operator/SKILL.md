@@ -60,4 +60,3 @@ Compliance: 4 msgs/mo, PIPL consent, 70/30 value/promo
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (do NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in our own words from scratch, structure and wording changed, nothing traceable. Source of inspiration noted without quoting.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

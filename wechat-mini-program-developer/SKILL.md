@@ -83,4 +83,3 @@ Page({
 - **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (DO NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in own words from scratch, structure and formulations changed, no verbatim copies. Inspiration source listed without citation.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

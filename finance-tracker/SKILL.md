@@ -48,4 +48,3 @@ Accounting data, chart of accounts, contracts and payment terms, company target 
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (not used):** CC-BY*, GPL (all), Proprietary — anything requiring attribution or share-alike.
 - **Clean-room:** original agent (MIT) rewritten from scratch — original wording, original structure, no verbatim phrases, no color or emoji attribution.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents (support/support-finance-tracker.md)

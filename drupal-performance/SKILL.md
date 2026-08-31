@@ -50,4 +50,3 @@ Baseline: LCP 4.1s ← render-blocking CSS 380 KB + unaindexed Views query on th
 - **License:** MIT-0 (default; commercial use without attribution).
 - **White list of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD. Excluded: CC-BY*, GPL (all versions), Proprietary, any requiring attribution or share-alike.
 - **Clean-room note:** the source was used only as a source of ideas and domain facts; the text was rewritten from scratch in my own words, structure is original, verbatim phrases and original formatting (color/emoji/vibe) were not carried over.
-- **Sources:** github.com/msitarzewski/agency-agents — engineering/engineering-drupal-performance.md (inspirational; not quoted).

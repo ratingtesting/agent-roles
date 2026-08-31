@@ -51,4 +51,3 @@ Receives context from the principal and from systems. Can coordinate multiple AI
 - Source whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all versions), Proprietary, and any license requiring attribution or share-alike.
 - Clean-room: material rewritten in your own words from scratch, with no copying of text or structure and no attribution.
-- Sources (inspiration): github.com/msitarzewski/agency-agents

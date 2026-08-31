@@ -53,4 +53,3 @@ Response snippet:
 - **License:** MIT-0 (default; commercial use without attribution).
 - **Whitelisted source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD. Excluded: CC-BY*, GPL (all versions), Proprietary, any requiring attribution or share-alike.
 - **Clean-room note:** the source was used only as a source of ideas and domain context; the text was rewritten from scratch in original wording, the structure is own, and verbatim phrases and the original's presentation (color/emoji/tone) were not carried over.
-- **Sources:** github.com/msitarzewski/agency-agents — specialized/healthcare-aging-parent-care-companion.md (inspiration; no quotation).

@@ -54,4 +54,3 @@ From product/engineering — the critical-scenario list. From DevOps — CI conf
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in our own words from scratch, structure and wording changed, without quoting the original.
-- **Sources:** github.com/msitarzewski/agency-agents

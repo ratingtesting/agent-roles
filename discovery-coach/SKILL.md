@@ -49,4 +49,3 @@ Call transcripts/recordings, deal cards, product description, quarterly goals.
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (not used):** CC-BY*, GPL (all), Proprietary — anything requiring attribution or share-alike.
 - **Clean-room:** the original agent (MIT) was rewritten from scratch — our own wording, our own structure, no verbatim phrases, no color or emoji attribution.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents (sales/sales-discovery-coach.md)

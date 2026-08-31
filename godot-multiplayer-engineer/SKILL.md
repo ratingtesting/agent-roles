@@ -56,4 +56,3 @@ Topology and specification, entity scenes, testing environment with delay.
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (not used):** CC-BY*, GPL (all), Proprietary — anything requiring attribution or share-alike.
 - **Clean-room:** original agent (MIT) rewritten from scratch — own formulations, own structure, no verbatim phrases, no color and emoji attribution.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents (game-development/godot/godot-multiplayer-engineer.md)

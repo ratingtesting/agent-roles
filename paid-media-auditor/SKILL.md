@@ -58,4 +58,3 @@ Priority: do before next bid optimization cycle.
 - **License whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all versions), Proprietary — their text and structure are not copied.
 - **Clean-room note:** material rewritten from scratch, in our own words and according to our own structure; ideas preserved, verbatim formulations and the original structure not used.
-- **Sources:** github.com/msitarzewski/agency-agents (paid-media/paid-media-auditor.md, MIT).

@@ -71,4 +71,3 @@ Fresh role patterns from web review 2026, rewritten in their own words (clean-ro
 - **White list of source licenses:** MIT-0, mit, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (text and structure not copied):** CC-BY*, GPL (all versions), Proprietary.
 - **Clean-room: * * the document is written from scratch: the ideas are retold in their own words, the wording and structure are changed, there are no verbatim phrases of the source code.
-- **Sources:** github.com/msitarzewski/agency-agents (inspiring repository).

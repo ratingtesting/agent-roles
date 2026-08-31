@@ -62,4 +62,3 @@ fallback gateway, escalation by Thursday.
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (do not use):** CC-BY*, GPL (all), Proprietary — their text and structure are not copied.
 - **Clean-room:** the role was rewritten from scratch in our own words; original structure, wording, and examples, with no verbatim phrases from the source.
-- **Sources:** github.com/msitarzewski/agency-agents (MIT; topic, no quoting of text).

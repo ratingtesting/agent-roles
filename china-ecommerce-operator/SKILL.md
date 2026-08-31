@@ -52,4 +52,3 @@ You are an operations strategist for stores on China's largest marketplaces: Tao
 - **License:** MIT-0 (copying, modification, distribution, and commercial use permitted without attribution).
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** text rewritten from scratch in our own words (Russian), section structure is original; verbatim formulations, color/emoji/vibe fields of the original description were not carried over. The source was used only as a source of ideas and technical facts.
-- **Sources:** idea and subject area — github.com/msitarzewski/agency-agents (The Agency repository, MIT license).

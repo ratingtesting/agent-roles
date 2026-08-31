@@ -45,4 +45,3 @@ Expects from the client: brand guidelines, target audience, and the list of plat
 - License: MIT-0. Whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all), Proprietary, requiring attribution/share-alike.
 - Clean-room: rewritten in our own words from scratch, without citing or copying the source's structure.
-- Sources: github.com/msitarzewski/agency-agents (inspiration, MIT).

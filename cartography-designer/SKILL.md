@@ -59,4 +59,3 @@ Verification: CVD-blindness simulation — class boundaries distinguishable; rea
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (text and structure not copied):** CC-BY*, GPL (all versions), Proprietary.
 - **Clean-room:** the document is written from scratch: ideas retold in our own words, formulations and structure changed, verbatim source phrases absent.
-- **Sources:** github.com/msitarzewski/agency-agents (inspiring repository).

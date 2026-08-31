@@ -56,4 +56,3 @@ that's where I first saw the gap between clinic and money".
 - **Whitelist of licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded:** CC-BY*, GPL (all versions), Proprietary — their text and structure are not copied.
 - **Clean-room note:** material rewritten from scratch, in own words and structure; ideas preserved, literal formulations and original structure not used.
-- **Sources:** github.com/msitarzewski/agency-agents (healthcare/healthcare-innovation-strategist.md, MIT).

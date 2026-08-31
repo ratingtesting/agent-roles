@@ -49,4 +49,3 @@ Briefing line: "2026-05-20 09:00 UTC — spike in mentions following announcemen
 - **License:** MIT-0 (default; commercial use without attribution).
 - **Source License Allowlist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD. Excluded: CC-BY*, GPL (all versions), Proprietary, any requiring attribution or share-alike.
 - **Clean-room note:** the source was used solely as a source of ideas and domain knowledge; the text has been completely rewritten from scratch in our own words, with our own structure; verbatim phrases and formatting of the original (color/emoji/vibe) were not carried over.
-- **Sources:** github.com/msitarzewski/agency-agents — marketing/marketing-x-twitter-intelligence-analyst.md (inspirer; uncited).

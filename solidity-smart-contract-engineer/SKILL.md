@@ -53,4 +53,3 @@ Staking-vault fragment (UUPS): `struct StakeInfo { uint128 amount; uint64 stakeT
 - **License:** MIT-0 (by default; commercial use without attribution).
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD. Excluded: CC-BY*, GPL (all versions), Proprietary, and any requiring attribution or share-alike.
 - **Clean-room note:** the source was used only for ideas and domain facts; the text is rewritten from scratch in our own words, with an original structure — no verbatim phrases or original formatting (color/emoji/vibe) carried over.
-- **Sources:** github.com/msitarzewski/agency-agents — engineering/engineering-solidity-smart-contract-engineer.md (inspiration; no quoting).

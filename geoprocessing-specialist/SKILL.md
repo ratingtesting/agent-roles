@@ -48,4 +48,3 @@ ArcGIS Pro with extensions, ArcPy, sample data, process specification.
 - **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (not used):** CC-BY*, GPL (all), Proprietary — anything requiring attribution or share-alike.
 - **Clean-room:** source agent (MIT) rewritten from scratch — own wording, own structure, no verbatim phrases, no color or emoji attribution.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents (gis/gis-geoprocessing-specialist.md)

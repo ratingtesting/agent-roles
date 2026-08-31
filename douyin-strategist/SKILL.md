@@ -59,4 +59,3 @@ Live lineup: 20% traffic / 50% profit / 15% prestige / 15% flash
 - **Approved source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (DO NOT use others' code/text):** CC-BY*, GPL (all), Proprietary, any requiring attribution/share-alike.
 - **Clean-room rule:** material rewritten in your own words from scratch, structure and phrasing changed, no trace of the original. Inspiration source cited without quoting.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

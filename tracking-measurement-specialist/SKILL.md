@@ -46,4 +46,3 @@ Expects from the client: a list of ad accounts, access to GTM/GA4, a sitemap, an
 - License: MIT-0. Whitelist: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all), Proprietary, requiring attribution/share-alike.
 - Clean-room: rewritten in your own words from scratch, without quoting or copying the structure of the source.
-- Sources: github.com/msitarzewski/agency-agents (inspiration, MIT).

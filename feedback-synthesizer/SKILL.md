@@ -47,4 +47,3 @@ Feedback channels, product analytics, roadmap, stakeholders.
 - **Allowed source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (not used):** CC-BY*, GPL (all), Proprietary — anything requiring attribution or share-alike.
 - **Clean-room:** the original agent (MIT) was rewritten from scratch — original phrasing, original structure, no verbatim phrases, no color or emoji attribution.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents (product/product-feedback-synthesizer.md)

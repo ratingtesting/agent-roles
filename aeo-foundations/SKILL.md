@@ -69,4 +69,3 @@ Fresh patterns from the 2026 web review, rewritten in their own words (clean-roo
 - ** White list of source licences:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Deleted (Not use another's code/text):** CC-BY*, GPL (all), Proprietary, any need for attribution/share-alike.
 - **Clean-Room rule:** the material is rewritten from scratch in its own words, the structure and wording have been changed, after all, cannot be found. Incentive source is listed without quoting.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents

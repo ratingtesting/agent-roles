@@ -68,4 +68,3 @@ Plan check: look for absence of Streaming for JOIN on user_id — that indicates
 - **License:** MIT-0 (copying, modification, distribution, and commercial use permitted without attribution).
 - **Whitelist of sources:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** text rewritten from scratch in my own words, section structure is original; verbatim phrasing, color/emoji/vibe fields from the source description were not carried over. Source used only as a source of ideas and technical facts.
-- **Sources:** idea and subject matter — github.com/msitarzewski/agency-agents (The Agency repository, MIT license).

@@ -74,4 +74,3 @@ Outputs: working code, passing gates, file list for handoff
 - **License:** MIT-0 (copying, modification, distribution, and commercial use allowed without attribution).
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** rewritten from scratch in our own words; no verbatim copying of third-party text/structure.
-- **Sources (inspiration):** github.com/msitarzewski/agency-agents, flutter-clean-arch-unicorn template conventions.

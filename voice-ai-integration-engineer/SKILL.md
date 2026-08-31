@@ -57,4 +57,3 @@ ffmpeg -y -i input.mp4 -vn -acodec pcm_s16le -ar 16000 -ac 1 \
 - **License:** MIT-0 (copying, modification, distribution, and commercial use without attribution is permitted).
 - **Source whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Clean-room:** the text was rewritten from scratch in our own words (Russian), the section structure is our own; verbatim phrases and the color/emoji/vibe fields of the original description were not carried over. The source was used only as a source of ideas and technical facts.
-- **Sources:** idea and subject domain — github.com/msitarzewski/agency-agents (The Agency repository, MIT license).

@@ -63,4 +63,3 @@ contact and a documented next step, not commercial terms.
 - **Source license whitelist:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - **Excluded (do not use):** CC-BY*, GPL (all), Proprietary — their text and structure are not copied.
 - **Clean-room:** the role was rewritten from scratch in our own words based on the ideas of the inspiration source; original structure, wording, and examples; no verbatim phrases from the source.
-- **Sources:** github.com/msitarzewski/agency-agents (MIT; topical ideas, no quoting of text).

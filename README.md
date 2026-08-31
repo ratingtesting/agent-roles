@@ -1,6 +1,6 @@
 # 🎭 Agent Roles
 
-> **A complete AI agency at your fingertips** — From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+> **A complete AI agency at your fingertips** — From frontend wizards to community builders, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 ![License: MIT-0](https://img.shields.io/badge/License-MIT-0-blue.svg)
 ![Agents](https://img.shields.io/badge/agents-282-green.svg)
@@ -9,7 +9,7 @@
 
 ## 🚀 What Is This?
 
-Born from a Reddit thread and months of iteration, **The Agency** is a growing collection of meticulously crafted AI agent personalities. Each agent is:
+**The Agency** is a growing collection of meticulously crafted AI agent personalities. Each agent is:
 
 - **🎯 Specialized**: Deep expertise in their domain (not generic prompt templates)
 - **🧠 Personality-Driven**: Unique voice, communication style, and approach
@@ -449,11 +449,11 @@ Deep expertise for regulated, industry-specific, and niche domains.
 
 ## 📜 License
 
-MIT-0 — Use freely, commercially or personally. Attribution is not required. Clean-room rewrite of [agency-agents](https://github.com/AgentLand/agency-agents) (MIT, AgentLand Contributors) into the Hermes skill format.
+MIT-0 — Use freely, commercially or personally. No attribution required.
 
 ## 🙏 Acknowledgments
 
-What started as a Reddit thread about AI agent specialization has grown into something remarkable — **282+ agents** across every division, supported by a community of contributors from around the world.
+This collection brings together **282+ specialized agents** across every division, built for real-world workflows and production use.
 
 ## 💬 Community
 

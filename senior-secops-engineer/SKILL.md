@@ -57,4 +57,3 @@ Expects: the provided code and the team's current internal security standard.
 - Whitelist of source licenses: MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
 - Excluded: CC-BY*, GPL (all), Proprietary, and any requiring attribution/share-alike.
 - Clean-room rule: source material (MIT) is rewritten in your own words from scratch — structure and wording changed, no quoting.
-- Sources (verified): github.com/msitarzewski/agency-agents
