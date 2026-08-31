@@ -22,23 +22,22 @@ Born from a Reddit thread and months of iteration, **The Agency** is a growing c
 
 ## ⚡ Quick Start
 
-### Option 1: Install with the app (Recommended)
+### Option 1: Install Skills
 
-Browse the whole roster and install agents into Claude Code, Cursor, Codex, Gemini CLI, OpenCode, Qwen, and Osaurus.
+Copy skills to your Hermes/agent skills directory or install via CLI.
 
-**[⬇ Download the latest release](https://github.com/msitarzewski/agency-agents-app/releases/latest)**
+**[⬇ Download the latest release](https://github.com/ratingtesting/agent-roles/releases/latest)**
 
-### Option 2: Use with Claude Code
+### Option 2: Pre-configured Agent Swarms
+
+Use ready-to-deploy multi-agent teams from the `examples/` directory for full-stack dev or marketing campaigns.
 
 ```bash
-# Install all agents to your Claude Code directory
-./scripts/install.sh --tool claude-code
+# Example: Deploy a full-stack web app team
+cat examples/full-stack-web-app.yaml
 
-# Or manually copy a category if you only want one division
-cp engineering/*.md ~/.claude/agents/
-
-# Then activate any agent in your Claude Code sessions:
-# "Hey Claude, activate frontend-developer and help me build a Flutter widget"
+# Copy skills required for the team into Hermes skills folder
+cp frontend-developer/SKILL.md backend-architect/SKILL.md devops-automator/SKILL.md ~/.hermes/skills/
 ```
 
 ### Option 3: Use as Reference
@@ -53,6 +52,30 @@ Each agent file (`SKILL.md`) contains:
 - Dependencies
 
 Browse the agents below and copy/adapt the ones you need!
+
+---
+
+## 🤖 Pre-built Agent Swarms & Teams
+
+Deploy ready-made agent teams configured for specific workflows. Config files are available in `examples/`.
+
+### 1. 🌐 Full-Stack Web App Development Team (`examples/full-stack-web-app.yaml`)
+A complete multi-agent pipeline from product definition to production deployment:
+- 🎨 **`ui-designer`**: UI/UX design tokens and layout
+- 🖥️ **`frontend-developer`**: Responsive, accessible web frontend
+- 🏗️ **`backend-architect`**: Scalable API and DB schema
+- 🛡️ **`application-security-engineer`**: SDLC security gates
+- ⚙️ **`devops-automator`**: CI/CD pipelines & infra
+- 🧪 **`flutter-testing-qa-auditor`**: Test coverage & quality gates
+- 🎛️ **`agents-orchestrator`**: Master coordinator for cross-agent execution
+
+### 2. 📢 Content & Growth Marketing Swarm (`examples/content-marketing-swarm.yaml`)
+An autonomous growth engine for content creation, SEO, and multi-channel distribution:
+- ✍️ **`content-creator`**: Copywriting and article generation
+- 🔍 **`seo-specialist`**: On-page SEO & search intent optimization
+- 👾 **`reddit-community-builder`**: Organic community engagement
+- 🎵 **`tiktok-strategist`**: Short-form video planning
+- 📊 **`analytics-reporter`**: Conversion metrics and ROI reporting
 
 ---
 
