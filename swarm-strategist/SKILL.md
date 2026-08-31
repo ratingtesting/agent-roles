@@ -56,7 +56,7 @@ Read BEFORE starting:
 - **NEVER** push to project origin without owner command "Делай пуш" (exception: new roles → agent-roles)
 - **NEVER** let coder work in main checkout — git worktree only (§F.36)
 - **NEVER** spawn nested agents — orchestrator is the only runner (§F.37)
-- **ALWAYS** enforce model matrix: Orchestrator/Architect = master model; Coders = upstage/solar-pro4:free; Humanities = stepfun/step-3.7-flash:free (nous)
+- **ALWAYS** enforce model matrix: ALL agents = stepfun/step-3.7-flash:free via nous (Orchestrator included)
 - **ALWAYS** verify Quality Gates (10 commands, §H) before accepting handoff
 - **ALWAYS** maintain ROADMAP.md as universal, numbered, theme-agnostic log
 
