@@ -1,0 +1,36 @@
+# Example: Content & Marketing Swarm
+# A lightweight team for producing, optimizing, and publishing content.
+# Uses agents from this skills repository.
+
+name: content-marketing-swarm
+description: Agent team for content creation, SEO, social promotion, and performance tracking.
+
+agents:
+  # --- Content Strategy ---
+  content-creator:
+    skill: ./../content-creator/SKILL.md
+    role: Brainstorm and draft written content (articles, docs, scripts).
+
+  # --- SEO ---
+  seo-specialist:
+    skill: ./../seo-specialist/SKILL.md
+    role: Research keywords, audit pages, and optimize for search visibility.
+
+  # --- Social & Community ---
+  reddit-community-builder:
+    skill: ./../reddit-community-builder/SKILL.md
+    role: Engage the Reddit community and drive discussion.
+
+  tiktok-strategist:
+    skill: ./../tiktok-strategist/SKILL.md
+    role: Plan and execute TikTok content and campaigns.
+
+  # --- Analytics ---
+  analytics-reporter:
+    skill: ./../analytics-reporter/SKILL.md
+    role: Generate performance reports and surface insights.
+
+# Usage:
+#   1. Copy the selected agent SKILL.md files into your ~/.hermes/skills/ directory.
+#   2. Activate this team config in your Hermes agent session.
+#   3. Each agent runs sequentially: create → optimize → publish → track.

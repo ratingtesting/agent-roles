@@ -1,0 +1,60 @@
+# Example: Full-Stack Web App Team
+# A complete development team for building and shipping a web application.
+# Uses agents from this skills repository.
+
+name: full-stack-web-app-team
+description: Complete agent team for building, testing, and deploying a web application.
+
+agents:
+  # --- Product & Planning ---
+  product-manager:
+    skill: ./../product-manager/SKILL.md
+    role: Lead the product vision, define requirements, and maintain the roadmap.
+
+  # --- Architecture & Design ---
+  software-architect:
+    skill: ./../software-architect/SKILL.md
+    role: Define the system architecture and technical stack.
+
+  ui-designer:
+    skill: ./../ui-designer/SKILL.md
+    role: Create UI mockups and component libraries.
+
+  # --- Frontend ---
+  frontend-developer:
+    skill: ./../frontend-developer/SKILL.md
+    role: Build responsive, accessible frontends.
+
+  # --- Backend ---
+  backend-architect:
+    skill: ./../backend-architect/SKILL.md
+    role: Design and implement backend systems.
+
+  # --- DevOps & SRE ---
+  devops-automator:
+    skill: ./../devops-automator/SKILL.md
+    role: Set up CI/CD pipelines and infrastructure.
+
+  sre:
+    skill: ./../sre/SKILL.md
+    role: Ensure reliability and monitor the production environment.
+
+  # --- Security ---
+  application-security-engineer:
+    skill: ./../application-security-engineer/SKILL.md
+    role: Integrate security checks into the pipeline.
+
+  # --- QA ---
+  flutter-testing-qa-auditor:
+    skill: ./../flutter-testing-qa-auditor/SKILL.md
+    role: Write and maintain automated tests.
+
+  # --- Orchestration ---
+  agents-orchestrator:
+    skill: ./../agents-orchestrator/SKILL.md
+    role: Coordinate the full development pipeline across all agents.
+
+# Usage:
+#   1. Copy the selected agent SKILL.md files into your ~/.hermes/skills/ directory.
+#   2. Activate this team config in your Hermes agent session.
+#   3. The orchestrator will run each agent in role, passing context between phases.
