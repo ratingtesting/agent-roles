@@ -113,7 +113,8 @@ Go-to-market across China's search, social, and commerce stack:
 Building the future, one commit at a time.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | 🏔️ | [3d-scene-developer](3d-scene-developer/SKILL.md) | 3D Scene Developer | Use when 3D visualization of GIS data is needed |
+|-------|-------|-----------|-------------|
+| 🏔️ | [3d-scene-developer](3d-scene-developer/SKILL.md) | 3D Scene Developer | Use when 3D visualization of GIS data is needed |
 | 🔐 | [agentic-identity-trust](agentic-identity-trust/SKILL.md) | Agentic Identity Trust | Use when an agent identity and trust scheme is needed |
 | 🤖 | [agentic-search-optimizer](agentic-search-optimizer/SKILL.md) | Agentic Search Optimizer | Use when AI agents can't complete tasks on your site. |
 | 🧬 | [ai-data-remediation-engineer](ai-data-remediation-engineer/SKILL.md) | Ai Data Remediation Engineer | Use when production data is broken at scale |
@@ -241,7 +242,8 @@ Building the future, one commit at a time.
 Making it beautiful, usable, and delightful.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | 🎨 | [brand-guardian](brand-guardian/SKILL.md) | Brand Guardian | Use when brand, identity, and tone of communication are needed |
+|-------|-------|-----------|-------------|
+| 🎨 | [brand-guardian](brand-guardian/SKILL.md) | Brand Guardian | Use when brand, identity, and tone of communication are needed |
 | 🎨 | [cartography-designer](cartography-designer/SKILL.md) | Cartography Designer | Use when map design and styling are needed |
 | 📚 | [corporate-training-designer](corporate-training-designer/SKILL.md) | Corporate Training Designer | Use when designing corporate training programs |
 | 💰 | [economy-designer](economy-designer/SKILL.md) | Economy Designer | Use when you need calculation and balance of a game's virtual economy |
@@ -263,7 +265,8 @@ Making it beautiful, usable, and delightful.
 Turning ad spend into measurable business outcomes.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | ✍️ | [ad-creative-strategist](ad-creative-strategist/SKILL.md) | Ad Creative Strategist | Use when creatives and copy for paid advertising |
+|-------|-------|-----------|-------------|
+| ✍️ | [ad-creative-strategist](ad-creative-strategist/SKILL.md) | Ad Creative Strategist | Use when creatives and copy for paid advertising |
 | 🏗️ | [aeo-foundations](aeo-foundations/SKILL.md) | Aeo Foundations | Use when auditing AI discovery: crawlers, llms.txt, tokens. |
 | 🔮 | [ai-citation-strategist](ai-citation-strategist/SKILL.md) | Ai Citation Strategist | Use when auditing brand visibility in AI answer engines. |
 | 🇨🇳 | [baidu-seo-specialist](baidu-seo-specialist/SKILL.md) | Baidu Seo Specialist | Use when ranking a site in Baidu's China search ecosystem. |
@@ -300,7 +303,8 @@ Turning ad spend into measurable business outcomes.
 Turning pipeline into revenue through craft, not CRM busywork.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | ♟️ | [deal-strategist](deal-strategist/SKILL.md) | Deal Strategist | Use when qualifying and strategizing deals |
+|-------|-------|-----------|-------------|
+| ♟️ | [deal-strategist](deal-strategist/SKILL.md) | Deal Strategist | Use when qualifying and strategizing deals |
 | 🔍 | [discovery-coach](discovery-coach/SKILL.md) | Discovery Coach | Use when you need an analysis of discovery-call techniques and questioning |
 | 🏛️ | [government-digital-presales-consultant](government-digital-presales-consultant/SKILL.md) | Government Digital Presales Consultant | Use when pursuing government IT bids |
 | 🚀 | [growth-hacker](growth-hacker/SKILL.md) | Growth Hacker | Use when scaling user acquisition via experiments. |
@@ -318,7 +322,8 @@ Turning pipeline into revenue through craft, not CRM busywork.
 High-level thinking that shapes products, markets, and decisions.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | 🗺️ | [account-strategist](account-strategist/SKILL.md) | Account Strategist | Use when growing existing accounts and NRR |
+|-------|-------|-----------|-------------|
+| 🗺️ | [account-strategist](account-strategist/SKILL.md) | Account Strategist | Use when growing existing accounts and NRR |
 | 🧠 | [behavioral-nudge-engine](behavioral-nudge-engine/SKILL.md) | Behavioral Nudge Engine | Use when adding behavioral nudges to a product |
 | ♟️ | [business-strategist](business-strategist/SKILL.md) | Business Strategist | Use when making competitive or market strategy |
 | 🔄 | [change-management-consultant](change-management-consultant/SKILL.md) | Change Management Consultant | Use when managing organizational change adoption |
@@ -340,7 +345,8 @@ High-level thinking that shapes products, markets, and decisions.
 From roadmap to delivery, shipping what matters.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | 📒 | [bookkeeper-controller](bookkeeper-controller/SKILL.md) | Bookkeeper Controller | Use when bookkeeping and month-end close |
+|-------|-------|-----------|-------------|
+| 📒 | [bookkeeper-controller](bookkeeper-controller/SKILL.md) | Bookkeeper Controller | Use when bookkeeping and month-end close |
 | 💼 | [chief-financial-officer](chief-financial-officer/SKILL.md) | Chief Financial Officer | Use when governing finance and capital decisions |
 | 📄 | [document-generator](document-generator/SKILL.md) | Document Generator | Use when generating PDF/PPTX/DOCX/XLSX via code |
 | 📝 | [executive-summary-generator](executive-summary-generator/SKILL.md) | Executive Summary Generator | Use when a brief executive summary is needed from a report |
@@ -362,7 +368,8 @@ From roadmap to delivery, shipping what matters.
 Insights, evidence, and analysis that drive decisions.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | 🌍 | [anthropologist](anthropologist/SKILL.md) | Anthropologist | Use when designing cultures and societies |
+|-------|-------|-----------|-------------|
+| 🌍 | [anthropologist](anthropologist/SKILL.md) | Anthropologist | Use when designing cultures and societies |
 | 📸 | [evidence-collector](evidence-collector/SKILL.md) | Evidence Collector | Use when a screenshot-based app review with factual evidence is needed |
 | 🧪 | [experiment-tracker](experiment-tracker/SKILL.md) | Experiment Tracker | Use when design, launch, and analysis of A/B experiments is needed |
 | 🖥️ | [gis-analyst](gis-analyst/SKILL.md) | Gis Analyst | Use when maps, layers, and queries of geodata are needed |
@@ -376,7 +383,8 @@ Insights, evidence, and analysis that drive decisions.
 Defending the stack — from secure-by-design architecture to breach response.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | 📋 | [compliance-auditor](compliance-auditor/SKILL.md) | Compliance Auditor | Use when auditing SOC 2, ISO compliance |
+|-------|-------|-----------|-------------|
+| 📋 | [compliance-auditor](compliance-auditor/SKILL.md) | Compliance Auditor | Use when auditing SOC 2, ISO compliance |
 | ⚕️ | [healthcare-marketing-compliance](healthcare-marketing-compliance/SKILL.md) | Healthcare Marketing Compliance | Use when checking medical advertising for compliance with the law |
 | ⚖️ | [legal-compliance-checker](legal-compliance-checker/SKILL.md) | Legal Compliance Checker | Use when compliance verification is needed: laws, risks, sanctions |
 | 🛡️ | [specialized-fedramp-rmf-compliance](specialized-fedramp-rmf-compliance/SKILL.md) | Specialized Fedramp Rmf Compliance | Use when preparing for FedRAMP or NIST RMF |
@@ -387,7 +395,8 @@ Defending the stack — from secure-by-design architecture to breach response.
 Data pipelines, geospatial intelligence, and visualization.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | 🏗️ | [bim-gis-specialist](bim-gis-specialist/SKILL.md) | Bim Gis Specialist | Use when integrating BIM and GIS |
+|-------|-------|-----------|-------------|
+| 🏗️ | [bim-gis-specialist](bim-gis-specialist/SKILL.md) | Bim Gis Specialist | Use when integrating BIM and GIS |
 | 🗄️ | [data-consolidation-agent](data-consolidation-agent/SKILL.md) | Data Consolidation Agent | Use when consolidating sales data dashboards |
 | 🛸 | [drone-reality-mapping-specialist](drone-reality-mapping-specialist/SKILL.md) | Drone Reality Mapping Specialist | Use when drone imagery needs to be processed into geospatial data |
 | 🗄️ | [gaussdb-expert](gaussdb-expert/SKILL.md) | Gaussdb Expert | Use when facing GaussDB OLTP performance issues |
@@ -401,7 +410,8 @@ Data pipelines, geospatial intelligence, and visualization.
 Specialists for China, Korea, and global markets.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | 🛒 | [china-ecommerce-operator](china-ecommerce-operator/SKILL.md) | China Ecommerce Operator | Use when operating a Taobao/PDD/JD store |
+|-------|-------|-----------|-------------|
+| 🛒 | [china-ecommerce-operator](china-ecommerce-operator/SKILL.md) | China Ecommerce Operator | Use when operating a Taobao/PDD/JD store |
 | 🌏 | [cross-border-ecommerce](cross-border-ecommerce/SKILL.md) | Cross Border Ecommerce | Use when launching products on overseas marketplaces |
 | 🇰🇷 | [korean-business-navigator](korean-business-navigator/SKILL.md) | Korean Business Navigator | Use when deals and negotiations with Korean businesses |
 | 🇫🇷 | [specialized-french-consulting-market](specialized-french-consulting-market/SKILL.md) | Specialized French Consulting Market | Use when navigating the French ESN freelance market. |
@@ -411,7 +421,8 @@ Specialists for China, Korea, and global markets.
 Deep expertise for regulated, industry-specific, and niche domains.
 
 | Emoji | Agent | Specialty | When to Use |
-|-------|-------|-----------|-------------| | 🩺 | [clinical-evidence-agent](clinical-evidence-agent/SKILL.md) | Clinical Evidence Agent | Use when clinical claims and sources are needed |
+|-------|-------|-----------|-------------|
+| 🩺 | [clinical-evidence-agent](clinical-evidence-agent/SKILL.md) | Clinical Evidence Agent | Use when clinical claims and sources are needed |
 | 🎧 | [customer-service](customer-service/SKILL.md) | Customer Service | Use when handling customer service inquiries |
 | 🌟 | [customer-success-manager](customer-success-manager/SKILL.md) | Customer Success Manager | Use when managing customer success lifecycle |
 | 🌱 | [esg-sustainability-officer](esg-sustainability-officer/SKILL.md) | Esg Sustainability Officer | Use when building ESG reporting programs |
