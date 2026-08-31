@@ -104,6 +104,15 @@ Go-to-market across China's search, social, and commerce stack:
 - 💬 **`wechat-official-account`** + **`wechat-mini-program-developer`**: WeChat ops & Mini Programs
 - 🛒 **`china-ecommerce-operator`** + **`cross-border-ecommerce`**: Taobao/PDD/JD & Tmall Global
 
+### 🧩 Agentic Skill Authoring
+The template/playbook for creating new commercial-grade agent skills in this repo. Use it whenever you add or adapt a role that will be shipped or resold.
+- **What it gives:** `SKILL.md` frontmatter schema, body slots, license/discipline rules, clean-room rewriting, and verified Anthropic agent-design patterns.
+- **When to use:** creating a new agent/skill, adapting an existing one for commercial use, writing role prompts for `delegate_task`/kanban, or forcing structure when volume/deadline makes agents cut corners.
+- **Inputs:** role brief, target platform/tags, license requirements, source references.
+- **Outputs:** ready-to-commit `SKILL.md`, optional `references/` assets, and a `related_skills` wiring checklist.
+- **Pair with:** `injection-guard` + `agent-defense` for any web-facing skill.
+[`agentic-skill-authoring/SKILL.md`](agentic-skill-authoring/SKILL.md)
+
 ---
 
 ## 🎨 The Agency Roster
