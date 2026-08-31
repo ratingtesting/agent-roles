@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <defs><pattern id="p" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="12" stroke="#f97316" stroke-width="6" opacity="0.12"/></pattern></defs>
   <rect width="72" height="72" rx="18" fill="#f97316"/>
-  <circle cx="36" cy="36" r="28" stroke-width="2" stroke="#f97316" opacity=".12"/>
-  <text x="36" y="44" text-anchor="middle" font-size="30">💰</text>
+  <rect width="72" height="72" rx="18" fill="url(#p)"/>
+  <polygon points="36,14 62,40 36,66 10,40" fill="none" stroke="#f97316" stroke-width="2.2" opacity="0.18"/>
+  <text x="36" y="50" text-anchor="middle" font-size="34" font-weight="700" fill="#fff" opacity="0.95">M</text>
 </svg>

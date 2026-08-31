@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  <rect width="72" height="72" rx="18" fill="#8b5cf6"/>
-  <circle cx="36" cy="36" r="10" fill="#8b5cf6" opacity=".12"/>
-  <text x="36" y="44" text-anchor="middle" font-size="30">👁️</text>
+  <defs><pattern id="p" width="20" height="10" patternUnits="userSpaceOnUse"><path d="M0 5 Q5 0 10 5 T20 5" fill="none" stroke="#10b981" stroke-width="1.6" opacity="0.14"/></pattern></defs>
+  <rect width="72" height="72" rx="18" fill="#10b981"/>
+  <rect width="72" height="72" rx="18" fill="url(#p)"/>
+  <path d="M36 12 L36 52 M24 40 L36 52 L48 40" fill="none" stroke="#10b981" stroke-width="2.4" opacity="0.18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="36" y="50" text-anchor="middle" font-size="34" font-weight="700" fill="#fff" opacity="0.95">S</text>
 </svg>
