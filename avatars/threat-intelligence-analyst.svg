@@ -2,6 +2,5 @@
   <defs><pattern id="p" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0 10L10 0M-2 2L2-2M8 12L12 8" stroke="#eab308" stroke-width="1.2" opacity="0.14"/></pattern></defs>
   <rect width="72" height="72" rx="18" fill="#eab308"/>
   <rect width="72" height="72" rx="18" fill="url(#p)"/>
-  <path d="M36 52 C20 40 12 30 12 24 A12 12 0 0 1 36 24 A12 12 0 0 1 60 24 C60 30 52 40 36 52Z" fill="none" stroke="#eab308" stroke-width="2.2" opacity="0.18"/>
-  <text x="36" y="50" text-anchor="middle" font-size="34" font-weight="700" fill="#fff" opacity="0.95">P</text>
+  <g stroke="#eab308" stroke-width="2.2" fill="none" opacity="0.9"><rect x="14" y="28" width="12" height="24" rx="2"/><rect x="30" y="18" width="12" height="34" rx="2"/><rect x="46" y="22" width="12" height="30" rx="2"/></g>
 </svg>
