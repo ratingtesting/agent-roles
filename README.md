@@ -77,6 +77,33 @@ An autonomous growth engine for content creation, SEO, and multi-channel distrib
 - 🎵 **`tiktok-strategist`**: Short-form video planning
 - 📊 **`analytics-reporter`**: Conversion metrics and ROI reporting
 
+### 3. 🛡️ Security Audit Swarm (`examples/security-audit-swarm.yaml`)
+A hardened audit line from architecture to pentest and remediation:
+- 🛡️ **`security-architect`**: Threat modeling & trust boundaries
+- 🔐 **`application-security-engineer`**: SDLC gates, SAST/DAST
+- ☁️ **`cloud-security-architect`**: Cloud posture & IAM
+- ⛓️ **`blockchain-security-auditor`** + **`solidity-smart-contract-engineer`**: Smart-contract audit & fix
+- 🗡️ **`penetration-tester`**: Exploit-driven validation
+- 🎯 **`threat-detection-engineer`**: SIEM / MITRE detections for findings
+- 🔑 **`secrets-credential-hygiene-engineer`**: Secrets scan & rotation
+- 🎛️ **`agents-orchestrator`**: Merges reports into one backlog
+
+### 4. 🗺️ GIS & Geo-Intelligence Swarm (`examples/gis-geo-intelligence-swarm.yaml`)
+Field → dashboard: from raw geodata and drone capture to 3D and analytics:
+- 📦 **`spatial-data-engineer`** + **`geoprocessing-specialist`**: Pipeline & automation
+- 🗺️ **`gis-analyst`** + **`gis-qa-engineer`**: Layers, queries & QA
+- 🏔️ **`3d-scene-developer`** + **`drone-reality-mapping-specialist`** + **`bim-gis-specialist`**: 3D, reality mesh & BIM-GIS
+- 📊 **`spatial-data-scientist`** + **`cartography-designer`** + **`data-visualization-engineer`**: Stats, cartography & honest charts
+
+### 5. 🇨🇳 China Market Entry Swarm (`examples/china-market-entry-swarm.yaml`)
+Go-to-market across China's search, social, and commerce stack:
+- 🌏 **`china-market-localization-strategist`**: Brand & compliance localization
+- 🔍 **`baidu-seo-specialist`**: Baidu ranking & ICP
+- 🎵 **`douyin-strategist`** / **`kuaishou-strategist`** / **`bilibili-content-strategist`**: Short-video & community
+- 🌸 **`xiaohongshu-specialist`**: UGC & conversion on Xiaohongshu
+- 💬 **`wechat-official-account`** + **`wechat-mini-program-developer`**: WeChat ops & Mini Programs
+- 🛒 **`china-ecommerce-operator`** + **`cross-border-ecommerce`**: Taobao/PDD/JD & Tmall Global
+
 ---
 
 ## 🎨 The Agency Roster
