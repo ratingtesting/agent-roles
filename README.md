@@ -1,10 +1,14 @@
-# Agent Roles
+# 🎭 Agent Roles
 
 A library of production-ready role definitions for AI agents — reusable personas, skill templates, and agent configurations you can drop into your own agent systems.
 
+![License: MIT-0](https://img.shields.io/badge/License-MIT-0-blue.svg)
+![Agents](https://img.shields.io/badge/agents-282-green.svg)
+![Format](https://img.shields.io/badge/format-Hermmes%20Skills-orange.svg)
+
 ## What's inside
 
-- **200+ role definitions** — specialists for SEO, content, development, security, data, design, business, and regional markets (China, Korea, MENA, LATAM).
+- **282 role definitions** — specialists for engineering, design, marketing, sales, security, data, strategy, and regional markets.
 - **Agent configurations** — ready-to-run configs for multi-agent orchestration, swarm runners, and independent agency-style agents.
 - **Skill authoring template** — a 6-slot structure for defining your own agent roles with consistent semantics.
 
@@ -32,8 +36,6 @@ Without dependencies the plugin is a **silent no-op** — web content is NOT sca
 Install in the Hermes venv (where `hermes-agent` runs):
 
 ```bash
-# Find your venv (example for Windows):
-# C:\Users\<user>\AppData\Local\hermes\hermes-agent\venv\Scripts\python.exe
 <venv>/Scripts/python -m pip install "transformers>=4.40" torch sentencepiece
 ```
 
@@ -48,6 +50,8 @@ Verify the classifier loads: in the gateway log on the first web request, there 
 ## Usage
 
 Each role lives in its own directory and is a self-contained Hermes skill. Copy any role folder into your own skills directory and adapt it to your agent.
+
+Each role also has a generated avatar in `avatars/<role>.svg`.
 
 ## Author
 

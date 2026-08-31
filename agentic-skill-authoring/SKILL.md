@@ -9,6 +9,8 @@ metadata:
   hermes:
     tags: [skill-authoring, agent-authoring, license-compliance, anthropic-patterns, commercial]
     related_skills: [writing-skills, hermes-agent-skill-authoring, keelwright, test-driven-development, injection-guard, agent-defense]
+emoji: "🧩"
+color: "indigo"
 ---
 
 # Agentic Skill Authoring (commercial-grade)
@@ -47,6 +49,8 @@ metadata:
   hermes:
     tags: [Short, Descriptive]
     related_skills: [existing-in-repo-skill]
+emoji: "🎯"
+color: "slate"
 ---
 ```
 - `description` ≤ 60 символов, третье лицо, начинается с "Use when". Описывает УСЛОВИЕ ВЫЗОВА, а не процесс (иначе агент пойдёт по shortcut и не прочитает тело).

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <rect width="72" height="72" rx="18" fill="#059669"/>
+  <circle cx="36" cy="36" r="10" fill="#059669" opacity=".12"/>
+  <text x="36" y="44" text-anchor="middle" font-size="30">🗺️</text>
+</svg>

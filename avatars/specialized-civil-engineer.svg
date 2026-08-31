@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
+  <rect width="72" height="72" rx="18" fill="#eab308"/>
+  <polygon points="36,12 60,60 12,60" stroke-width="2" stroke="#eab308" opacity=".12" fill="none"/>
+  <text x="36" y="44" text-anchor="middle" font-size="30">🏗️</text>
+</svg>
