@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72">
-  <defs><pattern id="p" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0 10L10 0M-2 2L2-2M8 12L12 8" stroke="#0ea5e9" stroke-width="1.2" opacity="0.14"/></pattern></defs>
-  <rect width="72" height="72" rx="18" fill="#0ea5e9"/>
-  <rect width="72" height="72" rx="18" fill="url(#p)"/>
-  <g stroke="#0ea5e9" stroke-width="2.2" fill="none" opacity="0.9"><rect x="26" y="16" width="20" height="40" rx="4"/><line x1="36" y1="12" x2="36" y2="16"/><circle cx="36" cy="52" r="2" fill="#0ea5e9" opacity="0.8"/></g>
-</svg>
