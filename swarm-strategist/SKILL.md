@@ -2,7 +2,7 @@
 name: swarm-strategist
 emoji: "🧭"
 color: "purple"
-description: "Use when orchestrating multi-agent swarm: strategy → task → orchestrator → swarm → handoff"
+description: "Use when running multi-agent swarm as master strategist."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
 license: MIT-0

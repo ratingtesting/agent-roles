@@ -2,7 +2,7 @@
 name: flutter-developer
 emoji: "💙"
 color: "blue"
-description: "Use when building Flutter features with Clean Architecture, Riverpod 3, Drift, freezed, go-router"
+description: "Use when coding Flutter features in Clean Arch stack."
 version: 0.1.0
 author: Петр (ratingtesting), Hermes Agent
 license: MIT-0
