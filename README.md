@@ -1,65 +1,58 @@
-# agent-roles
+# Agent Roles
 
-Коммерческий пул скиллов-ролей (агентов) для перепродажи. Все роли — clean-room
-переписывание исходников `agency-agents` (MIT, AgentLand Contributors) в формат
-Hermes, лицензия выходных скиллов **MIT-0**. Шаблон создания ролей —
-`skills/agentic-skill-authoring/`.
+A library of production-ready role definitions for AI agents — reusable personas, skill templates, and agent configurations you can drop into your own agent systems.
 
-## Обязательная защита при веб-походах
+## What's inside
 
-Каждый агент, ходящий в интернет (`web_search` / `web_extract` / `browser_navigate` /
-`fetch_url` / `vision_analyze`), обязан использовать два скилла защиты:
+- **200+ role definitions** — specialists for SEO, content, development, security, data, design, business, and regional markets (China, Korea, MENA, LATAM).
+- **Agent configurations** — ready-to-run configs for multi-agent orchestration, swarm runners, and independent agency-style agents.
+- **Skill authoring template** — a 6-slot structure for defining your own agent roles with consistent semantics.
 
-1. **`injection-guard`** — Hermes-плагин (hook `transform_tool_result`), классификатор
-   DeBERTa на входе веб-тулов. Автор: gweber, MIT.
-2. **`agent-defense`** — Hermes-скилл (scastile, MIT), многослойная защита
-   (память, egress, anti-cloaking).
+## Why this exists
 
-Оба указаны в `related_skills` каждого агента и в шаблоне `agentic-skill-authoring`.
+When you build with AI agents, you spend a lot of time reinventing the same kind of persona: "you are an SEO specialist", "you are a code reviewer", "you are a UX researcher". This repo collects those roles in one place so you can copy, adapt, and compose them instead of writing them from scratch.
 
-### ⚠️ КРИТИЧНО: плагин injection-guard требует зависимостей
+## License
 
-Без зависимостей плагин **молча не работает** (no-op) — веб-контент НЕ сканируется,
-и ты думаешь, что защищён, хотя нет. Это реальная проблема на чистой машине.
+MIT-0 — free to use, modify, and redistribute, including commercially, with **no attribution required**. Clean-room rewrite of [agency-agents](https://github.com/AgentLand/agency-agents) (MIT, AgentLand Contributors) into the Hermes skill format.
 
-Установи в venv Hermes (где исполняется `hermes-agent`):
+## Web safety requirements
+
+Every agent that browses the web (`web_search` / `web_extract` / `browser` / `fetch_url` / `vision_analyze`) must use two protection layers:
+
+1. **injection-guard** — Hermes plugin (hook `transform_tool_result`), DeBERTa classifier on web tool input. Author: gweber, MIT.
+2. **agent-defense** — Hermes skill (scastile, MIT), layered defense (memory, egress, anti-cloaking).
+
+Both are listed in `related_skills` of every agent and in the `agentic-skill-authoring` template.
+
+### ⚠️ Critical: injection-guard plugin requires dependencies
+
+Without dependencies the plugin is a **silent no-op** — web content is NOT scanned, and you think you're protected when you're not. This is a real problem on a clean machine.
+
+Install in the Hermes venv (where `hermes-agent` runs):
 
 ```bash
-# найди venv (пример для Windows):
+# Find your venv (example for Windows):
 # C:\Users\<user>\AppData\Local\hermes\hermes-agent\venv\Scripts\python.exe
 <venv>/Scripts/python -m pip install "transformers>=4.40" torch sentencepiece
 ```
 
-После установки — **перезапусти gateway**:
+Then **restart the gateway**:
 
 ```bash
 hermes gateway restart
 ```
 
-Проверить, что классификатор грузится: в логе gateway при первом веб-запросе НЕ должно
-быть сообщения `injection-guard: 'transformers' not installed — the hook is a no-op`.
-Пойманные атаки пишутся в `~/.hermes/injection-guard/caught_attacks.jsonl`.
+Verify the classifier loads: in the gateway log on the first web request, there should be NO message `injection-guard: 'transformers' not installed — the hook is a no-op`.
 
-### Инфраструктурные требования (уже в твоём Hermes)
+## Usage
 
-- `SOUL.md` PRE-EXEC GATE п.6: перед веб-походом — загрузить `injection-guard` + `agent-defense`.
-- `hermes-web-configuration` SKILL.md: раздел `MANDATORY WEB-GUARD`.
-- `config.yaml` (всех профилей): `plugins.enabled` содержит `injection-guard` + `security-guidance`.
+Each role lives in its own directory and is a self-contained Hermes skill. Copy any role folder into your own skills directory and adapt it to your agent.
 
-## Лицензии
+## Author
 
-| Что | Лицензия | Примечание |
-|-----|----------|-----------|
-| Роли (269 агентов) | MIT-0 | clean-room из MIT-исходника |
-| `injection-guard` | MIT | gweber/hermes-injection-guard |
-| `agent-defense` | MIT | scastile/hermes-agent-defense |
-| `agentic-skill-authoring` | MIT-0 | шаблон (собственный) |
+[ratingtesting](https://github.com/ratingtesting)
 
-Исходник ролей `agency-agents` — MIT (AgentLand Contributors). Clean-room применён
-избыточно (MIT разрешает использование с атрибуцией); решение по атрибуции —
-за владельцем репозитория.
+---
 
-## Реестр источников
-
-`SOURCES_REGISTRY.md` — реестр всех внешних источников (защита, исходники, практики)
-со ссылками и видами лицензий.
+*Last updated: 2026-08-31*
