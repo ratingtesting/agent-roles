@@ -282,6 +282,8 @@ Turning ad spend into measurable business outcomes.
 | 🎬 | [bilibili-content-strategist](bilibili-content-strategist/SKILL.md) | Bilibili Content Strategist | Use when growing a brand channel on Bilibili (B站). |
 | 🎠 | [carousel-growth-engine](carousel-growth-engine/SKILL.md) | Carousel Growth Engine | Use when auto-generating TikTok/IG carousels from a URL. |
 | ✍️ | [content-creator](content-creator/SKILL.md) | Content Creator | Use when planning multi-platform content campaigns. |
+| 🎯 | [jtbd-editor](jtbd-editor/SKILL.md) | JTBD Title Editor | Use when editing JTBD titles — keep phrase, improve tail by funnel stage. |
+| 📝 | [jtbd-article-writer](jtbd-article-writer/SKILL.md) | JTBD Article Writer | Use when writing full JTBD SEO articles (2000+ words) with E-E-A-T. |
 | 🎵 | [douyin-strategist](douyin-strategist/SKILL.md) | Douyin Strategist | Use when growing a brand on Douyin (China TikTok). |
 | 📧 | [email-strategist](email-strategist/SKILL.md) | Email Strategist | Use when segmentation and mailings, deliverability |
 | 🎙️ | [global-podcast-strategist](global-podcast-strategist/SKILL.md) | Global Podcast Strategist | Use when launching/growing a podcast brand. |
