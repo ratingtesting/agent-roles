@@ -54,7 +54,44 @@ Every article occupies ONE funnel stage. This governs depth, tone, and CTA:
 | **MOFU** (consideration) | "I'm comparing my options" | Comparisons, case studies, objection handling, checklists | Expert, trust-building; CTA = compare / assess / consult |
 | **BOFU** (decision) | "I'm ready to act" | Step-by-step guides, pricing, "done-for-you", implementation | Direct, action-driving; CTA = buy / book / submit inquiry |
 
-**Warming chains:** A cluster of 5 articles moves a reader TOFU → BOFU. Each article ends by teasing the next one, like episodes in a series. Article 1 (TOFU attract) → 2 (MOFU problem awareness) → 3 (MOFU solutions) → 4 (BOFU comparison) → 5 (BOFU decision).
+### 0.2.1 — The 5-Stage CJM (Customer Journey Map)
+Before writing any chain, map the reader's journey. Each stage has a mindset, an emotion, an objection, an information need, and a trigger that moves them to the next stage. This is what makes the chain feel like one continuous story, not five isolated posts.
+
+| Stage | Reader's thought | Emotional state | Main objection | Info they seek | Trigger to next stage |
+|-------|-----------------|-----------------|----------------|----------------|----------------------|
+| **S1 Awareness** | "Is this even a real problem for me?" | Curious, mildly worried | "Maybe it's not that important" | What the topic is, why it matters | Realizes the problem is bigger than thought |
+| **S2 Problem** | "Okay, I have this problem — how bad is it?" | Concerned, seeking clarity | "Maybe it'll resolve itself" | Consequences, hidden complications | Understands doing nothing costs more |
+| **S3 Solutions** | "What are my options?" | Hopeful, comparing | "Too many options, I'm lost" | Methods, approaches, pros/cons | Narrows to a shortlist of viable solutions |
+| **S4 Comparison** | "Which option is best for me?" | Analytical, cautious | "How do I know this one's right?" | Direct comparisons, criteria, cases | Forms a preference for one solution |
+| **S5 Decision** | "I'm ready — how do I start?" | Confident, ready to act | "What if I regret it?" | Steps, guarantees, proof, next action | Takes the action (inquiry / booking / purchase) |
+
+### 0.2.2 — Chain Structure: 5 Articles, One Journey
+A thematic cluster = ONE warming chain of exactly 5 articles, one per CJM stage. Distribution is fixed: **1 TOFU → 2 MOFU → 2 BOFU**. Each article ends by teasing the next with a curiosity hook.
+
+| # | CJM stage | Funnel | Length | Job of this article |
+|---|-----------|--------|--------|---------------------|
+| 1 | S1 Awareness | TOFU | 1000–1200w | Attract via search, frame the problem, build first trust |
+| 2 | S2 Problem | MOFU | 1200–1500w | Deepen problem awareness, show cost of inaction |
+| 3 | S3 Solutions | MOFU | 1200–1500w | Lay out methods/approaches, help reader shortlist |
+| 4 | S4 Comparison | BOFU | 1000–1300w | Compare options honestly, position our service as best fit |
+| 5 | S5 Decision | BOFU | 800–1000w | Remove last objections, drive the inquiry with proof + CTA |
+
+**Section skeletons per article** — use as a *starting frame, not a fill-in template*. Vary counts, titles, and ordering across clusters; never ship 20 clusters that all open "5 признаков…" or "7 сложностей…". The skeleton guides intent; the exact H2s must be written fresh per topic.
+
+- **Article 1 (TOFU/S1):** H1 = audience question with keyword → intro (why it matters now) → what the topic is → common myths → signs you need a solution → first steps → conclusion → link to #2 ("Почему стандартные подходы часто не срабатывают →").
+- **Article 2 (MOFU/S2):** H1 = why [topic] fails for most → intro (the problem is widespread) → hidden complications → how it hits your goals/budget → beginner mistakes → signs you're on the right track → conclusion (understanding = half the solution) → link to #3.
+- **Article 3 (MOFU/S3):** H1 = top methods of [solving X] → intro (many options, must choose) → method-by-method with pros/cons and "who it fits" → comparison table → conclusion (which method for your case) → link to #4.
+- **Article 4 (BOFU/S4):** H1 = [option A] vs [option B] vs [our approach] → intro → selection criteria → deep dive per option → why our service fits best → full comparison table → real cases/reviews → conclusion → link to #5.
+- **Article 5 (BOFU/S5):** H1 = how to choose [solution] in N steps → intro (you're almost there) → checklist of the ideal solution → answers to last objections → why clients choose us → 2–3 cases with results → what you get if you start now → conclusion (time to act) → **final CTA (inquiry form / consultation / messenger)**.
+
+**Chain rules:**
+- Cross-links between all 5 articles are mandatory (forward teaser + backward reference where relevant).
+- Each article is fully unique — no duplicated sections across the chain.
+- SEO title + meta description for each of the 5.
+- BOFU articles (#4, #5) must name our service and end in a concrete inquiry.
+- Style: expert but accessible; anti-template discipline across the whole cluster.
+
+For the full cluster-building methodology (how to derive 20 clusters from a query core) and a worked real-estate example, see `references/clusters-and-chains.md`.
 
 ### 0.3 — E-E-A-T Alignment Check
 Confirm the plan passes Google's E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness):
