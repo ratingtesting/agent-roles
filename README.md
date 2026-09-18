@@ -3,7 +3,7 @@
 > **A complete AI agency at your fingertips** — From frontend wizards to community builders, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 ![License: MIT-0](https://img.shields.io/badge/License-MIT-0-blue.svg)
-![Agents](https://img.shields.io/badge/agents-282-green.svg)
+![Agents](https://img.shields.io/badge/agents-283-green.svg)
 
 ---
 
@@ -442,6 +442,7 @@ Deep expertise for regulated, industry-specific, and niche domains.
 | 🏨 | [hospitality-guest-services](hospitality-guest-services/SKILL.md) | Hospitality Guest Services | Use when delivering hospitality guest services |
 | 🤝 | [hr-onboarding](hr-onboarding/SKILL.md) | Hr Onboarding | Use when onboarding new employees |
 | 📋 | [legal-client-intake](legal-client-intake/SKILL.md) | Legal Client Intake | Use when qualifying legal client intakes |
+| 🛡️ | [hermes-kanban-swarm-ops](hermes-kanban-swarm-ops/SKILL.md) | Hermes Kanban Swarm Ops | Use when running `hermes kanban swarm` with role-agents — isolated boards, cron-limited watchdog, recovery from triage-loops |
 | ⚖️ | [legal-document-review](legal-document-review/SKILL.md) | Legal Document Review | Use when reviewing legal documents |
 | 🏥 | [medical-billing-coding-specialist](medical-billing-coding-specialist/SKILL.md) | Medical Billing Coding Specialist | Use when coding medical billing claims |
 | 🛒 | [retail-customer-returns](retail-customer-returns/SKILL.md) | Retail Customer Returns | Use when processing retail returns |
