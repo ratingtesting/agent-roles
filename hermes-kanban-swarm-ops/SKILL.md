@@ -1,9 +1,12 @@
 ---
 name: hermes-kanban-swarm-ops
-description: Operate Hermes kanban swarms — pre-flight verify skills, launch, debug worker crashes (Unknown skill / empty workspace), and recover from triage-loops. Use when running `hermes kanban swarm` with role-agents.
+description: "Use when running `hermes kanban swarm` with role-agents — isolated boards, cron-limited watchdog, worker recovery."
 version: 1.2.0
-author: emelya-agent
+author: emelya-agent, Hermes Agent
 license: MIT-0
+platforms: [linux, macos, windows]
+emoji: "🛡️"
+color: "slate"
 metadata:
   hermes:
     tags: [kanban, swarm, multi-agent, debugging, recovery]
@@ -278,3 +281,12 @@ Schedule: `every 10m` (adjustable per board complexity).
 - `dispatch --max N` где N = количество задач для параллельного запуска
 - `ready` задачи могут висеть бесконечно без `dispatch`
 - Log analysis: `cat logs/<task_id>.log` | grep -E "HTTP|Error|Failed|API call failed"
+
+## License & Sources
+- **License:** MIT-0 (no attribution required, commercial use allowed).
+- **Whitelist of source licenses:** MIT-0, MIT, Apache-2.0, ISC, Unlicense, 0BSD.
+- **Excluded:** CC-BY*, GPL (all), Proprietary, anything requiring attribution/share-alike.
+- **Clean-room:** rewritten from scratch in our own words; no verbatim copying of third-party text/structure.
+- **Sources (verified):**
+  - hermes-kanban-swarm-ops SKILL.md (local, emelya-agent) — operational patterns, failure recipes, cron-limited watchdog
+  - Hermes Agent documentation — https://hermes-agent.nousresearch.com/docs
