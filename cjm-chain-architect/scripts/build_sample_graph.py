@@ -36,6 +36,9 @@ for _f, _ss in STAGE_BY_FUNNEL.items():
 REQUIRED_COLS = ["phrase", "category_9", "funnel_v2", "confidence", "garbage", "count", "magnet"]
 FORBIDDEN = "title_eligibility"
 LEGACY_FUNNEL = "funnel"
+# Порог "явного брака" в confidence. НИЖЕ медианы строка не отбрасывается молча:
+# она либо берётся (широкий TOFU-спрос с 0.35 — норма), либо уходит в dropped с причиной.
+LOW_CONF = 0.25
 
 
 def read_corpus(path):
@@ -62,19 +65,20 @@ def build(path, out_dir, magnet, sample_limit, depth_min, depth_max):
     # легаси-колонка funnel игнорируется принципиально (считаем, что её читали — не должно влиять)
     pool.sort(key=lambda r: -int(float(r.get("count") or 0)))
 
-    if sample_limit and len(pool) > sample_limit:
-        # режем по стадиям пропорционально supply, чтобы не выбить одну стадию
-        by_f = collections.defaultdict(list)
+    # --- Квоты по стадиям вместо пропорции supply.
+    # Пропорция по supply выжигает целые стадии: у buyer TOFU-строки имеют
+    # confidence 0.35, режутся фильтром, и стадия исчезает полностью.
+    if sample_limit:
+        need = ["TOFU", "MOFU", "BOFU"]
+        byf = collections.defaultdict(list)
         for r in pool:
-            by_f[r["funnel_v2"]].append(r)
-        keep, quota = [], sample_limit
-        order = sorted(by_f, key=lambda f: -len(by_f[f]))
-        for f in order:
-            take = min(quota, max(1, round(sample_limit * len(by_f[f]) / len(pool))))
-            keep.extend(by_f[f][:take])
-            quota -= take
-        for r in by_f.get("BOFU", [])[max(0, sample_limit - len(keep)):]:
-            pass
+            byf[r["funnel_v2"]].append(r)
+        quota = {"TOFU": max(2, round(sample_limit * 0.40)),
+                 "MOFU": max(1, round(sample_limit * 0.30)),
+                 "BOFU": max(2, round(sample_limit * 0.30))}
+        keep = []
+        for f in need:
+            keep.extend(byf.get(f, [])[:quota[f]])
         keep.sort(key=lambda r: -int(float(r.get("count") or 0)))
         pool = keep[:sample_limit]
 
@@ -98,9 +102,12 @@ def build(path, out_dir, magnet, sample_limit, depth_min, depth_max):
         if fv not in STAGE_BY_FUNNEL:
             dropped.append({"phrase": ph, "reason": "unknown funnel_v2=%s" % fv})
             continue
+        # Фильтр уверенности МЯГКИЙ: строка не теряется, а помечается.
+        # У info-стадий confidence 0.35 — это норма ("широкий спрос"), а не брак;
+        # жёсткий порог выжигал целые стадии и ломал геометрию графа.
         conf = float(r.get("confidence") or 0)
-        if conf < med_conf:
-            dropped.append({"phrase": ph, "reason": "confidence %.2f below median %.2f -> review" % (conf, med_conf)})
+        if conf < LOW_CONF and not (fv == "TOFU" and conf <= 0.40):
+            dropped.append({"phrase": ph, "reason": "confidence %.2f below low threshold %.2f -> review" % (conf, LOW_CONF)})
             continue
         title = (r.get("jtbd_title") or "").strip()
         # хвост правим только для публикуемых узлов; здесь все узлы публикуемые
@@ -156,9 +163,19 @@ def build(path, out_dir, magnet, sample_limit, depth_min, depth_max):
 
     comparison_pool = by_stage.get("Comparison", [])
     decision_pool = by_stage.get("Decision", [])
-    if not comparison_pool and decision_pool:
-        # Comparison обязателен как развилка — берём решение и понижаем его до Comparison
-        comparison_pool = [decision_pool[0]]
+    if not comparison_pool:
+        # Comparison обязателен как развилка. Если BOFU-строки ушли в Decision,
+        # берём ЛИСТ и понижаем его до Comparison (лист остаётся отдельной строкой Decision).
+        if decision_pool:
+            if len(decision_pool) >= 2:
+                comparison_pool = [decision_pool[0]]
+            else:
+                comparison_pool = [decision_pool[0]]
+                decision_pool = []
+        elif nodes:
+            # нет ни Comparison, ни Decision — понижаем самый частотный узел
+            nodes[0]["cjm_stage"] = "Comparison"
+            comparison_pool = [nodes[0]]
 
     def wire(u, d):
         u["depth"] = d
@@ -299,6 +316,28 @@ def build(path, out_dir, magnet, sample_limit, depth_min, depth_max):
     if unassigned_share > 0.5:
         deficits.append("audience unassigned on %.1f%% of candidate rows (>50%%)" % (100 * unassigned_share))
 
+    verdict = "RED" if deficits else "GREEN"
+
+    # --- Инварианты геометрии: проверяем то, что правило запрещает ---
+    bp_nodes = [n for n in nodes if n.get("branch_point")]
+    if len(bp_nodes) != 1:
+        deficits.append("exactly one branch_point required, found %d" % len(bp_nodes))
+    elif bp_nodes[0]["cjm_stage"] != "Comparison":
+        deficits.append("branch_point must be on Comparison, found %s" % bp_nodes[0]["cjm_stage"])
+    if entries and entries[0]["cjm_stage"] != "Awareness":
+        deficits.append("entry node must be Awareness, found %s" % entries[0]["cjm_stage"])
+    if not by_stage.get("Awareness") and entries and entries[0] is not by_stage.get("Awareness", [None])[0]:
+        deficits.append("no TOFU row available for entry node (Awareness stage has no corpus supply)")
+    # depth УЗЛА = позиция от входа (1..N). Диапазон depth_min..depth_max (3..5)
+    # относится к ДЛИНЕ ПУТИ (path depth), а не к номеру узла.
+    node_depths = sorted(set(n["depth"] for n in nodes))
+    path_depths = sorted(set(p["depth"] for p in paths))
+    if path_depths and (min(path_depths) < depth_min or max(path_depths) > depth_max):
+        deficits.append("path depth %s outside allowed %d..%d" % (path_depths, depth_min, depth_max))
+    for p in paths:
+        ds = sorted({a["depth"] for a in p["articles"]})
+        if ds and ds != list(range(1, max(ds) + 1)):
+            deficits.append("%s has non-contiguous depths %s" % (p["path_id"], ds))
     verdict = "RED" if deficits else "GREEN"
 
     gate = {
