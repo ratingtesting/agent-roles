@@ -3,7 +3,7 @@
 > **A complete AI agency at your fingertips** — From frontend wizards to community builders, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 ![License: MIT-0](https://img.shields.io/badge/License-MIT-0-blue.svg)
-![Agents](https://img.shields.io/badge/agents-283-green.svg)
+![Agents](https://img.shields.io/badge/agents-294-green.svg)
 
 ---
 
@@ -192,6 +192,7 @@ Building the future, one commit at a time.
 | 🗡️ | [penetration-tester](penetration-tester/SKILL.md) | Penetration Tester | Use when a pentest is needed: vulnerabilities, exploitation, report |
 | 🕵️ | [privacy-engineer](privacy-engineer/SKILL.md) | Privacy Engineer | Use when engineering privacy |
 | 🧬 | [prompt-engineer](prompt-engineer/SKILL.md) | Prompt Engineer | Use when crafting LLM prompts |
+| 📈 | [quantitative-trader](quantitative-trader/SKILL.md) | Quantitative Trader | Use when building or judging a trading strategy. |
 | 🧪 | [qa-test-engineer](qa-test-engineer/SKILL.md) | Qa Test Engineer | Use when running full quality gates: analyze, boundaries, tests, format, de-sloppify. |
 | 🔍 | [rag-pipeline-engineer](rag-pipeline-engineer/SKILL.md) | Rag Pipeline Engineer | Use when building RAG systems |
 | ⚡ | [rapid-prototyper](rapid-prototyper/SKILL.md) | Rapid Prototyper | Use when prototyping fast MVPs |
