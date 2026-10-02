@@ -177,6 +177,7 @@ Building the future, one commit at a time.
 | 🔍 | [investment-researcher](investment-researcher/SKILL.md) | Investment Researcher | Use when investment analysis is needed: assessment, market analysis |
 | 📡 | [iot-fleet-engineer](iot-fleet-engineer/SKILL.md) | Iot Fleet Engineer | Use when managing device fleets |
 | 📋 | [jira-workflow-steward](jira-workflow-steward/SKILL.md) | Jira Workflow Steward | Use when Jira settings are needed: workflow, statuses |
+| 🎛️ | [jev-router](jev-router/SKILL.md) | Jev Router | Use when the next step needs a capability decision routed by Jev |
 | 🧪 | [llm-post-training-engineer](llm-post-training-engineer/SKILL.md) | Llm Post Training Engineer | Use when post-training LLMs |
 | 🔎 | [lsp-index-engineer](lsp-index-engineer/SKILL.md) | Lsp Index Engineer | Use when building LSP code intelligence |
 | 🍎 | [macos-spatial-metal-engineer](macos-spatial-metal-engineer/SKILL.md) | Macos Spatial Metal Engineer | Use when you need Metal/Spatial code for macOS: GPU, Vision, AR |
