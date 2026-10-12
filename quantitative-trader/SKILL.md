@@ -95,3 +95,26 @@ Deliver:
 - `trading-science` — thresholds and methodology (loaded from the same knowledge base)
 - `statistician` — study design and honest interpretation
 - `investment-researcher` — bull/bear discipline, thesis falsifiability
+
+## Falsified in our own laboratory (do not re-litigate; skip straight past these)
+
+Measured on real Alpaca data with frozen gates — these classes are DEAD here, so a new session
+must not spend the owner's budget rediscovering them:
+- Price/volume strategies (14 v1 + 9 TSMOM arms, 2021-2024 DEV + frozen EVAL, 44bps costs):
+  0/14 clear gates; all 9 arms negative median alpha. **NO EDGE.**
+- Live-model probabilistic overlay as decision source (Jev): direction accuracy 50.5%, ECE 0.44 —
+  gating on it removed 97% of entries and produced zero added value on every arm. Kelly must stay
+  disabled while ECE > 0.10.
+- Funding-carry / crowding (Binance perp): tail excess never reached t=3.0 (best 1.72) and the sign
+  flipped held-out. **NO SIGNAL.**
+- Cross-asset transfer (G7): the same frozen arms flip sign across 8 crypto assets (BTC −0.3% vs
+  DOGE +2.4%) — a per-asset-regime artifact, never count it as an edge.
+Open territory that was NOT yet falsified: genuinely new data classes (on-chain, options flow) and
+a recalibrated model — those need new probes first, cheap falsification before any pipeline.
+
+## Threshold honesty (R2 rule)
+
+A probability threshold over UNCALIBRATED model output is a placeholder, not a decision rule:
+state which it is. Make the knob visible and adjustable, journalize its value with every decision,
+and gate its legitimacy on a measured calibration error (ECE ≤ 0.10). Before that gate: the model
+may ALLOW/DENY through hard policy gates, but its numbers never size positions.
