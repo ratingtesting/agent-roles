@@ -3,7 +3,7 @@
 > **A complete AI agency at your fingertips** — From frontend wizards to community builders, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 ![License: MIT-0](https://img.shields.io/badge/License-MIT-0-blue.svg)
-![Agents](https://img.shields.io/badge/agents-294-green.svg)
+![Agents](https://img.shields.io/badge/agents-290-green.svg)
 
 ---
 
@@ -124,8 +124,10 @@ Building the future, one commit at a time.
 | Emoji | Agent | Specialty | When to Use |
 |-------|-------|-----------|-------------|
 | 🏔️ | [3d-scene-developer](3d-scene-developer/SKILL.md) | 3D Scene Developer | Use when 3D visualization of GIS data is needed |
+| ♿ | [accessibility-auditor](accessibility-auditor/SKILL.md) | Accessibility Auditor | Use when auditing interface accessibility against WCAG |
 | 🔐 | [agentic-identity-trust](agentic-identity-trust/SKILL.md) | Agentic Identity Trust | Use when an agent identity and trust scheme is needed |
 | 🤖 | [agentic-search-optimizer](agentic-search-optimizer/SKILL.md) | Agentic Search Optimizer | Use when AI agents can't complete tasks on your site. |
+| 🎛️ | [agents-orchestrator](agents-orchestrator/SKILL.md) | Agents Orchestrator | Use when orchestrating multi-agent dev pipeline |
 | 🧬 | [ai-data-remediation-engineer](ai-data-remediation-engineer/SKILL.md) | Ai Data Remediation Engineer | Use when production data is broken at scale |
 | 🤖 | [ai-developer-experience-auditor](ai-developer-experience-auditor/SKILL.md) | Ai Developer Experience Auditor | Use when auditing AI-agent compatibility / AGENTS.md / llms.txt / AI_DEVELOPMENT_RULES in a repository (machine-enforced file checks) |
 | 🤖 | [ai-engineer](ai-engineer/SKILL.md) | Ai Engineer | Use when building ML models into production |
@@ -140,6 +142,7 @@ Building the future, one commit at a time.
 | 🛡️ | [blockchain-security-auditor](blockchain-security-auditor/SKILL.md) | Blockchain Security Auditor | Use when auditing smart contracts |
 | ☁️ | [cloud-security-architect](cloud-security-architect/SKILL.md) | Cloud Security Architect | Use when cloud infrastructure security is needed |
 | 🧱 | [cms-developer](cms-developer/SKILL.md) | Cms Developer | Use when building Drupal/WordPress sites |
+| 👁️ | [code-reviewer](code-reviewer/SKILL.md) | Code Reviewer | Use when reviewing a PR for quality |
 | 🧭 | [codebase-onboarding-engineer](codebase-onboarding-engineer/SKILL.md) | Codebase Onboarding Engineer | Use when onboarding devs to a codebase |
 | 🔧 | [data-engineer](data-engineer/SKILL.md) | Data Engineer | Use when building data pipelines |
 | 🔐 | [data-privacy-officer](data-privacy-officer/SKILL.md) | Data Privacy Officer | Use when building data privacy compliance |
@@ -159,6 +162,8 @@ Building the future, one commit at a time.
 | 💰 | [finops-engineer](finops-engineer/SKILL.md) | Finops Engineer | Use when cutting cloud spend |
 | 🏛️ | [flutter-architecture-auditor](flutter-architecture-auditor/SKILL.md) | Flutter Architecture Auditor | Use when audit Clean Architecture / feature-first / Repository law / boundaries in Flutter projects (machine-enforced grep/analyze) |
 | 🗄️ | [flutter-database-storage-auditor](flutter-database-storage-auditor/SKILL.md) | Flutter Database Storage Auditor | Use when auditing Drift / local DB / caching / environments / secrets in Flutter (machine-enforced grep/analyze) |
+| 💙 | [flutter-developer](flutter-developer/SKILL.md) | Flutter Developer | Use when coding Flutter features in Clean Arch stack. |
+| 🌊 | [flutter-riverpod-auditor](flutter-riverpod-auditor/SKILL.md) | Flutter Riverpod Auditor | Use when auditing Riverpod 3 / state management / DI / auth / networking / models in Flutter. |
 | 🔒 | [flutter-security-production-auditor](flutter-security-production-auditor/SKILL.md) | Flutter Security Production Auditor | Use when auditing security / production-readiness / services-contracts / crash-reporting in Flutter (machine-enforced grep) |
 | 🧪 | [flutter-testing-qa-auditor](flutter-testing-qa-auditor/SKILL.md) | Flutter Testing Qa Auditor | Use when testing / CI/CD / reference tests (Repository, Provider, Auth, Routing, Flags, Drift) audit in Flutter (machine-enforced flutter test) |
 | 🖥️ | [frontend-developer](frontend-developer/SKILL.md) | Frontend Developer | Use when building web frontends |
@@ -173,38 +178,47 @@ Building the future, one commit at a time.
 | 🔐 | [identity-access-engineer](identity-access-engineer/SKILL.md) | Identity Access Engineer | Use when building auth/SSO/RBAC |
 | 🕸️ | [identity-graph-operator](identity-graph-operator/SKILL.md) | Identity Graph Operator | Use when resolving multi-agent identities |
 | 📷 | [image-prompt-engineer](image-prompt-engineer/SKILL.md) | Image Prompt Engineer | Use when you need a prompt for photo generation: light, optics |
+| 🚨 | [incident-responder](incident-responder/SKILL.md) | Incident Responder | Use when an incident occurred: response, post-mortem |
+| 🚨 | [incident-response-commander](incident-response-commander/SKILL.md) | Incident Response Commander | Use when running prod incidents |
 | 🏢 | [infrastructure-maintainer](infrastructure-maintainer/SKILL.md) | Infrastructure Maintainer | Use when infrastructure support is needed: updates, backups |
 | 🔍 | [investment-researcher](investment-researcher/SKILL.md) | Investment Researcher | Use when investment analysis is needed: assessment, market analysis |
 | 📡 | [iot-fleet-engineer](iot-fleet-engineer/SKILL.md) | Iot Fleet Engineer | Use when managing device fleets |
-| 📋 | [jira-workflow-steward](jira-workflow-steward/SKILL.md) | Jira Workflow Steward | Use when Jira settings are needed: workflow, statuses |
+| 🖧 | [it-service-manager](it-service-manager/SKILL.md) | It Service Manager | Use when running ITSM/ITIL |
 | 🎛️ | [jev-router](jev-router/SKILL.md) | Jev Router | Use when the next step needs a capability decision routed by Jev |
+| 📋 | [jira-workflow-steward](jira-workflow-steward/SKILL.md) | Jira Workflow Steward | Use when Jira settings are needed: workflow, statuses |
+| 🌐 | [language-translator](language-translator/SKILL.md) | Language Translator | Use when translating Spanish and English |
 | 🧪 | [llm-post-training-engineer](llm-post-training-engineer/SKILL.md) | Llm Post Training Engineer | Use when post-training LLMs |
 | 🔎 | [lsp-index-engineer](lsp-index-engineer/SKILL.md) | Lsp Index Engineer | Use when building LSP code intelligence |
 | 🍎 | [macos-spatial-metal-engineer](macos-spatial-metal-engineer/SKILL.md) | Macos Spatial Metal Engineer | Use when you need Metal/Spatial code for macOS: GPU, Vision, AR |
 | 🪡 | [minimal-change-engineer](minimal-change-engineer/SKILL.md) | Minimal Change Engineer | Use when fixing with minimal diff |
 | 📲 | [mobile-app-builder](mobile-app-builder/SKILL.md) | Mobile App Builder | Use when building mobile apps |
 | 🚀 | [mobile-release-engineer](mobile-release-engineer/SKILL.md) | Mobile Release Engineer | Use when shipping iOS/Android |
+| 🔬 | [model-qa](model-qa/SKILL.md) | Model Qa | Use when ML model audit: verification and report |
 | 🕸️ | [multi-agent-systems-architect](multi-agent-systems-architect/SKILL.md) | Multi Agent Systems Architect | Use when designing agent systems |
 | 🌐 | [network-engineer](network-engineer/SKILL.md) | Network Engineer | Use when configuring networks |
 | 🧠 | [organizational-psychologist](organizational-psychologist/SKILL.md) | Organizational Psychologist | Use when diagnosing team dynamics |
 | 📜 | [orgscript-engineer](orgscript-engineer/SKILL.md) | Orgscript Engineer | Use when modeling with OrgScript |
 | 💳 | [payments-billing-engineer](payments-billing-engineer/SKILL.md) | Payments Billing Engineer | Use when building payments/billing |
 | 🗡️ | [penetration-tester](penetration-tester/SKILL.md) | Penetration Tester | Use when a pentest is needed: vulnerabilities, exploitation, report |
+| ⏱️ | [performance-benchmarker](performance-benchmarker/SKILL.md) | Performance Benchmarker | Use when a benchmark is needed: load, metrics, speed |
 | 🕵️ | [privacy-engineer](privacy-engineer/SKILL.md) | Privacy Engineer | Use when engineering privacy |
 | 🧬 | [prompt-engineer](prompt-engineer/SKILL.md) | Prompt Engineer | Use when crafting LLM prompts |
-| 📈 | [quantitative-trader](quantitative-trader/SKILL.md) | Quantitative Trader | Use when building or judging a trading strategy. |
 | 🧪 | [qa-test-engineer](qa-test-engineer/SKILL.md) | Qa Test Engineer | Use when running full quality gates: analyze, boundaries, tests, format, de-sloppify. |
+| 📈 | [quantitative-trader](quantitative-trader/SKILL.md) | Quantitative Trader | Use when building or judging a trading strategy. |
 | 🔍 | [rag-pipeline-engineer](rag-pipeline-engineer/SKILL.md) | Rag Pipeline Engineer | Use when building RAG systems |
 | ⚡ | [rapid-prototyper](rapid-prototyper/SKILL.md) | Rapid Prototyper | Use when prototyping fast MVPs |
+| 🧐 | [reality-checker](reality-checker/SKILL.md) | Reality Checker | Use when a production-readiness check is needed |
 | 🤝 | [realtime-collaboration-engineer](realtime-collaboration-engineer/SKILL.md) | Realtime Collaboration Engineer | Use when building realtime sync |
 | 💬 | [reddit-community-builder](reddit-community-builder/SKILL.md) | Reddit Community Builder | Use when building authentic brand presence on Reddit. |
 | 👤 | [roblox-avatar-creator](roblox-avatar-creator/SKILL.md) | Roblox Avatar Creator | Use when creating Roblox UGC avatars and accessories |
 | 🎪 | [roblox-experience-designer](roblox-experience-designer/SKILL.md) | Roblox Experience Designer | Use when designing Roblox engagement loops |
 | 🔧 | [roblox-systems-scripter](roblox-systems-scripter/SKILL.md) | Roblox Systems Scripter | Use when writing server-side logic and Luau systems for Roblox |
+| 🦀 | [rust-refactoring-specialist](rust-refactoring-specialist/SKILL.md) | Rust Refactoring Specialist | Use when refactoring Rust code |
 | 🛠️ | [sales-engineer](sales-engineer/SKILL.md) | Sales Engineer | Use when a deal needs technical defense (POC, demo) |
 | 🔍 | [search-query-analyst](search-query-analyst/SKILL.md) | Search Query Analyst | Use when analyzing ad paid-search query reports |
 | 🔎 | [search-relevance-engineer](search-relevance-engineer/SKILL.md) | Search Relevance Engineer | Use when tuning search relevance |
 | 🔑 | [secrets-credential-hygiene-engineer](secrets-credential-hygiene-engineer/SKILL.md) | Secrets Credential Hygiene Engineer | Use when managing secrets and credentials in code |
+| ♿ | [section-508-specialist](section-508-specialist/SKILL.md) | Section 508 Specialist | Use when a site needs Section 508 / WCAG accessibility |
 | 🛡️ | [security-architect](security-architect/SKILL.md) | Security Architect | Use when designing a system's security model |
 | 💎 | [senior-developer](senior-developer/SKILL.md) | Senior Developer | Use when building premium Laravel |
 | 🛡️ | [senior-secops-engineer](senior-secops-engineer/SKILL.md) | Senior Secops Engineer | Use when code is checked for secrets and vulnerabilities |
@@ -219,9 +233,13 @@ Building the future, one commit at a time.
 | ☁️ | [specialized-salesforce-architect](specialized-salesforce-architect/SKILL.md) | Specialized Salesforce Architect | Use when designing Salesforce orgs within governor limits. |
 | 🛡️ | [sre](sre/SKILL.md) | Sre | Use when defining SLOs and cutting production toil. |
 | 🏃 | [swarm-runner-engineer](swarm-runner-engineer/SKILL.md) | Swarm Runner Engineer | Use when engineering the swarm runner: claim-locks, heartbeats, timeouts, agent launch. |
+| 🧭 | [swarm-strategist](swarm-strategist/SKILL.md) | Swarm Strategist | Use when running multi-agent swarm as master strategist. |
+| 📚 | [technical-writer](technical-writer/SKILL.md) | Technical Writer | Use when documentation is needed: README, API, tutorials |
+| 🖥️ | [terminal-integration-specialist](terminal-integration-specialist/SKILL.md) | Terminal Integration Specialist | Use when Swift terminal integration is needed |
 | 🎭 | [test-automation-engineer](test-automation-engineer/SKILL.md) | Test Automation Engineer | Use when E2E test automation is needed |
 | 📋 | [test-results-analyzer](test-results-analyzer/SKILL.md) | Test Results Analyzer | Use when test results analysis is needed |
 | 🎯 | [threat-detection-engineer](threat-detection-engineer/SKILL.md) | Threat Detection Engineer | Use when SIEM detections and MITRE are needed |
+| 🔧 | [tool-evaluator](tool-evaluator/SKILL.md) | Tool Evaluator | Use when tool evaluation and selection is needed |
 | 🔭 | [trend-researcher](trend-researcher/SKILL.md) | Trend Researcher | Use when researching market trends |
 | 🏛️ | [unity-architect](unity-architect/SKILL.md) | Unity Architect | Use when Unity code is tangled; SO architecture is needed. |
 | 🛠️ | [unity-editor-tool-developer](unity-editor-tool-developer/SKILL.md) | Unity Editor Tool Developer | Use when routine in Unity Editor; tools are needed. |
@@ -245,6 +263,7 @@ Building the future, one commit at a time.
 | 🛍️ | [wordpress-shopping-cart](wordpress-shopping-cart/SKILL.md) | Wordpress Shopping Cart | Use when building WooCommerce carts, checkouts, payments. |
 | 🗺️ | [workflow-architect](workflow-architect/SKILL.md) | Workflow Architect | Use when designing workflows, specifying paths |
 | ⚡ | [workflow-optimizer](workflow-optimizer/SKILL.md) | Workflow Optimizer | Use when optimizing business workflows |
+| 🕹️ | [xr-cockpit-interaction-specialist](xr-cockpit-interaction-specialist/SKILL.md) | Xr Cockpit Interaction Specialist | Use when designing XR cockpit UIs |
 | 🌐 | [xr-immersive-developer](xr-immersive-developer/SKILL.md) | Xr Immersive Developer | Use when building WebXR experiences |
 | 🫧 | [xr-interface-architect](xr-interface-architect/SKILL.md) | Xr Interface Architect | Use when designing XR spatial interfaces |
 
@@ -280,21 +299,25 @@ Turning ad spend into measurable business outcomes.
 | ✍️ | [ad-creative-strategist](ad-creative-strategist/SKILL.md) | Ad Creative Strategist | Use when creatives and copy for paid advertising |
 | 🏗️ | [aeo-foundations](aeo-foundations/SKILL.md) | Aeo Foundations | Use when auditing AI discovery: crawlers, llms.txt, tokens. |
 | 🔮 | [ai-citation-strategist](ai-citation-strategist/SKILL.md) | Ai Citation Strategist | Use when auditing brand visibility in AI answer engines. |
+| 📱 | [app-store-optimizer](app-store-optimizer/SKILL.md) | App Store Optimizer | Use when launching/app optimizing an app store listing. |
 | 🇨🇳 | [baidu-seo-specialist](baidu-seo-specialist/SKILL.md) | Baidu Seo Specialist | Use when ranking a site in Baidu's China search ecosystem. |
 | 🎬 | [bilibili-content-strategist](bilibili-content-strategist/SKILL.md) | Bilibili Content Strategist | Use when growing a brand channel on Bilibili (B站). |
+| 📘 | [book-co-author](book-co-author/SKILL.md) | Book Co-Author | Use when turning expertise into a first-person book. |
 | 🎠 | [carousel-growth-engine](carousel-growth-engine/SKILL.md) | Carousel Growth Engine | Use when auto-generating TikTok/IG carousels from a URL. |
+| 🧭 | [cjm-chain-architect](cjm-chain-architect/SKILL.md) | Cjm Chain Architect | Use when designing CJM lead-magnet content funnels (5-stage customer journey maps, converging article paths). |
 | ✍️ | [content-creator](content-creator/SKILL.md) | Content Creator | Use when planning multi-platform content campaigns. |
-| 🎯 | [jtbd-editor](jtbd-editor/SKILL.md) | JTBD Title Editor | Use when editing JTBD titles — keep phrase, improve tail by funnel stage. |
-| 📝 | [jtbd-article-writer](jtbd-article-writer/SKILL.md) | JTBD Article Writer | Use when writing full JTBD SEO articles (2000+ words) with E-E-A-T. |
 | 🎵 | [douyin-strategist](douyin-strategist/SKILL.md) | Douyin Strategist | Use when growing a brand on Douyin (China TikTok). |
 | 📧 | [email-strategist](email-strategist/SKILL.md) | Email Strategist | Use when segmentation and mailings, deliverability |
 | 🎙️ | [global-podcast-strategist](global-podcast-strategist/SKILL.md) | Global Podcast Strategist | Use when launching/growing a podcast brand. |
 | 📸 | [instagram-curator](instagram-curator/SKILL.md) | Instagram Curator | Use when building brand presence on Instagram. |
+| 📝 | [jtbd-article-writer](jtbd-article-writer/SKILL.md) | JTBD Article Writer | Use when writing full JTBD SEO articles (2000+ words) with E-E-A-T. |
+| 🎯 | [jtbd-editor](jtbd-editor/SKILL.md) | JTBD Title Editor | Use when editing JTBD titles — keep phrase, improve tail by funnel stage. |
 | 🎥 | [kuaishou-strategist](kuaishou-strategist/SKILL.md) | Kuaishou Strategist | Use when growing grassroots audiences on Kuaishou. |
 | ⏱️ | [legal-billing-time-tracking](legal-billing-time-tracking/SKILL.md) | Legal Billing Time Tracking | Use when tracking legal billing and time |
 | 💼 | [linkedin-content-creator](linkedin-content-creator/SKILL.md) | Linkedin Content Creator | Use when building thought leadership on LinkedIn. |
 | 📡 | [multi-platform-publisher](multi-platform-publisher/SKILL.md) | Multi Platform Publisher | Use when publishing one article to CN platforms. |
 | 🧲 | [offer-lead-gen-strategist](offer-lead-gen-strategist/SKILL.md) | Offer Lead Gen Strategist | Use when you need an offer and lead generation strategy |
+| 📈 | [open-source-github-growth-auditor](open-source-github-growth-auditor/SKILL.md) | Open Source Github Growth Auditor | Use when auditing GitHub adoption / open-source growth / README / topics / badges / repository discoverability. |
 | 📋 | [paid-media-auditor](paid-media-auditor/SKILL.md) | Paid Media Auditor | Use when a paid traffic audit is needed: metrics, budget waste |
 | 📱 | [paid-social-strategist](paid-social-strategist/SKILL.md) | Paid Social Strategist | Use when a paid social traffic strategy is needed: Meta, TikTok |
 | 🎧 | [podcast-strategist](podcast-strategist/SKILL.md) | Podcast Strategist | Use when launching a podcast in China's market. |
@@ -308,6 +331,7 @@ Turning ad spend into measurable business outcomes.
 | 🐦 | [twitter-engager](twitter-engager/SKILL.md) | Twitter Engager | Use when engaging in real-time on Twitter/X. |
 | 📱 | [wechat-official-account](wechat-official-account/SKILL.md) | Wechat Official Account | Use when managing a WeChat Official Account (公众号) |
 | 🔥 | [weibo-strategist](weibo-strategist/SKILL.md) | Weibo Strategist | Use when running brand operations on Weibo. |
+| 🧹 | [wordstat-corpus-cleaner](wordstat-corpus-cleaner/SKILL.md) | Wordstat Corpus Cleaner | Use when cleaning a collected search-query corpus (Wordstat) down to a relevance-graded core. |
 | 🛰️ | [x-twitter-intelligence-analyst](x-twitter-intelligence-analyst/SKILL.md) | X Twitter Intelligence Analyst | Use when X/Twitter data analysis for decision making |
 | 🌸 | [xiaohongshu-specialist](xiaohongshu-specialist/SKILL.md) | Xiaohongshu Specialist | Use when marketing lifestyle brands on Xiaohongshu. |
 
@@ -326,6 +350,7 @@ Turning pipeline into revenue through craft, not CRM busywork.
 | 🎯 | [outbound-strategist](outbound-strategist/SKILL.md) | Outbound Strategist | Use when outreach is needed: emails, sequences, targeting |
 | 📊 | [pipeline-analyst](pipeline-analyst/SKILL.md) | Pipeline Analyst | Use when a funnel analysis, forecast, and CRM deal scoring is needed |
 | 🏹 | [proposal-strategist](proposal-strategist/SKILL.md) | Proposal Strategist | Use when proposal strategy and narrative (RFP) is needed |
+| 🧾 | [resume-tailor](resume-tailor/SKILL.md) | Resume Tailor | Use when tailoring resumes to jobs |
 | 🏋️ | [sales-coach](sales-coach/SKILL.md) | Sales Coach | Use when coaching sales reps and reviewing funnels |
 | 📊 | [sales-data-extraction-agent](sales-data-extraction-agent/SKILL.md) | Sales Data Extraction Agent | Use when extracting sales metrics |
 | 🎯 | [sales-outreach](sales-outreach/SKILL.md) | Sales Outreach | Use when running B2B sales outreach |
@@ -343,6 +368,7 @@ High-level thinking that shapes products, markets, and decisions.
 | 🇨🇳 | [china-market-localization-strategist](china-market-localization-strategist/SKILL.md) | China Market Localization Strategist | Use when localizing a brand for China's platforms. |
 | 📝 | [grant-writer](grant-writer/SKILL.md) | Grant Writer | Use when writing grant proposals |
 | 🧭 | [healthcare-innovation-strategist](healthcare-innovation-strategist/SKILL.md) | Healthcare Innovation Strategist | Use when a healthcare narrative is needed: pitch, regulatory, audit |
+| 🤝 | [ma-integration-manager](ma-integration-manager/SKILL.md) | Ma Integration Manager | Use when planning integration after an M&A transaction |
 | 📜 | [narratologist](narratologist/SKILL.md) | Narratologist | Use when narrative analysis is needed: structure, genre, myth |
 | 🧭 | [specialized-chief-of-staff](specialized-chief-of-staff/SKILL.md) | Specialized Chief Of Staff | Use when supporting an executive |
 | 🌍 | [specialized-cultural-intelligence-strategist](specialized-cultural-intelligence-strategist/SKILL.md) | Specialized Cultural Intelligence Strategist | Use when auditing an interface for cultural exclusion |
@@ -359,6 +385,7 @@ From roadmap to delivery, shipping what matters.
 
 | Emoji | Agent | Specialty | When to Use |
 |-------|-------|-----------|-------------|
+| 💸 | [accounts-payable-agent](accounts-payable-agent/SKILL.md) | Accounts Payable Agent | Use when executing vendor and contractor payments |
 | 📒 | [bookkeeper-controller](bookkeeper-controller/SKILL.md) | Bookkeeper Controller | Use when bookkeeping and month-end close |
 | 💼 | [chief-financial-officer](chief-financial-officer/SKILL.md) | Chief Financial Officer | Use when governing finance and capital decisions |
 | 📄 | [document-generator](document-generator/SKILL.md) | Document Generator | Use when generating PDF/PPTX/DOCX/XLSX via code |
@@ -372,6 +399,7 @@ From roadmap to delivery, shipping what matters.
 | 🧭 | [product-manager](product-manager/SKILL.md) | Product Manager | Use when a product manager is needed: PRD, roadmap, launch |
 | 🐑 | [project-shepherd](project-shepherd/SKILL.md) | Project Shepherd | Use when cross-functional project coordination is needed |
 | 📤 | [report-distribution-agent](report-distribution-agent/SKILL.md) | Report Distribution Agent | Use when distributing sales reports |
+| 📝 | [senior-project-manager](senior-project-manager/SKILL.md) | Senior Project Manager | Use when a specification is broken into development tasks |
 | 🎯 | [sprint-prioritizer](sprint-prioritizer/SKILL.md) | Sprint Prioritizer | Use when prioritizing backlog or planning sprints. |
 | 🏭 | [studio-operations](studio-operations/SKILL.md) | Studio Operations | Use when studio operations need optimization |
 | 🎬 | [studio-producer](studio-producer/SKILL.md) | Studio Producer | Use when portfolio-level project production is needed |
@@ -382,6 +410,7 @@ Insights, evidence, and analysis that drive decisions.
 
 | Emoji | Agent | Specialty | When to Use |
 |-------|-------|-----------|-------------|
+| 📊 | [analytics-reporter](analytics-reporter/SKILL.md) | Analytics Reporter | Use when data analysis and BI reports |
 | 🌍 | [anthropologist](anthropologist/SKILL.md) | Anthropologist | Use when designing cultures and societies |
 | 📸 | [evidence-collector](evidence-collector/SKILL.md) | Evidence Collector | Use when a screenshot-based app review with factual evidence is needed |
 | 🧪 | [experiment-tracker](experiment-tracker/SKILL.md) | Experiment Tracker | Use when design, launch, and analysis of A/B experiments is needed |
@@ -427,6 +456,7 @@ Specialists for China, Korea, and global markets.
 | 🛒 | [china-ecommerce-operator](china-ecommerce-operator/SKILL.md) | China Ecommerce Operator | Use when operating a Taobao/PDD/JD store |
 | 🌏 | [cross-border-ecommerce](cross-border-ecommerce/SKILL.md) | Cross Border Ecommerce | Use when launching products on overseas marketplaces |
 | 🇰🇷 | [korean-business-navigator](korean-business-navigator/SKILL.md) | Korean Business Navigator | Use when deals and negotiations with Korean businesses |
+| 🔒 | [private-domain-operator](private-domain-operator/SKILL.md) | Private Domain Operator | Use when building WeChat private domain (SCRM). |
 | 🇫🇷 | [specialized-french-consulting-market](specialized-french-consulting-market/SKILL.md) | Specialized French Consulting Market | Use when navigating the French ESN freelance market. |
 
 ### 🏥 Specialized
@@ -441,14 +471,17 @@ Deep expertise for regulated, industry-specific, and niche domains.
 | 🌱 | [esg-sustainability-officer](esg-sustainability-officer/SKILL.md) | Esg Sustainability Officer | Use when building ESG reporting programs |
 | 🧡 | [healthcare-aging-parent-care-companion](healthcare-aging-parent-care-companion/SKILL.md) | Healthcare Aging Parent Care Companion | Use when coordinating care for an aging relative |
 | 🏥 | [healthcare-customer-service](healthcare-customer-service/SKILL.md) | Healthcare Customer Service | Use when supporting patient service inquiries |
+| 🛡️ | [hermes-kanban-swarm-ops](hermes-kanban-swarm-ops/SKILL.md) | Hermes Kanban Swarm Ops | Use when running `hermes kanban swarm` with role-agents — isolated boards, cron-limited watchdog, recovery from triage-loops |
 | 🏨 | [hospitality-guest-services](hospitality-guest-services/SKILL.md) | Hospitality Guest Services | Use when delivering hospitality guest services |
 | 🤝 | [hr-onboarding](hr-onboarding/SKILL.md) | Hr Onboarding | Use when onboarding new employees |
 | 📋 | [legal-client-intake](legal-client-intake/SKILL.md) | Legal Client Intake | Use when qualifying legal client intakes |
-| 🛡️ | [hermes-kanban-swarm-ops](hermes-kanban-swarm-ops/SKILL.md) | Hermes Kanban Swarm Ops | Use when running `hermes kanban swarm` with role-agents — isolated boards, cron-limited watchdog, recovery from triage-loops |
 | ⚖️ | [legal-document-review](legal-document-review/SKILL.md) | Legal Document Review | Use when reviewing legal documents |
 | 🏥 | [medical-billing-coding-specialist](medical-billing-coding-specialist/SKILL.md) | Medical Billing Coding Specialist | Use when coding medical billing claims |
+| 🌱 | [personal-growth-mentor](personal-growth-mentor/SKILL.md) | Personal Growth Mentor | Use when coaching personal growth goals |
+| 🏠 | [real-estate-buyer-seller](real-estate-buyer-seller/SKILL.md) | Real Estate Buyer Seller | Use when assisting real estate transactions |
 | 🛒 | [retail-customer-returns](retail-customer-returns/SKILL.md) | Retail Customer Returns | Use when processing retail returns |
 | 🌍 | [sovereign-health-systems-agent](sovereign-health-systems-agent/SKILL.md) | Sovereign Health Systems Agent | Use when engaging health ministries or sovereign markets. |
+| 💬 | [support-responder](support-responder/SKILL.md) | Support Responder | Use when customer support and answers are needed |
 
 ---
 
