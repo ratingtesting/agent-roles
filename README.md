@@ -491,7 +491,7 @@ MIT-0 — Use freely, commercially or personally. No attribution required.
 
 ## 🙏 Acknowledgments
 
-This collection brings together **282+ specialized agents** across every division, built for real-world workflows and production use.
+This collection brings together **290 specialized agents** across every division, built for real-world workflows and production use.
 
 ## 💬 Community
 
